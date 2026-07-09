@@ -176,22 +176,50 @@ This package is a static, pre-Gemini rollback build for recovery.
 
 Use this as a fresh GitHub Pages repository or as a full wipe-and-reupload baseline. Do not run the previous daily update workflow against this package.
 
-## noiz-dev daily update pipeline
+## Stable daily update restored without AI
 
-This dev build restores safe daily updates and adds Gemini in a non-destructive way.
+This v98 stable package restores the original pre-Gemini daily update pipeline.
 
-Daily update contract:
-- official/source pages become cards
-- Naver View / Google News / web search are evidence only
-- blog/search/news result titles cannot become card titles
-- Gemini can write descriptions and weekly_read only
-- Gemini cannot rewrite title, URL, rank, period, or DECIBEL score
-- if Gemini fails or no `GEMINI_API_KEY` is configured, the updater still completes with local fallback
+Included fixes:
+- fixed date extraction regex runtime error
+- fixed `merge_candidates` string-join TypeError
+- limited reuse of existing JSON data so malformed experimental data is not preserved
+- no Gemini / no external AI API
+- no `GEMINI_API_KEY` required
 
-## v97 single-experience guardrails
+## v99 official-card daily update
 
-v97 adds stronger guardrails after the first noiz-dev run:
-- roundup/listing pages such as "팝업스토어 총정리", "놀거리", "추천", "모음" are excluded as primary cards
-- cards must represent a single popup/exhibition/branded-space experience
-- `owner` and `description` describe the actual experience, not public-signal counts
-- Gemini descriptions are validated; page-like phrases such as "페이지입니다" or signal-count language fall back to local experience copy
+v99 keeps the no-AI daily update approach but fixes the main quality issue:
+- Naver View / Google News / Web Search are evidence only
+- blog/search/news titles cannot become cards
+- roundup/listing pages such as "총정리", "놀거리", "추천", "모음" are excluded as primary cards
+- card owner/description are experience overview copy, not signal-count system text
+
+## v100 stable seed fallback
+
+v100 keeps the no-AI official-card pipeline from v99, but adds a static stable seed fallback.
+
+Why:
+- v99 fixed the Naver/Google card problem, but it could become too strict and leave only one card.
+- v100 uses live official/source-page crawl first.
+- If the live crawl returns too few current cards, it fills the remaining slots from the recovered pre-Gemini stable data.
+- Seed fallback cards are still filtered by dates and search/review URL rules.
+
+## v101 Gemini curator inventory pipeline
+
+Dev-only automation experiment.
+
+Pipeline:
+1. crawl official/source pages
+2. Gemini judges whether each candidate is a single real-world popup/exhibition/space experience
+3. accepted candidates merge into `data/event-inventory.json`
+4. Google News/search evidence is used only as reaction signal
+5. Gemini performs final editorial curation for descriptions and weekly read
+6. hard validation rejects review/search/listing URLs and aggregate titles
+7. if fewer than 8 cards pass, `data/noiz-draft-review.json` is written and existing `data/noiz-data.json` is kept
+
+## v102 Gemini curator seed guard
+
+v102 fixes the sparse-output problem seen in v101.
+
+If live/Gemini-curated inventory returns too few active events, the updater fills the list from `data/noiz-curation-seed.json`, which is based on the manually curated weekly set. This keeps dev from publishing a 1–2 card page while still allowing Gemini to add newly accepted events into the inventory over time.
