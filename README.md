@@ -175,3 +175,15 @@ This package is a static, pre-Gemini rollback build for recovery.
 - latest accepted UI files kept
 
 Use this as a fresh GitHub Pages repository or as a full wipe-and-reupload baseline. Do not run the previous daily update workflow against this package.
+
+## noiz-dev daily update pipeline
+
+This dev build restores safe daily updates and adds Gemini in a non-destructive way.
+
+Daily update contract:
+- official/source pages become cards
+- Naver View / Google News / web search are evidence only
+- blog/search/news result titles cannot become card titles
+- Gemini can write descriptions and weekly_read only
+- Gemini cannot rewrite title, URL, rank, period, or DECIBEL score
+- if Gemini fails or no `GEMINI_API_KEY` is configured, the updater still completes with local fallback
