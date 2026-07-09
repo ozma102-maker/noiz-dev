@@ -1,0 +1,2100 @@
+{
+  "sourceCatalog": [
+    {
+      "key": "official",
+      "name": "Official websites",
+      "type": "primary",
+      "note": "국현·서울시립·갤러리/미술관 공식 전시 페이지. 공개 DB의 기준 소스."
+    },
+    {
+      "key": "artmap",
+      "name": "ARTMAP",
+      "type": "aggregator",
+      "note": "현재 인기 전시/추천 전시 발견 및 날짜 교차 확인용."
+    },
+    {
+      "key": "daljin",
+      "name": "서울아트가이드/김달진",
+      "type": "aggregator",
+      "note": "월간 전시 정보와 아카이브성 리스트 확인용."
+    },
+    {
+      "key": "neolook",
+      "name": "NEOLOOK",
+      "type": "archive",
+      "note": "진행/준비 중 전시 아카이브. 상세 포스터형 정보 확인에 유용."
+    },
+    {
+      "key": "instagram",
+      "name": "Instagram reference",
+      "type": "reference",
+      "note": "Seoul Art Friend류 계정의 큐레이션 방식 참고. 무단 자동 수집은 비권장."
+    },
+    {
+      "key": "ocula",
+      "name": "Ocula / Frieze / Artsy",
+      "type": "market",
+      "note": "상업 갤러리 전시 발견 및 교차 확인. 최종 공개는 공식 링크 우선."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "mmca-conceptual-2026-official",
+      "title": "This is (Not) Conceptual Art",
+      "artist": "Group exhibition",
+      "venue": "국립현대미술관 서울",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "삼청/종로",
+      "area": "삼청",
+      "start": "2026-06-19",
+      "end": "2026-10-11",
+      "tags": [
+        "conceptual",
+        "museum",
+        "contemporary"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 96,
+      "note": "국립현대미술관 서울관 현재 전시. 개념미술을 둘러싼 언어와 제도적 맥락을 확인하기 좋은 미술관급 전시.",
+      "url": "https://www.mmca.go.kr/eng/exhibitions/progressList.do",
+      "sourceKey": "official",
+      "sourceName": "MMCA official",
+      "editorialDescription": "개념미술을 둘러싼 언어, 제도, 기록의 방식을 살피는 기획전. 작품이 물성보다 아이디어와 맥락으로 작동하는 순간을 보여준다.",
+      "overview": "개념미술의 언어와 제도적 맥락을 살피는 기획전."
+    },
+    {
+      "id": "sema-yoo-2026-official",
+      "title": "유영국: A Mountain Within Me",
+      "artist": "유영국",
+      "venue": "서울시립미술관 서소문본관",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "중구",
+      "area": "중구",
+      "start": "2026-05-19",
+      "end": "2026-10-25",
+      "tags": [
+        "painting",
+        "archive",
+        "museum",
+        "korean modern"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 98,
+      "note": "서울시립미술관 서소문본관의 한국 근현대 거장급 전시. 회화, 부조, 사진, 드로잉, 아카이브를 함께 볼 수 있는 구조.",
+      "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1529410",
+      "sourceKey": "official",
+      "sourceName": "SeMA official",
+      "editorialDescription": "산과 자연을 추상 회화의 구조로 밀어붙인 유영국의 대규모 전시. 색면, 리듬, 형태가 어떻게 한국 근현대 추상의 핵심 언어가 되는지 보기 좋다.",
+      "overview": "산과 자연을 추상 회화의 구조로 밀어붙인 유영국 회고적 전시."
+    },
+    {
+      "id": "sema-kwon-2026-official",
+      "title": "권병준: 내 마음속에 너는",
+      "artist": "권병준",
+      "venue": "서울시립 북서울미술관",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "노원",
+      "area": "노원",
+      "start": "2026-06-11",
+      "end": "2027-05-16",
+      "tags": [
+        "media",
+        "sound",
+        "museum",
+        "kids"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 95,
+      "note": "북서울미술관 B1 전시실의 미디어아트 전시. 장기 진행 전시라 월간 리스트에 안정적으로 남는 항목.",
+      "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1538201",
+      "sourceKey": "official",
+      "sourceName": "SeMA official",
+      "editorialDescription": "소리, 기계, 신체 감각이 결합된 미디어아트 전시. 보는 전시라기보다 듣고 움직이며 체감하는 경험에 가깝다.",
+      "overview": "소리와 신체 감각이 결합된 체험형 미디어아트 전시."
+    },
+    {
+      "id": "sema-heosuin-2026-official",
+      "title": "사적인 프로토콜",
+      "artist": "허수인",
+      "venue": "서울시립미술관",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "서울",
+      "area": "서울",
+      "start": "2026-07-01",
+      "end": "2026-07-18",
+      "tags": [
+        "young artist",
+        "project",
+        "museum"
+      ],
+      "recommended": false,
+      "needsReview": true,
+      "confidence": 72,
+      "note": "서울시립미술관 2026 신진미술인 지원 프로그램으로 포착됨. 세부 전시장/공간 확인 후 공개 권장.",
+      "url": "https://sema.seoul.go.kr/kr/whatson/landing",
+      "sourceKey": "official",
+      "sourceName": "SeMA listing",
+      "editorialDescription": "허수인의 작업을 중심으로 젊은 작가·project·미술관 전시의 흐름을 보여주는 전시. 미술관 규모의 맥락 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "허수인의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "kukje-objects-2026-official",
+      "title": "Objects in Oscillation / 진동하는 사물들",
+      "artist": "Chung Heeseung, Jo Seongyeon, Jung Junho, Kim Kyoungtae, Kim Sookang, Koo Bohnchang 외",
+      "venue": "국제갤러리 K1/K2",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-06-09",
+      "end": "2026-07-19",
+      "tags": [
+        "photography",
+        "group",
+        "gallery"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 96,
+      "note": "국제갤러리 K1/K2에서 진행 중인 사진 중심 기획전. 삼청 동선의 핵심 체크 포인트.",
+      "url": "https://www.kukjegallery.com/exhibitions",
+      "sourceKey": "official",
+      "sourceName": "Kukje official",
+      "editorialDescription": "사진과 사물이 서로의 경계를 흔드는 그룹전. 이미지가 단순한 재현을 넘어 물성, 표면, 시간의 감각으로 확장되는 지점을 다룬다.",
+      "overview": "사진과 사물의 경계를 흔드는 사진 중심 그룹전."
+    },
+    {
+      "id": "kukje-mapplethorpe-2026-official",
+      "title": "The Poetics of Form / 형태의 시학",
+      "artist": "Robert Mapplethorpe",
+      "venue": "국제갤러리 서울 한옥",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-06-09",
+      "end": "2026-07-19",
+      "tags": [
+        "photography",
+        "solo",
+        "gallery"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 96,
+      "note": "국제갤러리 한옥 공간의 로버트 메이플소프 전시. 공간성과 작가성이 강하게 맞물리는 항목.",
+      "url": "https://www.kukjegallery.com/exhibitions",
+      "sourceKey": "official",
+      "sourceName": "Kukje official",
+      "editorialDescription": "로버트 메이플소프의 사진이 가진 조형성과 균형감을 중심으로 보는 전시. 인물, 신체, 사물의 형태가 고전적인 긴장감으로 정리된다.",
+      "overview": "로버트 메이플소프 사진의 조형성과 균형감을 보는 전시."
+    },
+    {
+      "id": "hyundai-bradford-2026-official",
+      "title": "Katherine Bradford: Living a Dream",
+      "artist": "Katherine Bradford",
+      "venue": "갤러리현대",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-05-27",
+      "end": "2026-07-12",
+      "tags": [
+        "painting",
+        "solo",
+        "gallery"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 95,
+      "note": "갤러리현대 본관급 전시. 7월 둘째 주 종료 예정이라 주간 리스트에서 마감 임박으로 강조.",
+      "url": "https://www.galleryhyundai.com/exhibition/onview",
+      "sourceKey": "official",
+      "sourceName": "Gallery Hyundai official",
+      "editorialDescription": "몽환적인 색면과 느슨한 인물 형상이 중심이 되는 회화 전시. 꿈, 밤, 물, 몸의 감각이 섞인 장면을 통해 일상적인 풍경을 비현실적인 분위기로 밀어붙인다.",
+      "overview": "몽환적 색면과 느슨한 인물 형상이 중심이 되는 회화 전시."
+    },
+    {
+      "id": "hyundai-bradford-2026-frieze",
+      "title": "Katherine Bradford: Living a Dream",
+      "artist": "Katherine Bradford",
+      "venue": "갤러리현대",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-05-27",
+      "end": "2026-07-12",
+      "tags": [
+        "painting",
+        "solo",
+        "gallery"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 82,
+      "note": "Frieze 갤러리 프로필에서 동일 전시로 감지된 중복 후보.",
+      "url": "https://www.frieze.com/gallery/gallery-hyundai",
+      "sourceKey": "ocula",
+      "sourceName": "Frieze gallery profile",
+      "editorialDescription": "몽환적인 색면과 느슨한 인물 형상이 중심이 되는 회화 전시. 꿈, 밤, 물, 몸의 감각이 섞인 장면을 통해 일상적인 풍경을 비현실적인 분위기로 밀어붙인다.",
+      "overview": "몽환적 색면과 느슨한 인물 형상이 중심이 되는 회화 전시."
+    },
+    {
+      "id": "hyundai-sauve-2026-official",
+      "title": "SAUVE QUI PEUT",
+      "artist": "Group exhibition",
+      "venue": "갤러리현대",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-06-23",
+      "end": "2026-07-25",
+      "tags": [
+        "group",
+        "gallery",
+        "contemporary"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 92,
+      "note": "갤러리현대의 여름 시즌 기획전. 소스별 날짜가 하루 정도 차이 나는 항목이라 병합 로그에서 충돌 표시.",
+      "url": "https://www.galleryhyundai.com/exhibition/onview",
+      "sourceKey": "official",
+      "sourceName": "Gallery Hyundai official",
+      "editorialDescription": "여러 작가의 작업을 통해 불안정한 시대의 감각과 생존의 태도를 묶어보는 그룹전. 하나의 주제보다 서로 다른 시각적 긴장이 만들어내는 분위기가 중요하다.",
+      "overview": "불안정한 시대의 감각과 생존의 태도를 묶어보는 그룹전."
+    },
+    {
+      "id": "hyundai-sauve-2026-frieze",
+      "title": "SAUVE QUI PEUT",
+      "artist": "Group exhibition",
+      "venue": "갤러리현대",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-06-24",
+      "end": "2026-07-26",
+      "tags": [
+        "group",
+        "gallery",
+        "contemporary"
+      ],
+      "recommended": true,
+      "needsReview": true,
+      "confidence": 76,
+      "note": "Frieze/Artsy 계열에서 감지된 날짜 후보. 공식 페이지와 날짜 차이가 있어 검토 필요.",
+      "url": "https://www.frieze.com/gallery/gallery-hyundai",
+      "sourceKey": "ocula",
+      "sourceName": "Frieze / market listing",
+      "editorialDescription": "여러 작가의 작업을 통해 불안정한 시대의 감각과 생존의 태도를 묶어보는 그룹전. 하나의 주제보다 서로 다른 시각적 긴장이 만들어내는 분위기가 중요하다.",
+      "overview": "불안정한 시대의 감각과 생존의 태도를 묶어보는 그룹전."
+    },
+    {
+      "id": "pkm-keunmin-2026-ocula",
+      "title": "Before It Becomes a Scene",
+      "artist": "Keunmin Lee",
+      "venue": "PKM 갤러리",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-06-10",
+      "end": "2026-07-25",
+      "tags": [
+        "painting",
+        "solo",
+        "gallery",
+        "young artist"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 88,
+      "note": "PKM 갤러리의 이근민 개인전. 회화가 장면으로 고정되기 전의 불안정한 형상과 심리적 긴장을 중심으로 볼 수 있는 전시.",
+      "url": "https://www.pkmgallery.com/",
+      "sourceKey": "official",
+      "sourceName": "PKM official / Ocula cross-check",
+      "editorialDescription": "이근민의 회화가 장면으로 고정되기 직전의 불안정한 형상과 감각을 보여주는 개인전. 인물, 환각, 심리적 압력이 뒤엉키는 지점이 핵심이다.",
+      "description": "이근민의 회화가 장면으로 고정되기 직전의 불안정한 형상과 감각을 보여주는 개인전. 인물, 환각, 심리적 압력이 뒤엉키는 지점이 핵심이다.",
+      "overview": "이근민 회화의 불안정한 형상과 심리적 긴장을 다루는 개인전."
+    },
+    {
+      "id": "ocula-arario-jihyun-2026",
+      "title": "Fantasma: Restless Silence",
+      "artist": "Jihyun Lee",
+      "venue": "아라리오갤러리 서울",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "삼청",
+      "area": "삼청",
+      "start": "2026-07-01",
+      "end": "2026-08-15",
+      "tags": [
+        "solo",
+        "gallery",
+        "contemporary"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 78,
+      "note": "Ocula 서울 전시 리스트에서 포착. 공식 갤러리 페이지 교차 확인 후 안정화하면 좋음.",
+      "url": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceKey": "ocula",
+      "sourceName": "Ocula Seoul exhibitions",
+      "editorialDescription": "Jihyun Lee의 작업을 중심으로 개인전·갤러리 전시·동시대미술의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "Jihyun Lee의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "ocula-baton-bae-2026",
+      "title": "Heavy Breathers",
+      "artist": "Bae Yoon Hwan",
+      "venue": "갤러리바톤",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "한남",
+      "area": "한남",
+      "start": "2026-06-27",
+      "end": "2026-07-31",
+      "tags": [
+        "solo",
+        "painting",
+        "gallery"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 78,
+      "note": "한남권 동선에서 체크할 수 있는 Gallery Baton 전시. 회화 기반 관심자에게 우선 노출.",
+      "url": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceKey": "ocula",
+      "sourceName": "Ocula Seoul exhibitions",
+      "editorialDescription": "Bae Yoon Hwan의 작업을 중심으로 개인전·회화·갤러리 전시의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "Bae Yoon Hwan의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "ocula-page-kuho-2026",
+      "title": "白骨銅 BAEK GOL DONG",
+      "artist": "Kuho Jung",
+      "venue": "더페이지갤러리",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "성수",
+      "area": "성수",
+      "start": "2026-06-26",
+      "end": "2026-07-24",
+      "tags": [
+        "solo",
+        "design",
+        "gallery"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 76,
+      "note": "성수권 갤러리 동선에 들어갈 수 있는 전시. 매체 태그는 공식 확인 후 조정 권장.",
+      "url": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceKey": "ocula",
+      "sourceName": "Ocula Seoul exhibitions",
+      "editorialDescription": "Kuho Jung의 작업을 중심으로 개인전·디자인·갤러리 전시의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "Kuho Jung의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "ocula-caption-vanilla-2026",
+      "title": "Vanilla",
+      "artist": "Group exhibition",
+      "venue": "캡션 서울",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "서울",
+      "area": "서울",
+      "start": "2026-06-20",
+      "end": "2026-07-12",
+      "tags": [
+        "group",
+        "gallery",
+        "young artist"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 74,
+      "note": "젊은 갤러리/프로젝트 스페이스 성격으로 분류 가능한 전시. 세부 참여 작가 확인 후 편집 코멘트 추가.",
+      "url": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceKey": "ocula",
+      "sourceName": "Ocula Seoul exhibitions",
+      "editorialDescription": "여러 작가의 작업을 묶어 그룹전·갤러리 전시·젊은 작가의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "동시대미술의 형식과 분위기를 살펴볼 수 있는 전시."
+    },
+    {
+      "id": "ocula-songeun-jun-2026",
+      "title": "Endoskopeia",
+      "artist": "Jun Hyejoo",
+      "venue": "송은",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "청담",
+      "area": "청담",
+      "start": "2026-06-19",
+      "end": "2026-08-01",
+      "tags": [
+        "solo",
+        "institution",
+        "contemporary"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 80,
+      "note": "송은에서 진행 중인 전시. 청담권 미술 동선의 주요 기관 항목.",
+      "url": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceKey": "ocula",
+      "sourceName": "Ocula Seoul exhibitions",
+      "editorialDescription": "송은에서 진행되는 동시대미술 전시. 내면을 들여다보는 듯한 제목처럼 시선, 구조, 감각의 안쪽을 탐색하는 흐름으로 읽힌다.",
+      "overview": "시선과 감각의 안쪽을 탐색하는 동시대미술 전시."
+    },
+    {
+      "id": "ggallery-faisandage-2026-official",
+      "title": "Faisandage",
+      "artist": "Woo Hannah, Choi Sujin, Shuyi Cao",
+      "venue": "G갤러리",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "강남",
+      "area": "강남",
+      "start": "2026-07-01",
+      "end": "2026-07-31",
+      "tags": [
+        "group",
+        "gallery",
+        "young artist",
+        "sculpture"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 86,
+      "note": "G Gallery 공식 전시 페이지 검색 결과에서 2026년 7월 1일–31일 예정 전시로 확인. Seoul Art Friend 7/1 오픈 리스트와 교차 반영한 항목.",
+      "url": "https://www.ggallery.kr/exhibitions",
+      "sourceKey": "official",
+      "sourceName": "G Gallery official / Seoul Art Friend cross-check",
+      "editorialDescription": "여러 작가의 작업을 묶어 그룹전·갤러리 전시·젊은 작가의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "Woo Hannah, Choi Sujin, Shuyi Cao의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "wwnn-july-1-2026-instagram-candidate",
+      "title": "WWNN July 1 opening — title TBC",
+      "artist": "TBC",
+      "venue": "WWNN",
+      "venueType": "nonprofit",
+      "city": "서울",
+      "district": "서울",
+      "area": "서울",
+      "start": "2026-07-01",
+      "end": "2026-07-31",
+      "tags": [
+        "nonprofit",
+        "young artist",
+        "needs verification"
+      ],
+      "recommended": false,
+      "needsReview": true,
+      "confidence": 45,
+      "note": "Seoul Art Friend에서 7/1 오픈 후보로 확인된 항목. 공식 홈페이지에서 제목·참여작가·종료일을 안정적으로 추출하지 못해 검수 대기 상태로 노출.",
+      "url": "https://wwnn.kr/",
+      "sourceKey": "instagram",
+      "sourceName": "Seoul Art Friend reference / WWNN official check needed",
+      "editorialDescription": "동시대 작가들의 작업을 중심으로 nonprofit·젊은 작가·needs verification의 흐름을 보여주는 전시. 대안공간 특유의 실험성 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "동시대미술의 형식과 분위기를 살펴볼 수 있는 전시."
+    },
+    {
+      "id": "artmap-toledo-2026",
+      "title": "렘브란트에서 고야까지 : 톨레도 미술관 명작展",
+      "artist": "Rembrandt, Goya 외",
+      "venue": "더현대 서울 ALT.1",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "여의도",
+      "area": "여의도",
+      "start": "2026-03-21",
+      "end": "2026-07-04",
+      "tags": [
+        "museum",
+        "old masters",
+        "paid"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 82,
+      "note": "ARTMAP 인기 전시에서 포착. 순수 동시대 미술은 아니지만, 대형 미술 전시로 주간 종료 임박 노출 가치가 있음.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "렘브란트, 고야 등 서양미술사의 주요 작가들을 통해 고전 회화의 밀도와 시대적 변화를 확인하는 명작전.",
+      "overview": "서양 고전 회화의 밀도와 시대적 변화를 보는 명작전."
+    },
+    {
+      "id": "artmap-picturebook-2026",
+      "title": "그림책이 살아있다!",
+      "artist": "Group exhibition",
+      "venue": "소마미술관",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "송파",
+      "area": "송파",
+      "start": "2026-04-17",
+      "end": "2026-09-06",
+      "tags": [
+        "museum",
+        "illustration",
+        "family"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 82,
+      "note": "소마미술관 장기 진행 전시. 가족/대중형 전시로 별도 카테고리에 둘 수 있음.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "동시대 작가들의 작업을 중심으로 미술관 전시·일러스트레이션·가족 관람의 흐름을 보여주는 전시. 미술관 규모의 맥락 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "동시대미술의 형식과 분위기를 살펴볼 수 있는 전시."
+    },
+    {
+      "id": "artmap-omg-jeong-2026",
+      "title": "사유를 앞질러 Outruns Thought",
+      "artist": "정보경",
+      "venue": "OMG 서울",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "서울",
+      "area": "서울",
+      "start": "2026-06-12",
+      "end": "2026-07-05",
+      "tags": [
+        "solo",
+        "gallery",
+        "painting"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 80,
+      "note": "7월 첫 주 종료 전시. ARTMAP 기반 포착 후 공식/인스타 확인을 권장.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "정보경의 작업을 중심으로 개인전·갤러리 전시·회화의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "정보경의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "artmap-suwon-panorama-2026",
+      "title": "블랑 블랙 파노라마",
+      "artist": "Collection exhibition",
+      "venue": "수원시립미술관",
+      "venueType": "museum",
+      "city": "경기",
+      "district": "수원",
+      "area": "경기",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
+      "tags": [
+        "collection",
+        "museum",
+        "gyeonggi"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 82,
+      "note": "수도권 확장 범위에 포함되는 수원시립미술관 장기 소장품전.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "Collection exhibition의 작업을 중심으로 소장품·미술관 전시·gyeonggi의 흐름을 보여주는 전시. 미술관 규모의 맥락 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "Collection exhibition의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "artmap-soma-seungtaek-2026",
+      "title": "조각의 바깥에서 At the Edge of Sculpture",
+      "artist": "이승택",
+      "venue": "소마미술관",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "송파",
+      "area": "송파",
+      "start": "2026-04-10",
+      "end": "2026-07-26",
+      "tags": [
+        "sculpture",
+        "solo",
+        "museum"
+      ],
+      "recommended": true,
+      "needsReview": false,
+      "confidence": 84,
+      "note": "소마미술관 이승택 개인전. 조각/설치 계열 주요 전시로 추천 리스트에 포함.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "이승택의 조각적 실험을 통해 조각이 물질, 행위, 공간으로 확장되는 방식을 보여주는 전시. 전통적인 조각 개념의 바깥을 확인할 수 있다.",
+      "overview": "이승택의 조각적 실험과 확장된 조각 개념을 보는 전시."
+    },
+    {
+      "id": "artmap-staging-2026",
+      "title": "Staging",
+      "artist": "김태동, 이요나",
+      "venue": "스페이스 이수",
+      "venueType": "gallery",
+      "city": "서울",
+      "district": "서초",
+      "area": "서초",
+      "start": "2026-04-24",
+      "end": "2026-07-10",
+      "tags": [
+        "photography",
+        "video",
+        "gallery"
+      ],
+      "recommended": false,
+      "needsReview": false,
+      "confidence": 80,
+      "note": "서초권 공간 전시. 제목이 짧아 중복 위험이 있으므로 작가/공간명과 함께 병합해야 함.",
+      "url": "https://art-map.co.kr/",
+      "sourceKey": "artmap",
+      "sourceName": "ARTMAP",
+      "editorialDescription": "김태동, 이요나의 작업을 중심으로 사진·영상·갤러리 전시의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "overview": "김태동, 이요나의 작업 세계를 중심으로 구성된 미술 전시."
+    },
+    {
+      "id": "pompidou-hanwha-cubists-2026-news",
+      "title": "The Cubists: Inventing Modern Vision",
+      "artist": "Picasso, Braque 외",
+      "venue": "퐁피두센터 한화 서울",
+      "venueType": "museum",
+      "city": "서울",
+      "district": "여의도",
+      "area": "여의도",
+      "start": "2026-06-04",
+      "end": "2026-10-31",
+      "tags": [
+        "museum",
+        "modern",
+        "paid",
+        "needs date check"
+      ],
+      "recommended": true,
+      "needsReview": true,
+      "confidence": 65,
+      "note": "뉴스 보도 기반으로 6월 개관 및 10월까지 진행으로 파악. 정확한 종료일은 공식 페이지 확인 후 공개 권장.",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/06/05/seoul-s-centre-pompidou-hanwha-aims-to-build-a-cultural-bridge-between-france-and-south-korea_6754154_30.html",
+      "sourceKey": "official",
+      "sourceName": "News / official check needed",
+      "editorialDescription": "입체주의를 중심으로 근대적 시각이 어떻게 분해되고 재구성되었는지 보여주는 전시. 피카소와 브라크 이후의 시각 언어를 따라가기 좋다.",
+      "overview": "입체주의를 통해 근대적 시각의 분해와 재구성을 보는 전시."
+    }
+  ],
+  "venues": [
+    [
+      "국립현대미술관 서울",
+      "museum",
+      "서울",
+      "삼청",
+      "https://www.mmca.go.kr/",
+      "https://www.instagram.com/mmcakorea/"
+    ],
+    [
+      "국립현대미술관 과천",
+      "museum",
+      "경기",
+      "과천",
+      "https://www.mmca.go.kr/",
+      "https://www.instagram.com/mmcakorea/"
+    ],
+    [
+      "국립현대미술관 덕수궁",
+      "museum",
+      "서울",
+      "중구",
+      "https://www.mmca.go.kr/",
+      "https://www.instagram.com/mmcakorea/"
+    ],
+    [
+      "서울시립미술관 서소문본관",
+      "museum",
+      "서울",
+      "중구",
+      "https://sema.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "서울시립 북서울미술관",
+      "museum",
+      "서울",
+      "노원",
+      "https://sema.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "서울시립 남서울미술관",
+      "museum",
+      "서울",
+      "관악",
+      "https://sema.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "세마 벙커",
+      "museum",
+      "서울",
+      "여의도",
+      "https://sema.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "난지미술창작스튜디오",
+      "nonprofit",
+      "서울",
+      "난지",
+      "https://semananji.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "서울시립 사진미술관",
+      "museum",
+      "서울",
+      "도봉",
+      "#",
+      "https://www.instagram.com/seoulmuseumofart/"
+    ],
+    [
+      "리움미술관",
+      "museum",
+      "서울",
+      "한남",
+      "https://www.leeumhoam.org/leeum",
+      "https://www.instagram.com/leeummuseumofart/"
+    ],
+    [
+      "호암미술관",
+      "museum",
+      "경기",
+      "용인",
+      "https://www.leeumhoam.org/hoam",
+      "https://www.instagram.com/hoam_museum_of_art/"
+    ],
+    [
+      "아모레퍼시픽미술관",
+      "museum",
+      "서울",
+      "용산",
+      "https://apma.amorepacific.com/",
+      "https://www.instagram.com/apma_official/"
+    ],
+    [
+      "아트선재센터",
+      "museum",
+      "서울",
+      "삼청",
+      "https://artsonje.org/",
+      "https://www.instagram.com/artsonje_center/"
+    ],
+    [
+      "송은",
+      "museum",
+      "서울",
+      "청담",
+      "https://www.songeun.or.kr/",
+      "https://www.instagram.com/songeun_art_space/"
+    ],
+    [
+      "일민미술관",
+      "museum",
+      "서울",
+      "광화문",
+      "https://ilmin.org/",
+      "https://www.instagram.com/ilminmuseumofart/"
+    ],
+    [
+      "금호미술관",
+      "museum",
+      "서울",
+      "삼청",
+      "https://www.kumhomuseum.com/",
+      "https://www.instagram.com/kumhomuseum/"
+    ],
+    [
+      "대림미술관",
+      "museum",
+      "서울",
+      "서촌",
+      "https://www.daelimmuseum.org/",
+      "https://www.instagram.com/daelimmuseum/"
+    ],
+    [
+      "디뮤지엄",
+      "museum",
+      "서울",
+      "성수",
+      "https://www.daelimmuseum.org/",
+      "https://www.instagram.com/daelimmuseum/"
+    ],
+    [
+      "롯데뮤지엄",
+      "museum",
+      "서울",
+      "송파",
+      "https://www.lottemuseum.com/",
+      "https://www.instagram.com/lottemuseum/"
+    ],
+    [
+      "소마미술관",
+      "museum",
+      "서울",
+      "송파",
+      "https://soma.kspo.or.kr/",
+      "https://www.instagram.com/somamuseum/"
+    ],
+    [
+      "예술의전당 한가람미술관",
+      "museum",
+      "서울",
+      "서초",
+      "https://www.sac.or.kr/",
+      "https://www.instagram.com/seoul_arts_center/"
+    ],
+    [
+      "예술의전당 한가람디자인미술관",
+      "museum",
+      "서울",
+      "서초",
+      "https://www.sac.or.kr/",
+      "https://www.instagram.com/seoul_arts_center/"
+    ],
+    [
+      "서울공예박물관",
+      "museum",
+      "서울",
+      "안국",
+      "https://craftmuseum.seoul.go.kr/",
+      "https://www.instagram.com/seoulmuseumofcraftart/"
+    ],
+    [
+      "서울미술관",
+      "museum",
+      "서울",
+      "평창동",
+      "#",
+      ""
+    ],
+    [
+      "토탈미술관",
+      "museum",
+      "서울",
+      "평창동",
+      "https://totalmuseum.org/",
+      "https://www.instagram.com/totalmuseum/"
+    ],
+    [
+      "사비나미술관",
+      "museum",
+      "서울",
+      "은평",
+      "https://www.savinamuseum.com/",
+      "https://www.instagram.com/savinamuseum/"
+    ],
+    [
+      "OCI미술관",
+      "museum",
+      "서울",
+      "종로",
+      "https://ocimuseum.org/",
+      "https://www.instagram.com/ocimuseum/"
+    ],
+    [
+      "코리아나미술관 스페이스 씨",
+      "museum",
+      "서울",
+      "압구정",
+      "https://spacec.co.kr/",
+      "https://www.instagram.com/coreanamuseum/"
+    ],
+    [
+      "플랫폼엘 컨템포러리 아트센터",
+      "museum",
+      "서울",
+      "Nonhyeon",
+      "https://platform-l.org/",
+      "https://www.instagram.com/platform_l/"
+    ],
+    [
+      "아르코미술관",
+      "museum",
+      "서울",
+      "대학로",
+      "https://www.arko.or.kr/artcenter/",
+      "https://www.instagram.com/arko_artcenter/"
+    ],
+    [
+      "아트센터 나비",
+      "museum",
+      "서울",
+      "종로",
+      "https://www.nabi.or.kr/",
+      "https://www.instagram.com/artcenternabi/"
+    ],
+    [
+      "KF갤러리",
+      "museum",
+      "서울",
+      "중구",
+      "https://www.kf.or.kr/",
+      "https://www.instagram.com/koreafoundation/"
+    ],
+    [
+      "Korea Society of Contemporary Art / KOSA Space",
+      "nonprofit",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "더현대 서울 ALT.1",
+      "museum",
+      "서울",
+      "여의도",
+      "https://www.thehyundai.com/",
+      ""
+    ],
+    [
+      "퐁피두센터 한화 서울",
+      "museum",
+      "서울",
+      "여의도",
+      "#",
+      ""
+    ],
+    [
+      "수원시립미술관",
+      "museum",
+      "경기",
+      "수원",
+      "https://suma.suwon.go.kr/",
+      ""
+    ],
+    [
+      "경기도미술관",
+      "museum",
+      "경기",
+      "안산",
+      "https://gmoma.ggcf.kr/",
+      "https://www.instagram.com/ggcf.kr/"
+    ],
+    [
+      "백남준아트센터",
+      "museum",
+      "경기",
+      "용인",
+      "https://njp.ggcf.kr/",
+      "https://www.instagram.com/namjunepaikartcenter/"
+    ],
+    [
+      "아트센터 화이트블럭",
+      "museum",
+      "경기",
+      "파주",
+      "https://whiteblock.org/",
+      "https://www.instagram.com/whiteblock_official/"
+    ],
+    [
+      "파라다이스 아트스페이스",
+      "museum",
+      "인천",
+      "영종",
+      "https://www.p-city.com/front/artSpace/overview",
+      "https://www.instagram.com/paradisecity_seoul/"
+    ],
+    [
+      "인천아트플랫폼",
+      "nonprofit",
+      "인천",
+      "중구",
+      "https://www.inartplatform.kr/",
+      "https://www.instagram.com/incheonartplatform/"
+    ],
+    [
+      "국제갤러리",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.kukjegallery.com/",
+      "https://www.instagram.com/kukjegallery/"
+    ],
+    [
+      "갤러리현대",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.galleryhyundai.com/",
+      "https://www.instagram.com/gallery_hyundai/"
+    ],
+    [
+      "PKM 갤러리",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.pkmgallery.com/",
+      "https://www.instagram.com/pkmgallery/"
+    ],
+    [
+      "학고재",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.hakgojae.com/",
+      "https://www.instagram.com/hakgojae_gallery/"
+    ],
+    [
+      "가나아트",
+      "gallery",
+      "서울",
+      "평창동",
+      "https://www.ganaart.com/",
+      "https://www.instagram.com/ganaart_official/"
+    ],
+    [
+      "가나아트 나인원",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.ganaart.com/",
+      "https://www.instagram.com/ganaart_official/"
+    ],
+    [
+      "아라리오갤러리 서울",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.arariogallery.com/",
+      "https://www.instagram.com/arariogallery/"
+    ],
+    [
+      "아트사이드갤러리",
+      "gallery",
+      "서울",
+      "종로",
+      "https://artside.org/",
+      "https://www.instagram.com/artsidegallery/"
+    ],
+    [
+      "갤러리조선",
+      "gallery",
+      "서울",
+      "광화문",
+      "https://www.gallerychosun.com/",
+      "https://www.instagram.com/gallerychosun/"
+    ],
+    [
+      "갤러리2",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://www.gallery2.co.kr/",
+      "https://www.instagram.com/gallery2_seoul/"
+    ],
+    [
+      "원앤제이 갤러리",
+      "gallery",
+      "서울",
+      "강남",
+      "https://oneandj.com/",
+      "https://www.instagram.com/oneandj.gallery/"
+    ],
+    [
+      "바라캇 컨템포러리",
+      "gallery",
+      "서울",
+      "삼청",
+      "https://barakatcontemporary.com/",
+      "https://www.instagram.com/barakatcontemporary/"
+    ],
+    [
+      "갤러리바톤",
+      "gallery",
+      "서울",
+      "한남",
+      "https://gallerybaton.com/",
+      "https://www.instagram.com/gallerybaton/"
+    ],
+    [
+      "P21",
+      "gallery",
+      "서울",
+      "이태원",
+      "https://p21.kr/",
+      "https://www.instagram.com/p21.gallery/"
+    ],
+    [
+      "휘슬",
+      "gallery",
+      "서울",
+      "이태원",
+      "https://whistlewhistle.kr/",
+      "https://www.instagram.com/whistle.kr/"
+    ],
+    [
+      "디스위켄드룸",
+      "gallery",
+      "서울",
+      "한남",
+      "https://thisweekendroom.com/",
+      "https://www.instagram.com/thisweekendroom/"
+    ],
+    [
+      "더페이지갤러리",
+      "gallery",
+      "서울",
+      "성수",
+      "https://thepage-gallery.com/",
+      "https://www.instagram.com/thepagegallery/"
+    ],
+    [
+      "파운드리 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://foundryseoul.net/",
+      "https://www.instagram.com/foundryseoul/"
+    ],
+    [
+      "캡션 서울",
+      "gallery",
+      "서울",
+      "용산",
+      "https://captionseoul.com/",
+      "https://www.instagram.com/captionseoul/"
+    ],
+    [
+      "백아트 서울",
+      "gallery",
+      "서울",
+      "용산",
+      "https://www.baikart.com/",
+      "https://www.instagram.com/baikart/"
+    ],
+    [
+      "BHAK",
+      "gallery",
+      "서울",
+      "용산",
+      "https://www.galeriebhak.com/",
+      "https://www.instagram.com/bhakgallery/"
+    ],
+    [
+      "표갤러리",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.pyoart.com/",
+      "https://www.instagram.com/pyogallery/"
+    ],
+    [
+      "선화랑",
+      "gallery",
+      "서울",
+      "종로",
+      "https://www.sungallery.co.kr/",
+      ""
+    ],
+    [
+      "서정아트 서울",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.seojungart.com/",
+      "https://www.instagram.com/seojungart/"
+    ],
+    [
+      "리안갤러리 서울",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.leeahngallery.com/",
+      "https://www.instagram.com/leeahngallery/"
+    ],
+    [
+      "조현화랑 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.johyungallery.com/",
+      "https://www.instagram.com/johyungallery/"
+    ],
+    [
+      "CHOSUN Gallery",
+      "gallery",
+      "서울",
+      "종로",
+      "https://www.gallerychosun.com/",
+      "https://www.instagram.com/gallerychosun/"
+    ],
+    [
+      "Gallery Sklo",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.gallerysklo.com/",
+      ""
+    ],
+    [
+      "gallery NoW",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.gallery-now.com/",
+      "https://www.instagram.com/gallerynow/"
+    ],
+    [
+      "Gallery Imazoo",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.galleryimazoo.com/",
+      ""
+    ],
+    [
+      "SONG ART GALLERY",
+      "gallery",
+      "서울",
+      "서울",
+      "https://songartgallery.co.kr/",
+      ""
+    ],
+    [
+      "Gallery FM",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "2GIL29 GALLERY",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.2gil29gallery.com/",
+      "https://www.instagram.com/2gil29gallery/"
+    ],
+    [
+      "GALLERY MAC Seoul",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.gallerymac.com/",
+      ""
+    ],
+    [
+      "Gallery JJ",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.galleryjj.org/",
+      "https://www.instagram.com/galleryjj/"
+    ],
+    [
+      "Gallery Planet",
+      "gallery",
+      "서울",
+      "서울",
+      "https://galleryplanet.co.kr/",
+      ""
+    ],
+    [
+      "Gallery We",
+      "gallery",
+      "서울",
+      "청담",
+      "https://www.gallerywe.com/",
+      ""
+    ],
+    [
+      "Gallery Joeun",
+      "gallery",
+      "서울",
+      "한남",
+      "https://galleryjoeun.com/",
+      "https://www.instagram.com/galleryjoeun/"
+    ],
+    [
+      "갤러리BK",
+      "gallery",
+      "서울",
+      "한남",
+      "https://gallerybk.co.kr/",
+      "https://www.instagram.com/gallerybk/"
+    ],
+    [
+      "Gallery Migwang",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "Gallery H",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "Gallery LVS",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.gallerylvs.org/",
+      "https://www.instagram.com/gallerylvs/"
+    ],
+    [
+      "Gallery Mark",
+      "gallery",
+      "서울",
+      "서울",
+      "https://gallerymark.co.kr/",
+      ""
+    ],
+    [
+      "Gallery Yeh",
+      "gallery",
+      "서울",
+      "강남",
+      "http://galleryyeh.com/",
+      ""
+    ],
+    [
+      "Gallery Mano",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.gallerymano.com/",
+      ""
+    ],
+    [
+      "Gallery MEME",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "Gallery Grimson",
+      "gallery",
+      "서울",
+      "종로",
+      "http://www.gallerygrimson.com/",
+      ""
+    ],
+    [
+      "K.O.N.G. Gallery",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "Gallery Lux",
+      "gallery",
+      "서울",
+      "종로",
+      "http://www.gallerylux.net/",
+      ""
+    ],
+    [
+      "Ryugaheon",
+      "gallery",
+      "서울",
+      "서촌",
+      "https://www.ryugaheon.com/",
+      "https://www.instagram.com/ryugaheon/"
+    ],
+    [
+      "리만머핀 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.lehmannmaupin.com/",
+      "https://www.instagram.com/lehmannmaupin/"
+    ],
+    [
+      "페이스갤러리 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.pacegallery.com/",
+      "https://www.instagram.com/pacegallery/"
+    ],
+    [
+      "타데우스 로팍 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://ropac.net/",
+      "https://www.instagram.com/galeriethaddaeusropac/"
+    ],
+    [
+      "화이트큐브 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.whitecube.com/",
+      "https://www.instagram.com/whitecube/"
+    ],
+    [
+      "VSF 서울",
+      "gallery",
+      "서울",
+      "한남",
+      "https://www.vsf.la/",
+      "https://www.instagram.com/vsf/"
+    ],
+    [
+      "페레스프로젝트 서울",
+      "gallery",
+      "서울",
+      "신사",
+      "https://peresprojects.com/",
+      "https://www.instagram.com/peresprojects/"
+    ],
+    [
+      "페로탕 서울",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.perrotin.com/",
+      "https://www.instagram.com/perrotin/"
+    ],
+    [
+      "마시모 데 카를로 서울",
+      "gallery",
+      "서울",
+      "청담",
+      "https://massimodecarlo.com/",
+      "https://www.instagram.com/massimodecarlogallery/"
+    ],
+    [
+      "쾨닉 서울",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.koeniggalerie.com/",
+      "https://www.instagram.com/koeniggalerie/"
+    ],
+    [
+      "JARILAGER Gallery",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.jarilagergallery.com/",
+      "https://www.instagram.com/jarilagergallery/"
+    ],
+    [
+      "탕 컨템포러리 아트 서울",
+      "gallery",
+      "서울",
+      "청담",
+      "https://www.tangcontemporary.com/",
+      "https://www.instagram.com/tangcontemporaryart/"
+    ],
+    [
+      "글래드스톤 갤러리 서울",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.gladstonegallery.com/",
+      "https://www.instagram.com/gladstone.gallery/"
+    ],
+    [
+      "에스더 쉬퍼 서울",
+      "gallery",
+      "서울",
+      "용산",
+      "https://www.estherschipper.com/",
+      "https://www.instagram.com/estherschippergallery/"
+    ],
+    [
+      "A Lighthouse called Kanata Seoul",
+      "gallery",
+      "서울",
+      "서울",
+      "https://lighthouse-kanata.com/",
+      ""
+    ],
+    [
+      "Choi&Choi Gallery",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.choiandchoi.com/",
+      "https://www.instagram.com/choiandchoigallery/"
+    ],
+    [
+      "A-Lounge Contemporary",
+      "gallery",
+      "서울",
+      "종로",
+      "https://a-lounge.kr/",
+      "https://www.instagram.com/aloungegallery/"
+    ],
+    [
+      "Art Space 3",
+      "gallery",
+      "서울",
+      "종로",
+      "https://www.artspace3.com/",
+      ""
+    ],
+    [
+      "BB&M",
+      "gallery",
+      "서울",
+      "성북",
+      "https://gallerybbm.com/",
+      "https://www.instagram.com/gallerybbm/"
+    ],
+    [
+      "Gallery Kiche",
+      "gallery",
+      "서울",
+      "성북",
+      "https://gallerykiche.com/",
+      "https://www.instagram.com/gallerykiche/"
+    ],
+    [
+      "O’NewWall",
+      "gallery",
+      "서울",
+      "성북",
+      "#",
+      "https://www.instagram.com/onewwall/"
+    ],
+    [
+      "CYLINDER",
+      "gallery",
+      "서울",
+      "관악",
+      "https://cylinderseoul.com/",
+      "https://www.instagram.com/cylinder.kr/"
+    ],
+    [
+      "G갤러리",
+      "gallery",
+      "서울",
+      "강남",
+      "https://www.ggallery.kr/",
+      "https://www.instagram.com/g_gallery.kr/"
+    ],
+    [
+      "Kimreeaa Gallery",
+      "gallery",
+      "서울",
+      "강남",
+      "https://kimreeaa.com/",
+      ""
+    ],
+    [
+      "Lee Eugean Gallery",
+      "gallery",
+      "서울",
+      "강남",
+      "https://leeeugeangallery.com/",
+      "https://www.instagram.com/leeeugeangallery/"
+    ],
+    [
+      "oaoa",
+      "gallery",
+      "서울",
+      "강남",
+      "https://oaoagallery.com/",
+      "https://www.instagram.com/oaoa.gallery/"
+    ],
+    [
+      "ROY GALLERY",
+      "gallery",
+      "서울",
+      "강남",
+      "https://roygalleryseoul.com/",
+      "https://www.instagram.com/roygalleryseoul/"
+    ],
+    [
+      "Combine Works",
+      "gallery",
+      "서울",
+      "종로",
+      "https://www.combine-works.com/",
+      "https://www.instagram.com/combine_works/"
+    ],
+    [
+      "drawingRoom",
+      "gallery",
+      "서울",
+      "종로",
+      "https://drawingroom.kr/",
+      "https://www.instagram.com/drawingroom.kr/"
+    ],
+    [
+      "PAGEROOM8",
+      "gallery",
+      "서울",
+      "종로",
+      "https://pageroom8.com/",
+      "https://www.instagram.com/pageroom8/"
+    ],
+    [
+      "Yeemock Gallery",
+      "gallery",
+      "서울",
+      "종로",
+      "https://yeemockgallery.co.kr/",
+      ""
+    ],
+    [
+      "Gallery SoSo Seoul",
+      "gallery",
+      "서울",
+      "서울",
+      "https://gallerysoso.com/",
+      "https://www.instagram.com/gallerysoso/"
+    ],
+    [
+      "Gallery SoSo Paju",
+      "gallery",
+      "경기",
+      "파주",
+      "https://gallerysoso.com/",
+      "https://www.instagram.com/gallerysoso/"
+    ],
+    [
+      "IAH",
+      "gallery",
+      "서울",
+      "종로",
+      "https://iah.kr/",
+      "https://www.instagram.com/iah_seoul/"
+    ],
+    [
+      "N/A Gallery",
+      "nonprofit",
+      "서울",
+      "Euljiro",
+      "https://nslasha.kr/",
+      "https://www.instagram.com/n_a_gallery/"
+    ],
+    [
+      "Sahng-Up Gallery",
+      "gallery",
+      "서울",
+      "Euljiro",
+      "https://sahngupgallery.com/",
+      "https://www.instagram.com/sahngupgallery/"
+    ],
+    [
+      "Space Cadalogs",
+      "gallery",
+      "서울",
+      "종로",
+      "https://cadalogs.com/",
+      "https://www.instagram.com/spacecadalogs/"
+    ],
+    [
+      "OUTHOUSE",
+      "gallery",
+      "서울",
+      "Mapo",
+      "https://outhouse.kr/",
+      "https://www.instagram.com/outhouse.seoul/"
+    ],
+    [
+      "SPACE SO",
+      "gallery",
+      "서울",
+      "Mapo",
+      "https://spaceso.kr/",
+      "https://www.instagram.com/spaceso.kr/"
+    ],
+    [
+      "Vohm Gallery",
+      "gallery",
+      "서울",
+      "서초",
+      "https://vohmgallery.com/",
+      "https://www.instagram.com/vohmgallery/"
+    ],
+    [
+      "Innsinn",
+      "gallery",
+      "서울",
+      "Seodaemun",
+      "#",
+      "https://www.instagram.com/innsinn.kr/"
+    ],
+    [
+      "CDA Gallery",
+      "gallery",
+      "서울",
+      "성수",
+      "https://cdagallery.kr/",
+      "https://www.instagram.com/cdagallery/"
+    ],
+    [
+      "AP Project",
+      "gallery",
+      "서울",
+      "용산",
+      "https://apoproject.com/",
+      "https://www.instagram.com/apoproject/"
+    ],
+    [
+      "Galerie ERD",
+      "gallery",
+      "서울",
+      "용산",
+      "https://galerieerd.com/",
+      "https://www.instagram.com/galerieerd/"
+    ],
+    [
+      "Gallery Kabinett",
+      "gallery",
+      "서울",
+      "용산",
+      "https://kabinett.kr/",
+      "https://www.instagram.com/gallerykabinett/"
+    ],
+    [
+      "Gallery SP",
+      "gallery",
+      "서울",
+      "용산",
+      "https://gallerysp.com/",
+      "https://www.instagram.com/gallerysp/"
+    ],
+    [
+      "La Heen Gallery",
+      "gallery",
+      "서울",
+      "용산",
+      "https://laheengallery.com/",
+      "https://www.instagram.com/laheengallery/"
+    ],
+    [
+      "Mo J Gallery",
+      "gallery",
+      "서울",
+      "용산",
+      "#",
+      ""
+    ],
+    [
+      "THEO",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "스페이스 이수",
+      "gallery",
+      "서울",
+      "서초",
+      "#",
+      ""
+    ],
+    [
+      "OMG 서울",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "M2 Gallery",
+      "gallery",
+      "서울",
+      "서울",
+      "#",
+      ""
+    ],
+    [
+      "Space 776 Seoul",
+      "gallery",
+      "서울",
+      "서울",
+      "https://www.space776.com/",
+      "https://www.instagram.com/space776/"
+    ],
+    [
+      "LCDC Gallery",
+      "gallery",
+      "서울",
+      "성수",
+      "#",
+      "https://www.instagram.com/lcdc_seoul/"
+    ],
+    [
+      "Factory2",
+      "gallery",
+      "서울",
+      "서촌",
+      "https://factory2.kr/",
+      "https://www.instagram.com/factory2.seoul/"
+    ],
+    [
+      "Studio Kki",
+      "gallery",
+      "경기",
+      "파주",
+      "https://studiokki.com/",
+      "https://www.instagram.com/studiokki/"
+    ],
+    [
+      "Everyday Mooonday",
+      "gallery",
+      "서울",
+      "송파",
+      "https://everydaymooonday.com/",
+      "https://www.instagram.com/everydaymooonday/"
+    ],
+    [
+      "Mimesis Art Museum",
+      "museum",
+      "경기",
+      "파주",
+      "https://mimesisartmuseum.co.kr/",
+      "https://www.instagram.com/mimesis_art_museum/"
+    ],
+    [
+      "Project Space Sarubia",
+      "nonprofit",
+      "서울",
+      "서촌",
+      "https://sarubia.org/",
+      "https://www.instagram.com/projectsarubia/"
+    ],
+    [
+      "CR Collective",
+      "nonprofit",
+      "서울",
+      "Euljiro",
+      "https://cr-collective.co.kr/",
+      "https://www.instagram.com/cr_collective_/"
+    ],
+    [
+      "WWNN",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://wwnn.kr/",
+      "https://www.instagram.com/wwnn_seoul/"
+    ],
+    [
+      "SHOWER",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://shower.gallery/",
+      "https://www.instagram.com/shower.gallery/"
+    ],
+    [
+      "Sangheeut",
+      "nonprofit",
+      "서울",
+      "Euljiro",
+      "https://sangheeut.com/",
+      "https://www.instagram.com/sangheeut/"
+    ],
+    [
+      "PS CENTER",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://pscenter.kr/",
+      "https://www.instagram.com/ps_center/"
+    ],
+    [
+      "Post Territory Ujeongguk",
+      "nonprofit",
+      "서울",
+      "Mapo",
+      "https://postterritoryujeongguk.com/",
+      "https://www.instagram.com/postterritoryujeongguk/"
+    ],
+    [
+      "Space Willing N Dealing",
+      "nonprofit",
+      "서울",
+      "용산",
+      "https://willingndealing.org/",
+      "https://www.instagram.com/spacewillingndealing/"
+    ],
+    [
+      "Art Space Boan 1942",
+      "nonprofit",
+      "서울",
+      "서촌",
+      "https://www.boan1942.com/",
+      "https://www.instagram.com/boan1942/"
+    ],
+    [
+      "d/p",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://d-p.kr/",
+      "https://www.instagram.com/dslashp/"
+    ],
+    [
+      "WESS",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://wess.kr/",
+      "https://www.instagram.com/wess.kr/"
+    ],
+    [
+      "Museumhead",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://museumhead.com/",
+      "https://www.instagram.com/museumhead/"
+    ],
+    [
+      "Audio Visual Pavilion",
+      "nonprofit",
+      "서울",
+      "서울",
+      "https://audiovisualpavilion.org/",
+      "https://www.instagram.com/audiovisualpavilion/"
+    ],
+    [
+      "space xx",
+      "nonprofit",
+      "서울",
+      "Mullae",
+      "#",
+      "https://www.instagram.com/spacexx_kr/"
+    ],
+    [
+      "Alternative Space LOOP",
+      "nonprofit",
+      "서울",
+      "Hongdae",
+      "https://altspaceloop.com/",
+      "https://www.instagram.com/alternative_space_loop/"
+    ],
+    [
+      "Insa Art Space",
+      "nonprofit",
+      "서울",
+      "종로",
+      "#",
+      ""
+    ],
+    [
+      "Seoul Art Space Geumcheon",
+      "nonprofit",
+      "서울",
+      "Geumcheon",
+      "https://www.sfac.or.kr/",
+      ""
+    ],
+    [
+      "Seoul Art Space Mullae",
+      "nonprofit",
+      "서울",
+      "Mullae",
+      "https://www.sfac.or.kr/",
+      ""
+    ],
+    [
+      "Seoul Art Space Sindang",
+      "nonprofit",
+      "서울",
+      "Sindang",
+      "https://www.sfac.or.kr/",
+      ""
+    ],
+    [
+      "Oil Tank Culture Park",
+      "nonprofit",
+      "서울",
+      "Mapo",
+      "https://parks.seoul.go.kr/template/sub/culturetank.do",
+      "https://www.instagram.com/culturetank/"
+    ],
+    [
+      "Culture Station Seoul 284",
+      "nonprofit",
+      "서울",
+      "중구",
+      "https://www.seoul284.org/",
+      "https://www.instagram.com/culturestationseoul284/"
+    ],
+    [
+      "Seoul Art Guide / Kimdaljin Art Research",
+      "info",
+      "서울",
+      "서울",
+      "https://www.daljin.com/",
+      ""
+    ],
+    [
+      "ARTMAP",
+      "info",
+      "Korea",
+      "Korea",
+      "https://art-map.co.kr/",
+      "https://www.instagram.com/artmap.official/"
+    ],
+    [
+      "Neolook",
+      "info",
+      "Korea",
+      "Korea",
+      "https://neolook.com/",
+      ""
+    ],
+    [
+      "Kiaf SEOUL Galleries Feed",
+      "info",
+      "서울",
+      "COEX",
+      "https://kiaf.org/",
+      "https://www.instagram.com/kiafseoul/"
+    ],
+    [
+      "Frieze Seoul Galleries Feed",
+      "info",
+      "서울",
+      "COEX",
+      "https://www.frieze.com/fairs/frieze-seoul",
+      "https://www.instagram.com/friezeofficial/"
+    ],
+    [
+      "Seoul Art Friend",
+      "info",
+      "서울",
+      "Instagram",
+      "https://www.instagram.com/seoulartfriend/",
+      "https://www.instagram.com/seoulartfriend/"
+    ]
+  ]
+}
