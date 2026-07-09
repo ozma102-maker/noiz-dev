@@ -385,7 +385,11 @@ def make_candidate(
     source_type: str = "event",
     base: int = 18,
 ) -> Candidate | None:
-    text = clean_text(f"{title} {text}")
+    raw_text = clean_text(f"{title} {text}")
+    if is_aggregate_or_listing_candidate(title, raw_text, url=url, source_name=source_name):
+        return None
+
+    text = raw_text
     title = normalize_title(title)
     if not looks_like_candidate(text) or not title:
         return None
@@ -620,6 +624,93 @@ def clean_display_title(title: str) -> str:
     return t or clean_text(title)
 
 
+AGGREGATE_PAGE_WORDS = [
+    "총정리", "놀거리", "가볼만한", "가볼 만한", "추천", "모음", "리스트", "한눈에",
+    "캘린더", "일정 정리", "전시 추천", "전시회 추천", "팝업 추천", "팝업스토어 총정리",
+    "데이트코스", "데이트 코스", "핫플", "이번 주 뭐", "이번주 뭐", "new ", "신상",
+]
+
+GENERIC_TITLE_WORDS = [
+    "팝업스토어", "팝업 스토어", "전시", "전시회", "놀거리", "볼거리", "행사", "축제",
+]
+
+BAD_GEMINI_DESCRIPTION_WORDS = [
+    "페이지입니다", "페이지입니다.", "정보를 모아", "정보를 정리", "모아놓은", "모아 둔",
+    "게시물", "블로그", "후기 글", "기사입니다", "사이트입니다", "페이지로",
+    "공개 노출", "후기성 신호", "기준으로 포착",
+]
+
+
+def is_aggregate_or_listing_candidate(title: str, text: str = "", url: str = "", source_name: str = "") -> bool:
+    """Reject collection/listing pages as primary cards.
+
+    NOIZ cards must be a single real-world popup/exhibition/branded-space experience.
+    Roundups like "2026년 7월 더현대서울 팝업스토어 총정리" can be evidence,
+    but should not become #1 card.
+    """
+    title_clean = clean_text(title)
+    full = clean_text(" ".join([title, text, url, source_name])).lower()
+
+    # Hashtags usually indicate review/SEO/list content, not a single official event page.
+    if "#" in title_clean:
+        return True
+
+    if any(word.lower() in full for word in AGGREGATE_PAGE_WORDS):
+        return True
+
+    # Month + generic category without a proper named brand/exhibition is usually a roundup.
+    if re.search(r"20\d{2}\s*년\s*\d{1,2}\s*월", title_clean) and any(w in title_clean for w in ["팝업", "전시", "놀거리", "추천"]):
+        if not any(mark in title_clean for mark in [":", "：", "〈", "《", "POP UP", "IN ", " x ", " X "]):
+            return True
+
+    # Too generic after cleaning.
+    compact = re.sub(r"[\s·|:/,_-]+", "", clean_display_title(title_clean).lower())
+    if compact in {re.sub(r"[\s·|:/,_-]+", "", w.lower()) for w in GENERIC_TITLE_WORDS}:
+        return True
+
+    # Search-like title full of generic category terms, no distinctive proper noun.
+    tokens = re.findall(r"[A-Za-z0-9]{2,}|[가-힣]{2,}", title_clean)
+    generic_hits = sum(1 for t in tokens if t in {"서울", "더현대", "여의도", "팝업", "팝업스토어", "전시", "전시회", "놀거리", "추천", "총정리"})
+    if len(tokens) >= 5 and generic_hits / max(1, len(tokens)) >= 0.55:
+        return True
+
+    return False
+
+
+def local_overview_sentence(item: dict[str, Any]) -> str:
+    title = clean_display_title(str(item.get("title", "")))
+    venue = clean_text(str(item.get("venue", "")))
+    area = clean_text(str(item.get("area") or item.get("region") or "서울/수도권"))
+    category = classify_experience_type(item)
+    signals = " ".join(str(s) for s in item.get("signals", []))
+
+    if category == "전시/문화 경험":
+        if venue and venue not in {"서울", "서울/수도권", area}:
+            return f"{venue}에서 열리는 전시/문화 경험으로, 작품·공간 구성과 관람 동선을 함께 확인할 만해."
+        return f"{title}은 {area}권에서 열리는 전시/문화 경험으로, 작품과 관람 동선의 완성도를 확인할 만해."
+
+    if "굿즈" in signals or "무료" in signals or "체험" in signals:
+        return f"{title}은 {area}권에서 진행 중인 팝업/브랜드 경험으로, 굿즈·체험 요소와 방문 동선을 함께 볼 만해."
+
+    if venue and venue not in {"서울", "서울/수도권", area}:
+        return f"{venue}에서 진행 중인 팝업/브랜드 경험으로, 브랜드 연출과 현장 반응을 벤치마크할 만해."
+
+    return f"{title}은 {area}권에서 포착된 공간 경험으로, 현장 구성과 방문 반응을 함께 확인할 만해."
+
+
+def clean_or_fallback_description(description: str, item: dict[str, Any]) -> str:
+    desc = clean_text(description)
+    if not desc:
+        return local_overview_sentence(item)
+    low = desc.lower()
+    if any(word.lower() in low for word in BAD_GEMINI_DESCRIPTION_WORDS):
+        return local_overview_sentence(item)
+    if len(desc) < 18:
+        return local_overview_sentence(item)
+    return desc
+
+
+
 def parse_iso_date(value: Any) -> datetime | None:
     if not value:
         return None
@@ -750,7 +841,8 @@ def enrich_official_items_with_search_evidence(items: list[dict[str, Any]], sear
         item["evidenceCount"] = evidence_count
         item["reactionCount"] = reaction_count
         item["confidence"] = confidence
-        item["owner"] = f"공개 노출 {evidence_count}건 · 후기성 신호 {reaction_count}건"
+        item["signalSummary"] = f"공개 노출 {evidence_count}건 · 후기성 신호 {reaction_count}건"
+        item["owner"] = local_overview_sentence(item)
         item["evidenceSources"] = sorted({c.brand for c in matches if c.brand})[:4]
 
     return items
@@ -771,6 +863,9 @@ def extract_json_from_model_text(text: str) -> Any:
 def gemini_describe_and_summarize(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], str | None]:
     """Safe Gemini stage: descriptions + weekly_read only. No titles, links, dates, scores or ranks."""
     if not GEMINI_API_KEY or not items:
+        for item in items:
+            item["description"] = clean_or_fallback_description(item.get("description", ""), item)
+            item["owner"] = clean_or_fallback_description(item.get("owner", ""), item)
         return items, None
 
     brief = [
@@ -795,12 +890,14 @@ def gemini_describe_and_summarize(items: list[dict[str, Any]]) -> tuple[list[dic
     prompt = f"""NOIZ!는 CX·스페이스 기획자를 위한 팝업/전시/브랜드 공간 리서치 레이더다.
 아래 후보는 이미 공식/정보 페이지 기준으로 필터링된 현재 운영 중 후보들이다.
 너는 title, rank, score, date, URL을 절대 바꾸지 않는다. description과 weekly_read만 작성한다.
+description은 웹페이지 설명이 아니라 실제 현장 경험 설명이어야 한다.
+절대 "페이지입니다", "정보를 모아놓은", "공개 노출", "후기성 신호" 같은 표현을 쓰지 마라.
 
 출력 JSON 형식:
 {{
   "weekly_read": "이번 주 흐름을 2~3문장으로 자연스럽게 요약",
   "items": [
-    {{"rank": 1, "description": "해당 팝업/전시/공간이 무엇인지 설명하는 한 문장"}}
+    {{"rank": 1, "description": "현장에서 어떤 팝업/전시/공간 경험을 제공하는지 설명하는 한 문장"}}
   ]
 }}
 
@@ -851,8 +948,9 @@ def gemini_describe_and_summarize(items: list[dict[str, Any]]) -> tuple[list[dic
             if not row:
                 continue
             desc = clean_text(row.get("description", ""))
-            if desc:
-                item["description"] = desc
+            item["description"] = clean_or_fallback_description(desc, item)
+            item["owner"] = clean_or_fallback_description(item.get("owner", ""), item)
+            if desc and item["description"] == desc:
                 item["aiDescription"] = True
 
         weekly_read = clean_text(parsed.get("weekly_read", ""))
@@ -861,6 +959,9 @@ def gemini_describe_and_summarize(items: list[dict[str, Any]]) -> tuple[list[dic
         return items, weekly_read or None
     except Exception as e:
         print(f"[WARN] Gemini description/summary failed; using local fallback: {e}")
+        for item in items:
+            item["description"] = clean_or_fallback_description(item.get("description", ""), item)
+            item["owner"] = clean_or_fallback_description(item.get("owner", ""), item)
         return items, None
 
 
@@ -872,7 +973,12 @@ def finalize_items(items: list[dict[str, Any]], now_dt: datetime | None = None) 
             continue
         if not is_current_or_undated_official_item(item, now_dt=now_dt):
             continue
+        if is_aggregate_or_listing_candidate(item.get("title", ""), item_full_text(item), url=str(item.get("sourceUrl", "")), source_name=str(item.get("brand", ""))):
+            continue
+
         item["title"] = clean_display_title(item.get("title", ""))
+        item["description"] = clean_or_fallback_description(item.get("description", ""), item)
+        item["owner"] = clean_or_fallback_description(item.get("owner", ""), item)
         key = candidate_key(item.get("title", ""))
         if not key or key in seen:
             continue
@@ -932,8 +1038,9 @@ def merge_candidates(candidates: list[Candidate]) -> list[dict[str, Any]]:
         best["reactionCount"] = reaction_count
         best["confidence"] = confidence
         best["brand"] = " / ".join(source_labels[:2])
-        best["owner"] = f"공개 노출 {evidence_count}건 · 후기성 신호 {reaction_count}건"
-        best["description"] = make_description(best["title"], evidence_count, reaction_count, best.get("area", "서울/수도권"))
+        best["owner"] = local_overview_sentence(best)
+        best["signalSummary"] = f"공개 노출 {evidence_count}건 · 후기성 신호 {reaction_count}건"
+        best["description"] = local_overview_sentence(best)
         if not best.get("start") or not best.get("end"):
             for g in group:
                 if g.start and not best.get("start"):

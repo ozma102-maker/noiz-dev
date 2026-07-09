@@ -187,3 +187,11 @@ Daily update contract:
 - Gemini can write descriptions and weekly_read only
 - Gemini cannot rewrite title, URL, rank, period, or DECIBEL score
 - if Gemini fails or no `GEMINI_API_KEY` is configured, the updater still completes with local fallback
+
+## v97 single-experience guardrails
+
+v97 adds stronger guardrails after the first noiz-dev run:
+- roundup/listing pages such as "팝업스토어 총정리", "놀거리", "추천", "모음" are excluded as primary cards
+- cards must represent a single popup/exhibition/branded-space experience
+- `owner` and `description` describe the actual experience, not public-signal counts
+- Gemini descriptions are validated; page-like phrases such as "페이지입니다" or signal-count language fall back to local experience copy
