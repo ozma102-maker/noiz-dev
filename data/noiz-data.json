@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-09T12:46:33+09:00",
+  "updated_at": "2026-07-09T13:17:20+09:00",
   "theme": {
     "id": "legacy-lime-blue",
     "name": "Legacy Lime & Blue",
@@ -11,43 +11,12 @@
     "line": "rgba(63,93,127,.24)",
     "white": "#f4ffd8"
   },
-  "weekly_read": "7월에는 더현대 서울과 용산, 성수에서 다양한 팝업 스토어가 열리며, 서울시립미술관과 국립현대미술관에서는 흥미로운 전시들이 관람객을 맞이합니다. 특히 무료로 즐길 수 있는 전시와 팝업이 많아 부담 없이 방문하기 좋습니다.",
+  "weekly_read": "이번 주에는 서울시립미술관에서 열리는 두 가지 주목할 만한 전시/팝업을 소개합니다. 하나는 한국 추상미술의 거장 유영국의 작품 세계를 조망하는 전시이며, 다른 하나는 기술과 예술의 경계를 탐구하는 흥미로운 팝업입니다.",
   "items": [
-    {
-      "brand": "Popga Magazine",
-      "title": "2026년 7월 더현대 서울 팝업스토어 총정리 | 여의도 더현대 서울 놀거리",
-      "owner": "공개 노출 5건 · 후기성 신호 10건",
-      "venue": "더현대 서울",
-      "area": "여의도",
-      "region": "여의도",
-      "mapQuery": "2026년 7월 더현대 서울 팝업스토어 총정리 | 여의도 더현대 서울 놀거리 가볼만한곳 일정 팝업스토어 모음 2026.06.22 더현대 서울 여의도",
-      "sourceUrl": "https://popga.co.kr/content/magazine/337",
-      "sourceLabel": "정보 출처",
-      "noiz": 99,
-      "favorability": 51,
-      "description": "더현대 서울에서 7월에 열리는 다양한 팝업 스토어 정보를 모아놓은 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처",
-        "긍정 신호",
-        "혼잡/피로 신호"
-      ],
-      "infoVolume": "high",
-      "evidenceCount": 5,
-      "reactionCount": 10,
-      "confidence": "high",
-      "start": "",
-      "end": "",
-      "evidenceSources": [
-        "Google News"
-      ],
-      "rank": 1,
-      "aiDescription": true
-    },
     {
       "brand": "Ddoing Exhibition Schedule",
       "title": "유영국: 산은 내 안에 있다",
-      "owner": "공개 노출 6건 · 후기성 신호 10건",
+      "owner": "서울시립미술관에서 열리는 전시/문화 경험으로, 작품·공간 구성과 관람 동선을 함께 확인할 만해.",
       "venue": "서울시립미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -56,7 +25,7 @@
       "sourceLabel": "정보 출처",
       "noiz": 99,
       "favorability": 72,
-      "description": "서울시립미술관에서 열리는 유영국 작가의 '산은 내 안에 있다' 전시 정보입니다.",
+      "description": "서울시립미술관에서 유영국 작가의 독창적인 산악 풍경 추상화를 통해 자연과 내면의 깊은 교감을 경험할 수 있습니다.",
       "signals": [
         "후기 반응",
         "복수 출처",
@@ -69,16 +38,17 @@
       "confidence": "high",
       "start": "",
       "end": "",
+      "signalSummary": "공개 노출 6건 · 후기성 신호 10건",
       "evidenceSources": [
         "Google News"
       ],
-      "rank": 2,
+      "rank": 1,
       "aiDescription": true
     },
     {
       "brand": "Ddoing Exhibition Schedule",
       "title": "기술의 저변: 경계에 선 장면들 무료입장",
-      "owner": "공개 노출 7건 · 후기성 신호 12건",
+      "owner": "기술의 저변: 경계에 선 장면들 무료입장은 서울/수도권권에서 진행 중인 팝업/브랜드 경험으로, 굿즈·체험 요소와 방문 동선을 함께 볼 만해.",
       "venue": "서울시립미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -87,75 +57,12 @@
       "sourceLabel": "정보 출처",
       "noiz": 99,
       "favorability": 76,
-      "description": "서울시립미술관에서 무료로 관람 가능한 '기술의 저변: 경계에 선 장면들' 전시 정보입니다.",
+      "description": "서울시립미술관에서 기술과 예술이 만나 만들어내는 경계의 장면들을 무료로 탐색하며 새로운 시각적 경험을 얻을 수 있습니다.",
       "signals": [
         "후기 반응",
         "복수 출처",
         "긍정 신호",
-        "무료/체험"
-      ],
-      "infoVolume": "high",
-      "evidenceCount": 7,
-      "reactionCount": 12,
-      "confidence": "high",
-      "start": "",
-      "end": "",
-      "evidenceSources": [
-        "Google News",
-        "Naver View"
-      ],
-      "rank": 3,
-      "aiDescription": true
-    },
-    {
-      "brand": "ARTMAP",
-      "title": "국립현대미술관 전시회 모음 지금",
-      "owner": "공개 노출 8건 · 후기성 신호 17건",
-      "venue": "국립현대미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "국립현대미술관 전시회 모음 지금 국립현대미술관에서 만날 수 있는 전시는? 국립현대미술관 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/nows/8",
-      "sourceLabel": "정보 출처",
-      "noiz": 99,
-      "favorability": 68,
-      "description": "국립현대미술관에서 진행 중인 다양한 전시회 정보를 모아놓은 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처",
-        "긍정 신호"
-      ],
-      "infoVolume": "high",
-      "evidenceCount": 8,
-      "reactionCount": 17,
-      "confidence": "high",
-      "start": "",
-      "end": "",
-      "evidenceSources": [
-        "Google News",
-        "Naver View"
-      ],
-      "rank": 4,
-      "aiDescription": true
-    },
-    {
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "파리 보이지 않는 파리 사진전 성곡미술관종로구 ~26.07.26",
-      "owner": "공개 노출 3건 · 후기성 신호 4건",
-      "venue": "종로",
-      "area": "종로",
-      "region": "종로",
-      "mapQuery": "파리 보이지 않는 파리 사진전 서울전시_성곡미술관종로구_~26.07.26 종로 종로",
-      "sourceUrl": "https://tickets.interpark.com/goods/26004725?SeatGrade=1&PriceGrade=01",
-      "sourceLabel": "정보 출처",
-      "noiz": 97,
-      "favorability": 72,
-      "description": "종로 성곡미술관에서 7월 26일까지 열리는 '보이지 않는 파리' 사진전 정보입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처",
-        "긍정 신호",
-        "무료/체험"
+        "굿즈 신호"
       ],
       "infoVolume": "high",
       "evidenceCount": 3,
@@ -163,152 +70,11 @@
       "confidence": "high",
       "start": "",
       "end": "",
-      "evidenceSources": [
-        "Naver View"
-      ],
-      "rank": 5,
-      "aiDescription": true
-    },
-    {
-      "brand": "Popga Magazine",
-      "title": "2026년 7월 용산 팝업스토어 총정리 | 용산 아이파크몰, 용산",
-      "owner": "공개 노출 2건 · 후기성 신호 3건",
-      "venue": "용산",
-      "area": "용산",
-      "region": "용산",
-      "mapQuery": "2026년 7월 용산 팝업스토어 총정리 | 용산 아이파크몰, 용산 가볼만한곳 추천 팝업스토어 모음 2026.06.22 용산 용산",
-      "sourceUrl": "https://popga.co.kr/content/magazine/336",
-      "sourceLabel": "정보 출처",
-      "noiz": 90,
-      "favorability": 60,
-      "description": "용산 아이파크몰을 중심으로 7월에 열리는 팝업 스토어 정보를 정리한 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처"
-      ],
-      "infoVolume": "high",
-      "evidenceCount": 2,
-      "reactionCount": 3,
-      "confidence": "high",
-      "start": "",
-      "end": "",
-      "evidenceSources": [
-        "Naver View"
-      ],
-      "rank": 6,
-      "aiDescription": true
-    },
-    {
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "캐서린 브래드포드 무료입장 갤러리 현대종로구 ~26.07.12",
-      "owner": "공개 노출 2건 · 후기성 신호 2건",
-      "venue": "종로",
-      "area": "종로",
-      "region": "종로",
-      "mapQuery": "캐서린 브래드포드 무료입장서울전시_갤러리 현대종로구_~26.07.12 종로 종로",
-      "sourceUrl": "https://naver.me/xgNSiatA",
-      "sourceLabel": "정보 출처",
-      "noiz": 90,
-      "favorability": 72,
-      "description": "종로 갤러리 현대에서 7월 12일까지 무료로 진행되는 캐서린 브래드포드 전시 정보입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처",
-        "긍정 신호",
-        "무료/체험"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 2,
-      "reactionCount": 2,
-      "confidence": "medium",
-      "start": "",
-      "end": "",
-      "evidenceSources": [
-        "Naver View"
-      ],
-      "rank": 7,
-      "aiDescription": true
-    },
-    {
-      "brand": "Popga Magazine",
-      "title": "2026년 7월 성수 팝업스토어 총정리 | 성수",
-      "owner": "공개 노출 2건 · 후기성 신호 3건",
-      "venue": "성수",
-      "area": "성수",
-      "region": "성수",
-      "mapQuery": "2026년 7월 성수 팝업스토어 총정리 | 성수 가볼만한곳 성수팝업 일정 모음 팝업스토어 모음 2026.06.22 성수 성수",
-      "sourceUrl": "https://popga.co.kr/content/magazine/334",
-      "sourceLabel": "정보 출처",
-      "noiz": 87,
-      "favorability": 60,
-      "description": "성수 지역에서 7월에 열리는 팝업 스토어 정보를 모아놓은 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "복수 출처"
-      ],
-      "infoVolume": "high",
-      "evidenceCount": 2,
-      "reactionCount": 3,
-      "confidence": "high",
-      "start": "",
-      "end": "",
+      "signalSummary": "공개 노출 3건 · 후기성 신호 4건",
       "evidenceSources": [
         "Google News"
       ],
-      "rank": 8,
-      "aiDescription": true
-    },
-    {
-      "brand": "ARTMAP",
-      "title": "심미안을 채워줄 다양한 전시회 전시회 입문자에게",
-      "owner": "공개 노출 1건 · 후기성 신호 1건",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "심미안을 채워줄 다양한 전시회 전시회 입문자에게 추천하는 여러 장르의 전시회 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/nows/81",
-      "sourceLabel": "정보 출처",
-      "noiz": 64,
-      "favorability": 51,
-      "description": "전시회 입문자에게 추천하는 다양한 전시회 정보를 소개하는 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "긍정 신호",
-        "혼잡/피로 신호"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 1,
-      "reactionCount": 1,
-      "confidence": "medium",
-      "start": "",
-      "end": "",
-      "rank": 9,
-      "aiDescription": true
-    },
-    {
-      "brand": "ARTMAP",
-      "title": "작가가",
-      "owner": "공개 노출 1건 · 후기성 신호 1건",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "작가가 추천하는 전시회 현업 작가가 추천하는 전시회에는 어떤 것이 있을까요? 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/nows/28",
-      "sourceLabel": "정보 출처",
-      "noiz": 60,
-      "favorability": 68,
-      "description": "작가와 관련된 전시 정보를 제공하는 페이지입니다.",
-      "signals": [
-        "후기 반응",
-        "긍정 신호"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 1,
-      "reactionCount": 1,
-      "confidence": "medium",
-      "start": "",
-      "end": "",
-      "rank": 10,
+      "rank": 2,
       "aiDescription": true
     }
   ],
