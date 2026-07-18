@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-17T16:35:09+09:00",
+  "updated_at": "2026-07-18T16:11:32+09:00",
   "theme": {
     "id": "legacy-lime-blue",
     "name": "Legacy Lime & Blue",
@@ -11,7 +11,7 @@
     "line": "rgba(63,93,127,.24)",
     "white": "#f4ffd8"
   },
-  "weekly_read": "이번 주에는 T1의 우승 서사를 담은 '암행천문 : 별을 헤다' 전시가 주목받고 있으며, 다양한 미술관과 박물관에서 흥미로운 전시들이 진행 중입니다. 특히 '상상력 옷장', '알렉사에게', '인상주의를 넘어' 등은 팬덤과 문화적 경험을 동시에 제공하며 인기를 얻고 있습니다.",
+  "weekly_read": "이번 주에는 T1의 우승 서사를 담은 브랜드 전시부터 다양한 미술관과 박물관에서 열리는 전시까지 폭넓은 문화 행사가 주목받고 있습니다. 특히 무료 체험 가능한 전시와 팬덤을 겨냥한 굿즈 전시가 눈에 띕니다.",
   "items": [
     {
       "rank": 1,
@@ -44,7 +44,7 @@
       "rank": 2,
       "brand": "Ddoing Exhibition Schedule",
       "title": "상상력 옷장",
-      "owner": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시는 풍부한 시각적 경험을 선사합니다.",
+      "owner": "마이아트뮤지엄 원그로브점에서 진행되는 '상상력 옷장' 전시",
       "venue": "마이아트뮤지엄 원그로브점",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -53,7 +53,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시는 풍부한 시각적 경험을 선사합니다.",
+      "description": "마이아트뮤지엄 원그로브점에서 진행되는 '상상력 옷장' 전시",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -71,7 +71,7 @@
       "rank": 3,
       "brand": "Ddoing Exhibition Schedule",
       "title": "알렉사에게",
-      "owner": "서울시립 미술 아카이브에서 진행되는 '알렉사에게' 전시는 무료로 참여 가능한 문화 경험입니다.",
+      "owner": "서울시립 미술 아카이브에서 열리는 '알렉사에게' 전시로 무료 체험 가능",
       "venue": "서울시립 미술 아카이브",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -80,7 +80,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립 미술 아카이브에서 진행되는 '알렉사에게' 전시는 무료로 참여 가능한 문화 경험입니다.",
+      "description": "서울시립 미술 아카이브에서 열리는 '알렉사에게' 전시로 무료 체험 가능",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -99,7 +99,7 @@
       "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "인상주의를 넘어",
-      "owner": "세종문화회관 미술관에서 열리는 '인상주의를 넘어' 전시는 팬덤과 굿즈를 즐길 수 있는 기회를 제공합니다.",
+      "owner": "세종문화회관 미술관에서 열리는 '인상주의를 넘어' 전시로 팬덤 굿즈도 만나볼 수 있음",
       "venue": "세종문화회관 미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -108,7 +108,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 70,
-      "description": "세종문화회관 미술관에서 열리는 '인상주의를 넘어' 전시는 팬덤과 굿즈를 즐길 수 있는 기회를 제공합니다.",
+      "description": "세종문화회관 미술관에서 열리는 '인상주의를 넘어' 전시로 팬덤 굿즈도 만나볼 수 있음",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -126,8 +126,35 @@
     {
       "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
+      "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
+      "owner": "서울시립미술관에서 진행되는 유영국 작가의 전시",
+      "venue": "서울시립미술관",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25 서울시립미술관 중구",
+      "sourceUrl": "https://naver.me/GPdQtB11",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "서울시립미술관에서 진행되는 유영국 작가의 전시",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
+      "brand": "Ddoing Exhibition Schedule",
       "title": "조은 원화전: 오늘의 정원",
-      "owner": "그라운드시소 이스트에서 열리는 조은 작가의 원화전은 팬덤과 굿즈를 중심으로 한 특별한 경험을 제공합니다.",
+      "owner": "그라운드시소 이스트에서 열리는 조은 작가의 원화 전시로 팬덤 굿즈도 주목",
       "venue": "그라운드시소 이스트",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -136,7 +163,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 68,
-      "description": "그라운드시소 이스트에서 열리는 조은 작가의 원화전은 팬덤과 굿즈를 중심으로 한 특별한 경험을 제공합니다.",
+      "description": "그라운드시소 이스트에서 열리는 조은 작가의 원화 전시로 팬덤 굿즈도 주목",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -145,17 +172,17 @@
       "category": "exhibition_culture",
       "start": "2026-07-17",
       "end": "2026-11-19",
-      "evidenceCount": 7,
+      "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 7,
       "brand": "한성백제박물관",
       "title": "기록 & 역사Ⅰ: 백제 역사의 실마리, 한원",
-      "owner": "한성백제박물관에서 열리는 이 전시는 백제사의 기록과 해석을 무료로 체험할 수 있습니다.",
+      "owner": "한성백제박물관에서 백제사의 기록과 해석을 다루는 무료 역사 전시",
       "venue": "한성백제박물관",
       "area": "송파",
       "region": "송파구",
@@ -164,7 +191,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 85,
       "favorability": 70,
-      "description": "한성백제박물관에서 열리는 이 전시는 백제사의 기록과 해석을 무료로 체험할 수 있습니다.",
+      "description": "한성백제박물관에서 백제사의 기록과 해석을 다루는 무료 역사 전시",
       "signals": [
         "공식/정보 출처",
         "무료/체험"
@@ -179,10 +206,10 @@
       "aiDescription": true
     },
     {
-      "rank": 7,
+      "rank": 8,
       "brand": "Ddoing Exhibition Schedule",
       "title": "직조하는 손, 여성의 시간",
-      "owner": "KF 아세안문화원에서 진행되는 이 전시는 여성의 시간과 직조라는 주제를 통해 깊은 울림을 줍니다.",
+      "owner": "KF 아세안문화원에서 진행되는 '직조하는 손, 여성의 시간' 전시",
       "venue": "KF 아세안문화원",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -191,7 +218,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 84,
       "favorability": 68,
-      "description": "KF 아세안문화원에서 진행되는 이 전시는 여성의 시간과 직조라는 주제를 통해 깊은 울림을 줍니다.",
+      "description": "KF 아세안문화원에서 진행되는 '직조하는 손, 여성의 시간' 전시",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -206,10 +233,10 @@
       "aiDescription": true
     },
     {
-      "rank": 8,
+      "rank": 9,
       "brand": "Ddoing Exhibition Schedule",
       "title": "레이턴트 히트",
-      "owner": "성북예술창작터에서 열리는 '레이턴트 히트' 전시는 팬덤과 굿즈를 중심으로 한 독특한 경험을 제공합니다.",
+      "owner": "성북예술창작터에서 열리는 '레이턴트 히트' 전시로 팬덤 굿즈도 만나볼 수 있음",
       "venue": "성북예술창작터(성북구)",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -218,7 +245,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 83,
       "favorability": 72,
-      "description": "성북예술창작터에서 열리는 '레이턴트 히트' 전시는 팬덤과 굿즈를 중심으로 한 독특한 경험을 제공합니다.",
+      "description": "성북예술창작터에서 열리는 '레이턴트 히트' 전시로 팬덤 굿즈도 만나볼 수 있음",
       "signals": [
         "공식/정보 출처",
         "팬덤/굿즈"
@@ -226,17 +253,17 @@
       "category": "exhibition_culture",
       "start": "",
       "end": "2026-07-25",
-      "evidenceCount": 8,
+      "evidenceCount": 7,
       "reactionCount": 0,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이승택: 조각의 바깥에서",
-      "owner": "소마미술관에서 열리는 이승택 작가의 전시는 조각의 경계를 넘나드는 공간 경험을 선사합니다.",
+      "owner": "소마미술관에서 열리는 이승택 작가의 조각 전시",
       "venue": "소마미술관(송파구)",
       "area": "송파",
       "region": "송파",
@@ -245,7 +272,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 83,
       "favorability": 72,
-      "description": "소마미술관에서 열리는 이승택 작가의 전시는 조각의 경계를 넘나드는 공간 경험을 선사합니다.",
+      "description": "소마미술관에서 열리는 이승택 작가의 조각 전시",
       "signals": [
         "공식/정보 출처",
         "공간 경험"
@@ -258,33 +285,6 @@
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "전시일정",
-      "owner": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "전시일정 서울/수도권 서울/수도권",
-      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 96,
-      "favorability": 70,
-      "description": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 3,
-      "confidence": "high",
-      "seedFallback": false
     }
   ],
   "creator": "이원준 시니어매니저",
