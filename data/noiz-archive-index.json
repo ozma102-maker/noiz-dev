@@ -9,5 +9,12 @@
       "label": "2026 W27",
       "snapshot": "seed_week1_before_rollover"
     }
+  ],
+  "items": [
+    {
+      "date": "2026-07-18",
+      "label": "2026-07-18",
+      "path": "data/archive/noiz-week-2026-07-18.json"
+    }
   ]
 }

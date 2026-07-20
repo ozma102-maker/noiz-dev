@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-18T16:11:32+09:00",
+  "updated_at": "2026-07-20T19:34:30+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -283,7 +283,7 @@
     },
     {
       "title": "\"파리 보이지 않는 파리\" Paris Unseen 성곡미술관×알랭 사약 성곡미술관/서울",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -291,9 +291,9 @@
       "end": "2026-07-26",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32279",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "title": "조각의 바깥에서 At the Edge of Sculpture 이승택 개인전 소마미술관/서울",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -365,9 +365,9 @@
       "end": "2026-07-26",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32278",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -654,7 +654,7 @@
     },
     {
       "title": "<페르난도 보테로: 형태의 미학> 예술의전당 한가람디자인미술관/서울",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -662,9 +662,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -684,7 +684,7 @@
     },
     {
       "title": "The Black Trilogy 랄프 깁슨 사진미술관/부산",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -692,9 +692,24 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=31627",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
+      "seed": false
+    },
+    {
+      "title": "《그래도 해보던 날들》 국립현대미술관서울관/서울",
+      "venue": "국립현대미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2026-04-17",
+      "end": "2026-08-30",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
+      "sourceName": "ARTMAP",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -729,7 +744,7 @@
     },
     {
       "title": "띠에리 아르두엥<Seed Stories> 고은사진미술관/부산",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -737,9 +752,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -815,7 +830,7 @@
     },
     {
       "title": "그림책이 살아있다! 소마미술관/서울",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -823,9 +838,9 @@
       "end": "2026-09-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32285",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1056,7 +1071,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1232,7 +1247,7 @@
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관(수원시립아이파크미술관)/경기",
-      "venue": "서울/수도권",
+      "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -1240,9 +1255,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1269,33 +1284,33 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관(수원시립아이파크미술관)/경기 경기 수원시 팔달구 신풍동 238-1/",
-      "venue": "송파",
-      "area": "송파",
-      "region": "송파",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "송파에서 진행되는 전시/문화 경험 후보.",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
       "title": "<페르난도 보테로: 형태의 미학> 예술의전당 한가람디자인미술관/서울 서울 서초구 남부순환로 2406/1층 한가람디자인미술관",
-      "venue": "송파",
-      "area": "송파",
-      "region": "송파",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
       "sourceName": "ARTMAP",
-      "summary": "송파에서 진행되는 전시/문화 경험 후보.",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1308,7 +1323,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1321,7 +1336,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1334,7 +1349,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1347,7 +1362,7 @@
       "sourceName": "GroundSeesaw",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1360,7 +1375,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1373,7 +1388,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1386,7 +1401,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1399,7 +1414,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1412,7 +1427,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1425,7 +1440,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "한남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1438,7 +1453,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1451,7 +1466,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1477,7 +1492,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1490,7 +1505,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1503,7 +1518,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1516,7 +1531,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1529,7 +1544,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1542,7 +1557,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1555,7 +1570,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1568,7 +1583,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1581,7 +1596,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "송파에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1607,7 +1622,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1620,7 +1635,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1633,7 +1648,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1646,7 +1661,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1659,7 +1674,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1672,7 +1687,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1685,7 +1700,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1698,7 +1713,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1711,7 +1726,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1724,7 +1739,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1737,7 +1752,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1750,7 +1765,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1763,7 +1778,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1776,7 +1791,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1802,7 +1817,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1854,7 +1869,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1867,7 +1882,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1880,7 +1895,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1893,7 +1908,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1906,7 +1921,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -1919,7 +1934,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1932,7 +1947,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1945,7 +1960,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1958,7 +1973,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1971,7 +1986,20 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
+      "seed": false
+    },
+    {
+      "title": "악필, 그 울림 (무료입장) 스튜디오 고함(종로구) ~26.08.16(연장)",
+      "venue": "종로",
+      "area": "종로",
+      "region": "종로",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/xUZ4TVBX",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "종로에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1984,7 +2012,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -1997,7 +2025,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2010,7 +2038,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2023,7 +2051,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2036,7 +2064,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2049,7 +2077,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2062,7 +2090,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "중구에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2088,7 +2116,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2101,7 +2129,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2114,7 +2142,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2127,7 +2155,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2140,7 +2168,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "송파에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2153,7 +2181,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2166,7 +2194,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2179,7 +2207,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2192,7 +2220,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2205,7 +2233,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2218,7 +2246,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2231,7 +2259,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2244,7 +2272,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2257,7 +2285,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2283,7 +2311,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2296,7 +2324,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
+      "seed": false
+    },
+    {
+      "title": "조상은: Where light flows (무료입장) 레지나 갤러리(종로구) ~26.08.12",
+      "venue": "종로",
+      "area": "종로",
+      "region": "종로",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/5BcHj6Dt",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "종로에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2309,7 +2350,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2322,7 +2363,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2335,7 +2376,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2374,7 +2415,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2387,7 +2428,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2400,7 +2441,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2413,7 +2454,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "홍대에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2426,7 +2467,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2439,7 +2480,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
+      "seed": false
+    },
+    {
+      "title": "할 수 있는 자가 구하라 (무료입장) 갤러리 현대(종로구) ~26.07.26",
+      "venue": "종로",
+      "area": "종로",
+      "region": "종로",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/xgNSiatA",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "종로에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-07-20T19:34:40+09:00",
       "seed": false
     },
     {
@@ -2452,7 +2506,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:12+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2465,7 +2519,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-14T16:24:52+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     },
     {
@@ -2478,7 +2532,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-07-18T16:12:13+09:00",
+      "lastSeen": "2026-07-20T19:34:41+09:00",
       "seed": false
     }
   ]
