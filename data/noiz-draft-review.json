@@ -1,10 +1,10 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-22T18:18:59+09:00",
+  "updated_at": "2026-07-23T18:15:16+09:00",
   "published": true,
-  "active_inventory_count": 184,
-  "candidate_count": 100,
-  "fresh_accepted_count": 69,
+  "active_inventory_count": 183,
+  "candidate_count": 99,
+  "fresh_accepted_count": 65,
   "final_card_count": 9,
   "seed_fallback_available": true,
   "warnings": [],
@@ -166,6 +166,45 @@
       "reason": "aggregate/listing/review-like title"
     },
     {
+      "sourceName": "Popply",
+      "sourceType": "popup",
+      "title": "POPUP 팝업발견",
+      "text": "POPUP 팝업발견 POPUP 팝업발견",
+      "url": "https://popply.co.kr/popup",
+      "weight": 22,
+      "start": "",
+      "end": "",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "reason": "This is a general page for discovering pop-ups, not a specific event. The title is not specific enough."
+    },
+    {
+      "sourceName": "Popply",
+      "sourceType": "popup",
+      "title": "HEY, HERE 팝업제보",
+      "text": "HEY, HERE 팝업제보 HEY, HERE 팝업제보",
+      "url": "https://popply.co.kr/popupreport",
+      "weight": 22,
+      "start": "",
+      "end": "",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "reason": "This is a page for reporting pop-ups, not an actual event listing."
+    },
+    {
+      "sourceName": "Ddoing Exhibition Schedule",
+      "sourceType": "exhibition",
+      "title": "전시일정",
+      "text": "전시일정 전시일정",
+      "url": "https://ddoing.co.kr/ddoing_exhibition_schedule",
+      "weight": 20,
+      "start": "",
+      "end": "",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "reason": "This is a general exhibition schedule page, not a specific event."
+    },
+    {
       "sourceName": "GroundSeesaw",
       "sourceType": "exhibition",
       "title": "Exhibitions",
@@ -176,7 +215,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전시 목록 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "전시 목록 페이지로, 특정 단일 전시를 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -189,7 +228,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -202,7 +241,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -215,7 +254,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "기관 홈페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메인 페이지로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -228,7 +267,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -241,7 +280,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -254,7 +293,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -267,7 +306,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -280,7 +319,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -293,7 +332,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -306,46 +345,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
-    },
-    {
-      "sourceName": "MMCA Exhibitions",
-      "sourceType": "exhibition",
-      "title": "디지털미술관",
-      "text": "디지털미술관 디지털미술관 메인 맞춤검색 오디오가이드 이용자갤러리",
-      "url": "javascript:fn_menuChange('/digitals/digitalMain.do', '01F000600000000', '1');",
-      "weight": 18,
-      "start": "",
-      "end": "",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
-    },
-    {
-      "sourceName": "MMCA Exhibitions",
-      "sourceType": "exhibition",
-      "title": "이용자갤러리",
-      "text": "이용자갤러리 이용자갤러리",
-      "url": "javascript:fn_menuChange('/digitals/digitalCuraList.do', '01F000604000000', '2');",
-      "weight": 18,
-      "start": "",
-      "end": "",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "reason": "웹사이트 메뉴 페이지로, 특정 단일 전시회 정보가 아닙니다."
-    },
-    {
-      "sourceName": "MMCA Exhibitions",
-      "sourceType": "exhibition",
-      "title": "미술관 소개",
-      "text": "미술관 소개 미술관 소개",
-      "url": "https://www.mmca.go.kr/about/introduction.do",
-      "weight": 18,
-      "start": "",
-      "end": "",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "reason": "기관 소개 페이지로, 특정 단일 전시회 정보가 아닙니다."
+      "reason": "웹사이트의 메뉴 항목으로, 특정 전시나 팝업을 나타내지 않습니다."
     }
   ],
   "items": [
@@ -379,17 +379,17 @@
     {
       "rank": 2,
       "brand": "MMCA Exhibitions",
-      "title": "관람·참여",
-      "owner": "서울/수도권에서 열리는 전시 및 문화 행사에 참여하며 다채로운 경험을 쌓을 수 있습니다.",
+      "title": "어린이미술관",
+      "owner": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보를 제공합니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "관람·참여 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/seoulInfo.do', '01A000100000000', '1');",
+      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 91,
-      "favorability": 70,
-      "description": "서울/수도권에서 열리는 전시 및 문화 행사에 참여하며 다채로운 경험을 쌓을 수 있습니다.",
+      "noiz": 93,
+      "favorability": 72,
+      "description": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보를 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -406,9 +406,36 @@
     },
     {
       "rank": 3,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "상상력 옷장",
+      "owner": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시를 통해 시각적인 즐거움을 만끽할 수 있습니다.",
+      "venue": "마이아트뮤지엄 원그로브점",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "상상력 옷장 마이아트뮤지엄 원그로브점 서울/수도권",
+      "sourceUrl": "https://booking.naver.com/booking/5/bizes/1550092",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 89,
+      "favorability": 68,
+      "description": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시를 통해 시각적인 즐거움을 만끽할 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "2026-08-23",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 4,
       "brand": "ARTMAP",
       "title": "GALLERY",
-      "owner": "서울/수도권 전역에서 펼쳐지는 갤러리 전시를 통해 예술적 영감을 얻을 수 있습니다.",
+      "owner": "서울/수도권의 다양한 갤러리에서 진행되는 전시 정보를 확인할 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -417,7 +444,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "서울/수도권 전역에서 펼쳐지는 갤러리 전시를 통해 예술적 영감을 얻을 수 있습니다.",
+      "description": "서울/수도권의 다양한 갤러리에서 진행되는 전시 정보를 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -432,10 +459,10 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
       "title": "알렉사에게",
-      "owner": "서울시립 미술 아카이브에서 무료로 관람 가능한 '알렉사에게' 전시를 통해 새로운 시각을 경험합니다.",
+      "owner": "서울시립 미술 아카이브에서 열리는 무료 전시 '알렉사에게'를 통해 특별한 경험을 할 수 있습니다.",
       "venue": "서울시립 미술 아카이브",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -444,7 +471,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립 미술 아카이브에서 무료로 관람 가능한 '알렉사에게' 전시를 통해 새로운 시각을 경험합니다.",
+      "description": "서울시립 미술 아카이브에서 열리는 무료 전시 '알렉사에게'를 통해 특별한 경험을 할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -460,50 +487,23 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 6,
       "brand": "MMCA Exhibitions",
-      "title": "어린이미술관",
-      "owner": "서울/수도권의 어린이 미술관에서 아이들과 함께 즐거운 문화 체험을 할 수 있습니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
+      "title": "본문 바로가기",
+      "owner": "국립현대미술관에서 진행되는 전시 정보를 쉽게 찾아볼 수 있습니다.",
+      "venue": "국립현대미술관",
+      "area": "삼청",
+      "region": "삼청",
+      "mapQuery": "본문 바로가기 국립현대미술관 삼청",
+      "sourceUrl": "https://www.mmca.go.kr/exhibitions/progressList.do#content",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울/수도권의 어린이 미술관에서 아이들과 함께 즐거운 문화 체험을 할 수 있습니다.",
+      "description": "국립현대미술관에서 진행되는 전시 정보를 쉽게 찾아볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
         "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 6,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
-      "owner": "서울시립미술관에서 유영국의 작품 세계를 조망하는 전시를 만나볼 수 있습니다.",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25 서울시립미술관 중구",
-      "sourceUrl": "https://naver.me/GPdQtB11",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "서울시립미술관에서 유영국의 작품 세계를 조망하는 전시를 만나볼 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
       "start": "",
@@ -516,9 +516,36 @@
     },
     {
       "rank": 7,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
+      "owner": "서울시립미술관에서 유영국 작가의 작품을 만날 수 있는 전시입니다.",
+      "venue": "서울시립미술관",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25 서울시립미술관 중구",
+      "sourceUrl": "https://naver.me/GPdQtB11",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "서울시립미술관에서 유영국 작가의 작품을 만날 수 있는 전시입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 8,
       "brand": "MMCA Exhibitions",
       "title": "현재전시",
-      "owner": "서울/수도권에서 현재 진행 중인 다양한 전시 정보를 확인하고 방문 계획을 세울 수 있습니다.",
+      "owner": "서울/수도권에서 현재 진행 중인 전시 정보를 쉽게 확인할 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -527,7 +554,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울/수도권에서 현재 진행 중인 다양한 전시 정보를 확인하고 방문 계획을 세울 수 있습니다.",
+      "description": "서울/수도권에서 현재 진행 중인 전시 정보를 쉽게 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -543,55 +570,28 @@
       "aiDescription": true
     },
     {
-      "rank": 8,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "조은 원화전: 오늘의 정원",
-      "owner": "그라운드시소 이스트에서 조은 작가의 원화 작품들을 만나볼 수 있는 특별한 기회입니다.",
-      "venue": "그라운드시소 이스트",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "조은 원화전: 오늘의 정원 그라운드시소 이스트 서울/수도권",
-      "sourceUrl": "https://booking.naver.com/booking/5/bizes/1655259",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 86,
-      "favorability": 68,
-      "description": "그라운드시소 이스트에서 조은 작가의 원화 작품들을 만나볼 수 있는 특별한 기회입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응",
-        "팬덤/굿즈"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-07-17",
-      "end": "2026-11-19",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
       "rank": 9,
-      "brand": "ARTMAP",
-      "title": "ARTIST",
-      "owner": "서울/수도권에서 활동하는 아티스트들의 작품을 감상하며 예술적 안목을 넓힐 수 있습니다.",
-      "venue": "서울/수도권",
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "레이턴트 히트",
+      "owner": "성북예술창작터에서 열리는 무료 전시 '레이턴트 히트'를 통해 새로운 예술적 영감을 얻을 수 있습니다.",
+      "venue": "성북예술창작터",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "ARTIST 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/artists/list.php",
+      "mapQuery": "레이턴트 히트 성북예술창작터 서울/수도권",
+      "sourceUrl": "https://naver.me/xKEVWxcd",
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "서울/수도권에서 활동하는 아티스트들의 작품을 감상하며 예술적 안목을 넓힐 수 있습니다.",
+      "description": "성북예술창작터에서 열리는 무료 전시 '레이턴트 히트'를 통해 새로운 예술적 영감을 얻을 수 있습니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "후기/뉴스 반응",
+        "무료/체험"
       ],
       "category": "exhibition_culture",
       "start": "",
-      "end": "",
-      "evidenceCount": 9,
+      "end": "2026-07-25",
+      "evidenceCount": 8,
       "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
