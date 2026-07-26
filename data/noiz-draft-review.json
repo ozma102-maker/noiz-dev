@@ -1,10 +1,10 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-25T16:34:56+09:00",
+  "updated_at": "2026-07-26T18:01:35+09:00",
   "published": true,
-  "active_inventory_count": 187,
-  "candidate_count": 102,
-  "fresh_accepted_count": 70,
+  "active_inventory_count": 188,
+  "candidate_count": 96,
+  "fresh_accepted_count": 64,
   "final_card_count": 9,
   "seed_fallback_available": true,
   "warnings": [],
@@ -176,7 +176,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page about pop-ups, not a specific event. The title is not specific enough."
+      "reason": "This is a general page for discovering pop-ups, not a specific event."
     },
     {
       "sourceName": "Popply",
@@ -189,7 +189,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page for reporting pop-ups, not a specific event listing."
+      "reason": "This is a page for reporting pop-ups, not a specific event."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -202,7 +202,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page for exhibition schedules, not a specific exhibition."
+      "reason": "This is a general exhibition schedule page, not a specific event."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -215,7 +215,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전시 목록 페이지로, 특정 단일 전시를 나타내지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 목록 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -228,7 +228,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -241,7 +241,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -254,7 +254,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "기관의 메인 홈페이지로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 홈페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -267,7 +267,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -280,7 +280,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -293,7 +293,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -306,7 +306,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 목록 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -319,7 +319,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 목록 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -332,7 +332,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 목록 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -345,7 +345,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "웹사이트의 네비게이션 메뉴로, 특정 전시 정보를 담고 있지 않습니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     }
   ],
   "items": [
@@ -353,43 +353,44 @@
       "rank": 1,
       "brand": "T1 × SK텔레콤",
       "title": "암행천문 : 별을 헤다",
-      "owner": "T Factory 성수에서 T1의 우승 서사와 팬덤을 결합한 대형 브랜드 전시를 경험할 수 있습니다.",
+      "owner": "T1의 우승 서사와 팬덤형 체험을 T Factory 성수 공간에 묶은 대형 브랜드 전시",
       "venue": "T Factory 성수",
       "area": "성수",
       "region": "성동구",
       "mapQuery": "암행천문 : 별을 헤다 T Factory 성수 성수",
       "sourceUrl": "https://news.sktelecom.com/227286",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 96,
+      "noiz": 99,
       "favorability": 72,
-      "description": "T Factory 성수에서 T1의 우승 서사와 팬덤을 결합한 대형 브랜드 전시를 경험할 수 있습니다.",
+      "description": "T1의 우승 서사와 팬덤형 체험을 T Factory 성수 공간에 묶은 대형 브랜드 전시",
       "signals": [
         "공식/정보 출처",
+        "후기/뉴스 반응",
         "팬덤/굿즈"
       ],
       "category": "popup_brand",
       "start": "2026-07-02",
       "end": "2026-09-13",
       "evidenceCount": 9,
-      "reactionCount": 0,
+      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": true,
       "aiDescription": true
     },
     {
       "rank": 2,
-      "brand": "MMCA Exhibitions",
-      "title": "어린이미술관",
-      "owner": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보를 제공합니다.",
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "전시일정",
+      "owner": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
+      "mapQuery": "전시일정 서울/수도권 서울/수도권",
+      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 93,
-      "favorability": 72,
-      "description": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보를 제공합니다.",
+      "noiz": 99,
+      "favorability": 70,
+      "description": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -399,7 +400,7 @@
       "start": "",
       "end": "",
       "evidenceCount": 9,
-      "reactionCount": 2,
+      "reactionCount": 4,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
@@ -407,17 +408,17 @@
     {
       "rank": 3,
       "brand": "MMCA Exhibitions",
-      "title": "관람·참여",
-      "owner": "서울/수도권에서 진행되는 참여형 전시 및 문화 행사에 대한 정보를 확인할 수 있습니다.",
+      "title": "어린이미술관",
+      "owner": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "관람·참여 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/seoulInfo.do', '01A000100000000', '1');",
+      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 91,
-      "favorability": 70,
-      "description": "서울/수도권에서 진행되는 참여형 전시 및 문화 행사에 대한 정보를 확인할 수 있습니다.",
+      "noiz": 93,
+      "favorability": 72,
+      "description": "서울/수도권에서 아이들과 함께 즐길 수 있는 미술관 전시 정보",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -434,9 +435,65 @@
     },
     {
       "rank": 4,
+      "brand": "MMCA Exhibitions",
+      "title": "관람·참여",
+      "owner": "서울/수도권에서 직접 보고 참여할 수 있는 다채로운 전시 및 문화 행사",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "관람·참여 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/seoulInfo.do', '01A000100000000', '1');",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 91,
+      "favorability": 70,
+      "description": "서울/수도권에서 직접 보고 참여할 수 있는 다채로운 전시 및 문화 행사",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 5,
+      "brand": "MMCA Exhibitions",
+      "title": "본문 바로가기",
+      "owner": "국립현대미술관에서 열리는 흥미로운 전시를 놓치지 마세요",
+      "venue": "국립현대미술관",
+      "area": "삼청",
+      "region": "삼청",
+      "mapQuery": "본문 바로가기 국립현대미술관 삼청",
+      "sourceUrl": "https://www.mmca.go.kr/exhibitions/progressList.do#content",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 90,
+      "favorability": 74,
+      "description": "국립현대미술관에서 열리는 흥미로운 전시를 놓치지 마세요",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
       "brand": "ARTMAP",
       "title": "GALLERY",
-      "owner": "서울/수도권 내 갤러리에서 열리는 다양한 전시 정보를 안내합니다.",
+      "owner": "서울/수도권의 갤러리에서 펼쳐지는 예술 작품들을 만나볼 수 있는 기회",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -445,7 +502,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "서울/수도권 내 갤러리에서 열리는 다양한 전시 정보를 안내합니다.",
+      "description": "서울/수도권의 갤러리에서 펼쳐지는 예술 작품들을 만나볼 수 있는 기회",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -460,10 +517,10 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
       "title": "알렉사에게",
-      "owner": "서울시립 미술 아카이브에서 무료로 진행되는 '알렉사에게' 전시를 통해 깊이 있는 경험을 할 수 있습니다.",
+      "owner": "서울시립 미술 아카이브에서 열리는 무료 전시 '알렉사에게'를 통해 새로운 경험을 선사합니다.",
       "venue": "서울시립 미술 아카이브",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -472,7 +529,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립 미술 아카이브에서 무료로 진행되는 '알렉사에게' 전시를 통해 깊이 있는 경험을 할 수 있습니다.",
+      "description": "서울시립 미술 아카이브에서 열리는 무료 전시 '알렉사에게'를 통해 새로운 경험을 선사합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -488,10 +545,10 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 8,
       "brand": "서울생활사박물관",
       "title": "대학에서 우리는",
-      "owner": "서울생활사박물관에서 대학 생활과 세대 경험을 조명하는 기획전을 만나볼 수 있습니다.",
+      "owner": "서울생활사박물관에서 대학 생활과 세대 경험을 다루는 기획전을 통해 과거를 되돌아봅니다.",
       "venue": "서울생활사박물관",
       "area": "노원",
       "region": "노원구",
@@ -500,7 +557,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 68,
-      "description": "서울생활사박물관에서 대학 생활과 세대 경험을 조명하는 기획전을 만나볼 수 있습니다.",
+      "description": "서울생활사박물관에서 대학 생활과 세대 경험을 다루는 기획전을 통해 과거를 되돌아봅니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -515,38 +572,10 @@
       "aiDescription": true
     },
     {
-      "rank": 7,
-      "brand": "MMCA Exhibitions",
-      "title": "본문 바로가기",
-      "owner": "국립현대미술관에서 진행되는 전시 정보를 통해 예술적 영감을 얻을 수 있습니다.",
-      "venue": "국립현대미술관",
-      "area": "삼청",
-      "region": "삼청",
-      "mapQuery": "본문 바로가기 국립현대미술관 삼청",
-      "sourceUrl": "https://www.mmca.go.kr/exhibitions/progressList.do#content",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "국립현대미술관에서 진행되는 전시 정보를 통해 예술적 영감을 얻을 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "brand": "Ddoing Exhibition Schedule",
       "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
-      "owner": "서울시립미술관에서 유영국 작가의 작품 세계를 탐구하는 전시를 관람할 수 있습니다.",
+      "owner": "서울시립미술관에서 유영국 작가의 '산은 내 안에 있다' 전시를 통해 자연의 아름다움을 느껴보세요.",
       "venue": "서울시립미술관",
       "area": "중구",
       "region": "중구",
@@ -555,38 +584,10 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립미술관에서 유영국 작가의 작품 세계를 탐구하는 전시를 관람할 수 있습니다.",
+      "description": "서울시립미술관에서 유영국 작가의 '산은 내 안에 있다' 전시를 통해 자연의 아름다움을 느껴보세요.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 9,
-      "brand": "MMCA Exhibitions",
-      "title": "현재전시",
-      "owner": "서울/수도권에서 현재 진행 중인 다양한 전시 정보를 쉽게 찾아볼 수 있습니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "현재전시 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/exhibitions/progressList.do', '01B000201000000', '2');",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "서울/수도권에서 현재 진행 중인 다양한 전시 정보를 쉽게 찾아볼 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응",
-        "무료/체험"
       ],
       "category": "exhibition_culture",
       "start": "",
