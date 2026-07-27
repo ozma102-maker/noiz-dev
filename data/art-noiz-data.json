@@ -1,7 +1,7 @@
 {
   "site": "NOIZ. Art",
-  "updated_at": "2026-07-26T18:05:19+09:00",
-  "weekly_read": "현재 ART NOIZ는 송파·중구·삼청 중심으로 잡혀. Top 10의 핵심 매체는 동시대미술·회화이고, 구성은 미술관 8개, 갤러리 2개에 가까워. 관객 관심은 특정 작가 한 명보다, 주말 동선 안에서 여러 전시를 묶어보는 쪽으로 움직이고 있어. 가장 강한 신호는 유영국: A Mountain Within Me지만, 단독 목적지라기보다 주변 전시들과 묶어 볼 때 더 설득력 있어 보여. 상위권에서 미술관 비중이 높아서, 단발성 발견보다 검증된 기관 전시와 큰 규모의 관람 경험이 더 안정적인 선택지로 보여. 이 흐름은 여름 시즌의 이동 피로 속에서, 관객이 실패 확률 낮고 한 번에 이해되는 전시를 선호하는 상황과도 맞닿아 있어.",
+  "updated_at": "2026-07-27T21:45:23+09:00",
+  "weekly_read": "현재 ART NOIZ는 삼청·중구·청담 중심으로 잡혀. Top 10의 핵심 매체는 동시대미술·회화이고, 구성은 미술관 7개, 갤러리 3개에 가까워. 관객 관심은 특정 작가 한 명보다, 주말 동선 안에서 여러 전시를 묶어보는 쪽으로 움직이고 있어. 가장 강한 신호는 유영국: A Mountain Within Me지만, 단독 목적지라기보다 주변 전시들과 묶어 볼 때 더 설득력 있어 보여. 상위권에서 미술관 비중이 높아서, 단발성 발견보다 검증된 기관 전시와 큰 규모의 관람 경험이 더 안정적인 선택지로 보여. 이 흐름은 여름 시즌의 이동 피로 속에서, 관객이 실패 확률 낮고 한 번에 이해되는 전시를 선호하는 상황과도 맞닿아 있어.",
   "items": [
     {
       "rank": 1,
@@ -73,40 +73,6 @@
     },
     {
       "rank": 3,
-      "brand": "이승택",
-      "title": "조각의 바깥에서 At the Edge of Sculpture",
-      "owner": "소마미술관 전시",
-      "venue": "소마미술관",
-      "area": "송파",
-      "region": "서울",
-      "mapQuery": "소마미술관",
-      "sourceUrl": "https://art-map.co.kr/",
-      "sourceLabel": "정보 출처",
-      "overview": "이승택의 조각적 실험과 확장된 조각 개념을 보는 전시.",
-      "noiz": 85,
-      "favorability": 86,
-      "description": "이승택의 조각적 실험을 통해 조각이 물질, 행위, 공간으로 확장되는 방식을 보여주는 전시. 전통적인 조각 개념의 바깥을 확인할 수 있다.",
-      "signals": [
-        "추천/중요",
-        "미술관",
-        "sculpture",
-        "solo"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 1,
-      "reactionCount": 1,
-      "confidence": "medium",
-      "category": "art",
-      "artist": "이승택",
-      "start": "2026-04-10",
-      "end": "2026-07-26",
-      "venueType": "museum",
-      "sourceKeys": [
-        "artmap"
-      ]
-    },
-    {
-      "rank": 4,
       "brand": "Jun Hyejoo",
       "title": "Endoskopeia",
       "owner": "송은 전시",
@@ -140,7 +106,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "brand": "권병준",
       "title": "권병준: 내 마음속에 너는",
       "owner": "서울시립 북서울미술관 전시",
@@ -174,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "brand": "Bae Yoon Hwan",
       "title": "Heavy Breathers",
       "owner": "갤러리바톤 전시",
@@ -208,7 +174,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "brand": "Woo Hannah, Choi Sujin, Shuyi Cao",
       "title": "Faisandage",
       "owner": "G갤러리 전시",
@@ -242,7 +208,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "brand": "Picasso, Braque 외",
       "title": "The Cubists: Inventing Modern Vision",
       "owner": "퐁피두센터 한화 서울 전시",
@@ -276,7 +242,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "brand": "Group exhibition",
       "title": "그림책이 살아있다!",
       "owner": "소마미술관 전시",
@@ -310,7 +276,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "brand": "Collection exhibition",
       "title": "블랑 블랙 파노라마",
       "owner": "수원시립미술관 전시",
@@ -341,6 +307,40 @@
       "venueType": "museum",
       "sourceKeys": [
         "artmap"
+      ]
+    },
+    {
+      "rank": 10,
+      "brand": "Jihyun Lee",
+      "title": "Fantasma: Restless Silence",
+      "owner": "아라리오갤러리 서울 전시",
+      "venue": "아라리오갤러리 서울",
+      "area": "삼청",
+      "region": "서울",
+      "mapQuery": "아라리오갤러리 서울",
+      "sourceUrl": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
+      "sourceLabel": "정보 출처",
+      "overview": "Jihyun Lee의 작업 세계를 중심으로 구성된 미술 전시.",
+      "noiz": 66,
+      "favorability": 77,
+      "description": "Jihyun Lee의 작업을 중심으로 개인전·갤러리 전시·동시대미술의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "signals": [
+        "갤러리",
+        "solo",
+        "gallery",
+        "contemporary"
+      ],
+      "infoVolume": "medium",
+      "evidenceCount": 1,
+      "reactionCount": 1,
+      "confidence": "medium",
+      "category": "art",
+      "artist": "Jihyun Lee",
+      "start": "2026-07-01",
+      "end": "2026-08-15",
+      "venueType": "gallery",
+      "sourceKeys": [
+        "ocula"
       ]
     }
   ],
