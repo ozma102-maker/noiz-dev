@@ -1,38 +1,8 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-07-27T21:40:47+09:00",
+  "updated_at": "2026-07-28T19:04:38+09:00",
   "mode": "inventory",
   "items": [
-    {
-      "title": "임다인 개인전 《빛이 머무는 자리 Where Light Lingers》",
-      "venue": "오브제후드",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "start": "2026-06-12",
-      "end": "2026-07-13",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32365",
-      "sourceName": "ARTMAP",
-      "summary": "오브제후드에서 임다인 개인전 '빛이 머무는 자리 Where Light Lingers'를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 제목, 장소, 날짜가 구체적으로 명시되어 있습니다.",
-      "lastSeen": "2026-07-11T16:24:22+09:00",
-      "seed": false
-    },
-    {
-      "title": "임다인 개인전 《빛이 머무는 자리 Where Light Lingers》 오브제후드/부산",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
-      "category": "exhibition_culture",
-      "start": "2026-06-12",
-      "end": "2026-07-13",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32365",
-      "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-07-09T16:30:11+09:00",
-      "seed": false
-    },
     {
       "title": "빤쮸토끼 POP UP in 더현대 서울",
       "venue": "더현대 서울",
@@ -321,7 +291,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "삼세영갤러리에서 진행되는 ICON: The Chair Series 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -333,13 +303,13 @@
       "end": "2026-07-31",
       "officialUrl": "https://naver.me/56RWZ4Tv",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "한원미술관에서 진행되는 임현경 초대전: 히든 위버스 전시입니다.",
+      "summary": "한원미술관에서 진행되는 임현경 초대전: 히든 위버스입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
-      "title": "‘APMA,CHAPTER FIVE’ 현대미술 소장품 특별전",
+      "title": "‘APMA, CHAPTER FIVE’ 현대미술 소장품 특별전",
       "venue": "아모레퍼시픽미술관",
       "area": "서울",
       "region": "서울",
@@ -348,9 +318,9 @@
       "end": "2026-08-02",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32250",
       "sourceName": "ARTMAP",
-      "summary": "아모레퍼시픽미술관에서 '‘APMA,CHAPTER FIVE’ 현대미술 소장품 특별전'을 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "아모레퍼시픽미술관에서 'APMA, CHAPTER FIVE' 현대미술 소장품 특별전을 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -364,7 +334,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "K&L 뮤지엄에서 진행되는 사유의 두 축 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -378,7 +348,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "플랫폼엘에서 진행되는 하루키를 말할 때 우리가 하고 싶은 이야기 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -399,16 +369,16 @@
     {
       "title": "여름 숲속의 기억 나무 그늘 아래 Memories in the Summer forest",
       "venue": "파넬갤러리",
-      "area": "서울",
-      "region": "서울",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
       "category": "exhibition_culture",
       "start": "2026-06-30",
       "end": "2026-08-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32403",
       "sourceName": "ARTMAP",
-      "summary": "파넬갤러리에서 '여름 숲속의 기억 나무 그늘 아래' 전시를 개최합니다.",
-      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 명확합니다.",
-      "lastSeen": "2026-07-26T18:01:44+09:00",
+      "summary": "파넬갤러리에서 '여름 숲속의 기억 나무 그늘 아래 Memories in the Summer forest' 전시를 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -422,7 +392,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "핌서울에서 진행되는 Not, Yet, Gone 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -436,7 +406,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "마이어리거울프에서 진행되는 부드러운 이탈 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -450,7 +420,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "포도뮤지엄에서 진행되는 우리 이토록 작은 존재들 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date. Although the area is listed as Seoul/Metropolitan, the venue is in Jeju.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -464,7 +434,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "라니서울에서 진행되는 우리들의 초상 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -478,7 +448,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "오에이오에이에서 진행되는 정재열 개인전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -492,7 +462,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "레지나 갤러리에서 진행되는 조상은: Where light flows 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -506,7 +476,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "에스더쉬퍼 갤러리에서 진행되는 메리코켑 베르하누 개인전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -520,7 +490,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "아라리오갤러리에서 진행되는 이지현: 몽환서 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -534,7 +504,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "아라리오갤러리에서 진행되는 임수범: 어젯밤 바라본 금빛 용의 신기루 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -548,7 +518,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "갤러리 신라에서 진행되는 진품 명품 what we see 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -561,8 +531,8 @@
       "officialUrl": "https://naver.me/xUZ4TVBX",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "스튜디오 고함에서 진행되는 악필, 그 울림 전시입니다.",
-      "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "Specific exhibition with a clear title and end date. The '(연장)' indicates it's an ongoing event.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -576,7 +546,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "가나아트 남산에서 진행되는 박대성: 고요가 머무는 곳 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -590,7 +560,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "석파정 미술관에서 진행되는 쉽게 닳지 않는 사람 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -604,7 +574,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "더비아갤러리에서 진행되는 유재연 개인전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -618,7 +588,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "김창열 화가 자택에서 진행되는 김창열 화가의 집 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -632,7 +602,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강동아트센터에서 진행되는 동물의 세계: 몬도 아니말레 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -646,7 +616,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "마이아트뮤지엄 원그로브점에서 진행되는 상상력 옷장 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -660,7 +630,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "김종영 미술관에서 진행되는 신종훈 개인전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -674,7 +644,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "김종영 미술관에서 진행되는 유상우:Blue Wall 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -688,7 +658,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "세종문화회관 미술관에서 진행되는 인상주의를 넘어 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -717,8 +687,8 @@
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
       "sourceName": "ARTMAP",
       "summary": "예술의전당 한가람디자인미술관에서 페르난도 보테로의 '형태의 미학' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강하여 keep합니다. (i:39와 동일 전시)",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -739,16 +709,16 @@
     {
       "title": "SERIOUSLY NOT SERIOUS 맥스 시덴토프 개인전",
       "venue": "그라운드시소 센트럴",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-03-27",
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32216",
       "sourceName": "ARTMAP",
       "summary": "그라운드시소 센트럴에서 맥스 시덴토프 개인전 'SERIOUSLY NOT SERIOUS'를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -797,6 +767,21 @@
       "seed": false
     },
     {
+      "title": "《그래도 해보던 날들》",
+      "venue": "국립현대미술관 서울관",
+      "area": "서울",
+      "region": "서울",
+      "category": "exhibition_culture",
+      "start": "2026-04-17",
+      "end": "2026-08-30",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
+      "sourceName": "ARTMAP",
+      "summary": "국립현대미술관 서울관에서 '그래도 해보던 날들' 전시를 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
+      "seed": false
+    },
+    {
       "title": "《그래도 해보던 날들》 국립현대미술관서울관/서울",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
@@ -809,21 +794,6 @@
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
       "lastSeen": "2026-07-20T19:34:41+09:00",
-      "seed": false
-    },
-    {
-      "title": "그래도 해보던 날들",
-      "venue": "국립현대미술관 서울관",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-04-17",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
-      "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 서울관에서 '그래도 해보던 날들' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
       "seed": false
     },
     {
@@ -852,8 +822,8 @@
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
       "sourceName": "ARTMAP",
       "summary": "고은사진미술관에서 띠에리 아르두엥의 'Seed Stories' 전시를 개최합니다.",
-      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 명확합니다.",
-      "lastSeen": "2026-07-26T18:01:44+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -882,7 +852,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 센트럴에서 진행되는 맥스 시덴토프 개인전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -896,7 +866,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "KF 아세안문화원에서 진행되는 직조하는 손, 여성의 시간 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date. The area is listed as Seoul/Metropolitan, but the venue is in Busan.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -910,7 +880,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "예술의전당 한가람 디자인 미술관에서 진행되는 페르난도 보테로전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -924,7 +894,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 한남에서 진행되는 성률: 여름을 닮은 우리 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -937,8 +907,8 @@
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32285",
       "sourceName": "ARTMAP",
       "summary": "소마미술관에서 '그림책이 살아있다!' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false,
       "start": "2026-04-17"
     },
@@ -968,7 +938,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립중앙박물관에서 진행되는 어메이징 타일랜드 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -982,7 +952,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "피크닉에서 진행되는 온 세상 만들기의 비밀을 찾아서 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -996,7 +966,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "성북구립미술관에서 진행되는 정보원: 열린 이름 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1025,7 +995,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "띠아트뮤지엄 홍대에서 진행되는 필립 예니카: 럭키럭키럭키 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1039,7 +1009,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "이함캠퍼스에서 진행되는 가에타노페세 가구전: Different is Beautiful 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1068,7 +1038,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "예술의전당 한가람미술관에서 진행되는 스페인의 거장 고야: 이성이 잠들 때, 괴물이 깨어난다 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1082,7 +1052,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "퐁피두센터 한화에서 진행되는 큐비스트: 시각의 혁신가들 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1096,7 +1066,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 서울에서 진행되는 이것은 개념미술이 아니다 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1125,7 +1095,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "한가람미술관 서예박물관에서 진행되는 브라이언 와일드 스미스 전입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1154,7 +1124,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "대구미술관에서 진행되는 바깥을 향한 속삭임 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date. The area is listed as Seoul/Metropolitan, but the venue is in Daegu.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1169,7 +1139,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관 서소문 본관에서 진행되는 유영국: 산은 내 안에 있다 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1184,7 +1154,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "ALT.1 더현대서울현대백화점에서 진행되는 뱅크시: Still here 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1214,7 +1184,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 이스트에서 진행되는 조은 원화전: 오늘의 정원 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1243,7 +1213,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "김중업 건축문화의 집에서 진행되는 이정윤: 노래하는 집 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1257,7 +1227,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관 서소문본관에서 진행되는 기술의 저변: 경계에 선 장면들 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1271,7 +1241,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "리움미술관에서 진행되는 다른 공간 안으로 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1285,7 +1255,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "뮤지엄 산에서 진행되는 이배: 기다리며 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date. The area is listed as Seoul/Metropolitan, but the venue is in Gangwon-do.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1299,7 +1269,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립세종수목원에서 진행되는 앙리 마티스가 그린 오색 정원 전시입니다.",
       "notes": "Specific exhibition with a clear title and end date. The area is listed as Seoul/Metropolitan, but the venue is in Sejong City.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1325,9 +1295,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "전이수 작가의 '우리 함께 제주도' 전시를 전이수 갤러리에서 관람할 수 있습니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "전이수 작가의 '우리 함께 제주도' 전시를 전이수 갤러리에서 만나볼 수 있습니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1354,8 +1324,8 @@
       "officialUrl": "https://naver.me/GFB1lVe8",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 과천에서 해외 명작 '수련과 샹들리에' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1382,23 +1352,23 @@
       "officialUrl": "https://naver.me/xVBxnSJI",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "카이스트 미술관에서 류경채 작가의 '마음의 시' 전시를 무료로 관람할 수 있습니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》",
-      "venue": "수원시립미술관",
-      "area": "경기",
-      "region": "경기",
+      "venue": "수원시립미술관(수원시립아이파크미술관)",
+      "area": "경기 수원시",
+      "region": "경기 수원시",
       "category": "exhibition_culture",
       "start": "2026-02-12",
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립미술관에서 '2026 소장품전《블랑 블랙 파노라마》' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "수원시립미술관에서 '2026 소장품전 블랑 블랙 파노라마' 전시를 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1417,7 +1387,7 @@
       "seed": false
     },
     {
-      "title": "권병준: 내 마음속에 너는",
+      "title": "《권병준: 내 마음속에 너는》",
       "venue": "서울시립미술관 북서울관",
       "area": "서울",
       "region": "서울",
@@ -1426,9 +1396,9 @@
       "end": "2027-05-16",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32398",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관 북서울관에서 권병준 작가의 '내 마음속에 너는' 전시를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "서울시립미술관 북서울관에서 '권병준: 내 마음속에 너는' 전시를 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -1441,8 +1411,8 @@
       "officialUrl": "https://naver.me/x67SWpC0",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립중앙박물관에서 '그리스가 로마에게, 로마가 그리스에게' 전시를 무료로 개최합니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜 정보도 포함되어 있습니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 종료일이 명확하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
@@ -2519,9 +2489,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://www.audeum.org/booking",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "오디움 박물관에서 '정음: 소리의 여정' 전시를 무료로 관람할 수 있습니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "오디움 박물관에서 '정음: 소리의 여정' 전시를 무료로 개최합니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강하여 keep합니다.",
+      "lastSeen": "2026-07-28T19:04:50+09:00",
       "seed": false
     },
     {
