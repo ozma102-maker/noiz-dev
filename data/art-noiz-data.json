@@ -1,7 +1,7 @@
 {
   "site": "NOIZ. Art",
-  "updated_at": "2026-07-30T18:40:48+09:00",
-  "weekly_read": "현재 ART NOIZ는 삼청·중구·청담 중심으로 잡혀. Top 10의 핵심 매체는 동시대미술·회화이고, 구성은 미술관 7개, 갤러리 3개에 가까워. 관객 관심은 특정 작가 한 명보다, 주말 동선 안에서 여러 전시를 묶어보는 쪽으로 움직이고 있어. 가장 강한 신호는 유영국: A Mountain Within Me지만, 단독 목적지라기보다 주변 전시들과 묶어 볼 때 더 설득력 있어 보여. 상위권에서 미술관 비중이 높아서, 단발성 발견보다 검증된 기관 전시와 큰 규모의 관람 경험이 더 안정적인 선택지로 보여. 이 흐름은 여름 시즌의 이동 피로 속에서, 관객이 실패 확률 낮고 한 번에 이해되는 전시를 선호하는 상황과도 맞닿아 있어.",
+  "updated_at": "2026-08-01T16:58:08+09:00",
+  "weekly_read": "현재 ART NOIZ는 삼청·중구·청담 중심으로 잡혀. Top 10의 핵심 매체는 동시대미술·미술사/명작이고, 구성은 미술관 9개, 갤러리 1개에 가까워. 관객 관심은 검증된 이름과 미술사적 맥락이 분명한 전시에 모이는 중이야. 가장 강한 신호는 유영국: A Mountain Within Me지만, 단독 목적지라기보다 주변 전시들과 묶어 볼 때 더 설득력 있어 보여. 상위권에서 미술관 비중이 높아서, 단발성 발견보다 검증된 기관 전시와 큰 규모의 관람 경험이 더 안정적인 선택지로 보여. 이 흐름은 여름 시즌의 이동 피로 속에서, 관객이 실패 확률 낮고 한 번에 이해되는 전시를 선호하는 상황과도 맞닿아 있어.",
   "items": [
     {
       "rank": 1,
@@ -141,74 +141,6 @@
     },
     {
       "rank": 5,
-      "brand": "Bae Yoon Hwan",
-      "title": "Heavy Breathers",
-      "owner": "갤러리바톤 전시",
-      "venue": "갤러리바톤",
-      "area": "한남",
-      "region": "서울",
-      "mapQuery": "갤러리바톤",
-      "sourceUrl": "https://ocula.com/cities/south-korea/seoul-art-galleries/exhibitions/",
-      "sourceLabel": "정보 출처",
-      "overview": "Bae Yoon Hwan의 작업 세계를 중심으로 구성된 미술 전시.",
-      "noiz": 76,
-      "favorability": 81,
-      "description": "Bae Yoon Hwan의 작업을 중심으로 개인전·회화·갤러리 전시의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
-      "signals": [
-        "추천/중요",
-        "갤러리",
-        "solo",
-        "painting"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 1,
-      "reactionCount": 1,
-      "confidence": "medium",
-      "category": "art",
-      "artist": "Bae Yoon Hwan",
-      "start": "2026-06-27",
-      "end": "2026-07-31",
-      "venueType": "gallery",
-      "sourceKeys": [
-        "ocula"
-      ]
-    },
-    {
-      "rank": 6,
-      "brand": "Woo Hannah, Choi Sujin, Shuyi Cao",
-      "title": "Faisandage",
-      "owner": "G갤러리 전시",
-      "venue": "G갤러리",
-      "area": "강남",
-      "region": "서울",
-      "mapQuery": "G갤러리",
-      "sourceUrl": "https://www.ggallery.kr/exhibitions",
-      "sourceLabel": "정보 출처",
-      "overview": "Woo Hannah, Choi Sujin, Shuyi Cao의 작업 세계를 중심으로 구성된 미술 전시.",
-      "noiz": 74,
-      "favorability": 77,
-      "description": "여러 작가의 작업을 묶어 그룹전·갤러리 전시·젊은 작가의 흐름을 보여주는 전시. 갤러리 공간의 밀도 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
-      "signals": [
-        "공식 확인",
-        "갤러리",
-        "group",
-        "gallery"
-      ],
-      "infoVolume": "medium",
-      "evidenceCount": 1,
-      "reactionCount": 1,
-      "confidence": "medium",
-      "category": "art",
-      "artist": "Woo Hannah, Choi Sujin, Shuyi Cao",
-      "start": "2026-07-01",
-      "end": "2026-07-31",
-      "venueType": "gallery",
-      "sourceKeys": [
-        "official"
-      ]
-    },
-    {
-      "rank": 7,
       "brand": "Picasso, Braque 외",
       "title": "The Cubists: Inventing Modern Vision",
       "owner": "퐁피두센터 한화 서울 전시",
@@ -242,7 +174,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "brand": "Group exhibition",
       "title": "그림책이 살아있다!",
       "owner": "소마미술관 전시",
@@ -276,7 +208,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "brand": "Collection exhibition",
       "title": "블랑 블랙 파노라마",
       "owner": "수원시립미술관 전시",
@@ -310,7 +242,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "brand": "Jihyun Lee",
       "title": "Fantasma: Restless Silence",
       "owner": "아라리오갤러리 서울 전시",
@@ -341,6 +273,74 @@
       "venueType": "gallery",
       "sourceKeys": [
         "ocula"
+      ]
+    },
+    {
+      "rank": 9,
+      "brand": "TBC",
+      "title": "MMCA 국립현대미술관 National Museum of Modern and Contemporary Art, Korea",
+      "owner": "국립현대미술관 서울 전시",
+      "venue": "국립현대미술관 서울",
+      "area": "삼청",
+      "region": "서울",
+      "mapQuery": "국립현대미술관 서울",
+      "sourceUrl": "https://www.mmca.go.kr/",
+      "sourceLabel": "정보 출처",
+      "overview": "동시대 작가들의 작업을 중심으로 official-scan의 흐름을 보여주는 전시.",
+      "noiz": 58,
+      "favorability": 62,
+      "description": "동시대 작가들의 작업을 중심으로 official-scan의 흐름을 보여주는 전시. 미술관 규모의 맥락 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "signals": [
+        "공식 확인",
+        "검토 필요",
+        "미술관",
+        "official-scan"
+      ],
+      "infoVolume": "medium",
+      "evidenceCount": 1,
+      "reactionCount": 1,
+      "confidence": "low",
+      "category": "art",
+      "artist": "TBC",
+      "start": "2026-08-01",
+      "end": "2026-09-15",
+      "venueType": "museum",
+      "sourceKeys": [
+        "official"
+      ]
+    },
+    {
+      "rank": 10,
+      "brand": "TBC",
+      "title": "Untitled",
+      "owner": "국립현대미술관 서울 전시",
+      "venue": "국립현대미술관 서울",
+      "area": "삼청",
+      "region": "서울",
+      "mapQuery": "국립현대미술관 서울",
+      "sourceUrl": "https://www.mmca.go.kr/",
+      "sourceLabel": "정보 출처",
+      "overview": "동시대 작가들의 작업을 중심으로 official-scan의 흐름을 보여주는 전시.",
+      "noiz": 58,
+      "favorability": 62,
+      "description": "동시대 작가들의 작업을 중심으로 official-scan의 흐름을 보여주는 전시. 미술관 규모의 맥락 안에서 작품의 형식과 분위기를 함께 읽어볼 수 있다.",
+      "signals": [
+        "공식 확인",
+        "검토 필요",
+        "미술관",
+        "official-scan"
+      ],
+      "infoVolume": "medium",
+      "evidenceCount": 1,
+      "reactionCount": 1,
+      "confidence": "low",
+      "category": "art",
+      "artist": "TBC",
+      "start": "2026-08-01",
+      "end": "2026-09-15",
+      "venueType": "museum",
+      "sourceKeys": [
+        "official"
       ]
     }
   ],
