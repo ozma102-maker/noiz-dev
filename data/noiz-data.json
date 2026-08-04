@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-08-03T12:18:08+09:00",
+  "updated_at": "2026-08-04T11:47:27+09:00",
   "theme": {
     "id": "legacy-lime-blue",
     "name": "Legacy Lime & Blue",
@@ -11,13 +11,13 @@
     "line": "rgba(63,93,127,.24)",
     "white": "#f4ffd8"
   },
-  "weekly_read": "이번 주에는 다양한 전시와 문화 경험이 주목받고 있습니다. 특히 '암행천문 : 별을 헤다'는 T1의 서사와 팬덤을 결합한 대형 브랜드 전시로 관심을 모으며, 'DDP Design Play 상생마켓(여름)'은 동대문에서 디자인과 상생을 경험할 수 있는 기회를 제공합니다. 또한, 여러 미술관과 박물관에서 흥미로운 기획전들이 진행 중이니 취향에 맞는 전시를 찾아보세요.",
+  "weekly_read": "이번 주에는 다양한 전시와 문화 행사가 주목받고 있습니다. 특히 T Factory 성수의 '암행천문 : 별을 헤다'와 DDP 디자인 플레이 상생마켓이 눈길을 끕니다. 또한, 서울/수도권 전역에서 다채로운 전시와 문화 경험을 즐길 수 있습니다.",
   "items": [
     {
       "rank": 1,
       "brand": "T1 × SK텔레콤",
       "title": "암행천문 : 별을 헤다",
-      "owner": "T1의 우승 서사와 팬덤형 체험을 T Factory 성수 공간에 묶은 대형 브랜드 전시로, 몰입감 있는 경험을 선사합니다.",
+      "owner": "T Factory 성수에서 T1의 우승 서사와 팬덤형 체험을 결합한 대형 브랜드 전시를 경험할 수 있습니다.",
       "venue": "T Factory 성수",
       "area": "성수",
       "region": "성동구",
@@ -26,7 +26,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 94,
       "favorability": 72,
-      "description": "T1의 우승 서사와 팬덤형 체험을 T Factory 성수 공간에 묶은 대형 브랜드 전시로, 몰입감 있는 경험을 선사합니다.",
+      "description": "T Factory 성수에서 T1의 우승 서사와 팬덤형 체험을 결합한 대형 브랜드 전시를 경험할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "팬덤/굿즈"
@@ -44,16 +44,16 @@
       "rank": 2,
       "brand": "서울디자인재단",
       "title": "DDP Design Play 상생마켓(여름)",
-      "owner": "DDP 어울림광장에서 열리는 이 마켓은 디자인과 상생을 결합한 독특한 경험을 제공하며 여름 시즌을 풍성하게 채웁니다.",
+      "owner": "DDP 어울림광장에서 열리는 디자인과 상생을 테마로 한 마켓을 방문하여 특별한 경험을 할 수 있습니다.",
       "venue": "DDP 어울림광장",
       "area": "동대문",
       "region": "중구",
       "mapQuery": "DDP Design Play 상생마켓(여름) DDP 어울림광장 동대문",
       "sourceUrl": "https://news.seoul.go.kr/culture/archives/533382",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
+      "noiz": 93,
       "favorability": 68,
-      "description": "DDP 어울림광장에서 열리는 이 마켓은 디자인과 상생을 결합한 독특한 경험을 제공하며 여름 시즌을 풍성하게 채웁니다.",
+      "description": "DDP 어울림광장에서 열리는 디자인과 상생을 테마로 한 마켓을 방문하여 특별한 경험을 할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -62,43 +62,16 @@
       "start": "2026-07-11",
       "end": "2026-08-24",
       "evidenceCount": 9,
-      "reactionCount": 2,
+      "reactionCount": 3,
       "confidence": "high",
       "seedFallback": true,
       "aiDescription": true
     },
     {
       "rank": 3,
-      "brand": "서울생활사박물관",
-      "title": "대학에서 우리는",
-      "owner": "서울생활사박물관에서 열리는 이 기획전은 대학 생활과 세대 경험을 깊이 있게 다루며 공감대를 형성합니다.",
-      "venue": "서울생활사박물관",
-      "area": "노원",
-      "region": "노원구",
-      "mapQuery": "대학에서 우리는 서울생활사박물관 노원",
-      "sourceUrl": "https://news.seoul.go.kr/culture/archives/533382",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 68,
-      "description": "서울생활사박물관에서 열리는 이 기획전은 대학 생활과 세대 경험을 깊이 있게 다루며 공감대를 형성합니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-05-15",
-      "end": "2026-09-27",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": true,
-      "aiDescription": true
-    },
-    {
-      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "상상력 옷장",
-      "owner": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시는 관람객에게 다채로운 시각적 경험을 제공합니다.",
+      "owner": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시를 통해 다채로운 시각적 경험을 할 수 있습니다.",
       "venue": "마이아트뮤지엄 원그로브점",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -107,7 +80,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시는 관람객에게 다채로운 시각적 경험을 제공합니다.",
+      "description": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시를 통해 다채로운 시각적 경험을 할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -122,10 +95,10 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "큐비스트: 시각의 혁신가들",
-      "owner": "퐁피두센터 한화에서 선보이는 '큐비스트: 시각의 혁신가들' 전시는 미술사적 의미가 깊은 작품들을 만날 기회입니다.",
+      "owner": "퐁피두센터 한화에서 큐비스트의 혁신적인 작품들을 만나볼 수 있는 전시가 진행 중입니다.",
       "venue": "퐁피두센터 한화",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -134,7 +107,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "퐁피두센터 한화에서 선보이는 '큐비스트: 시각의 혁신가들' 전시는 미술사적 의미가 깊은 작품들을 만날 기회입니다.",
+      "description": "퐁피두센터 한화에서 큐비스트의 혁신적인 작품들을 만나볼 수 있는 전시가 진행 중입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -149,10 +122,38 @@
       "aiDescription": true
     },
     {
+      "rank": 5,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "직조하는 손, 여성의 시간",
+      "owner": "부산 KF 아세안문화원에서 무료로 진행되는 '직조하는 손, 여성의 시간' 전시를 통해 여성의 시간과 문화를 엿볼 수 있습니다.",
+      "venue": "KF 아세안문화원",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "직조하는 손, 여성의 시간 KF 아세안문화원 서울/수도권",
+      "sourceUrl": "https://naver.me/G9r25OOo",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "부산 KF 아세안문화원에서 무료로 진행되는 '직조하는 손, 여성의 시간' 전시를 통해 여성의 시간과 문화를 엿볼 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "2026-08-30",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
       "rank": 6,
       "brand": "한성백제박물관",
       "title": "기록 & 역사Ⅰ: 백제 역사의 실마리, 한원",
-      "owner": "한성백제박물관에서 열리는 이 역사 전시는 백제사의 기록과 해석을 흥미롭게 풀어내어 교육적인 가치를 더합니다.",
+      "owner": "한성백제박물관에서 백제 역사의 기록과 해석을 다루는 흥미로운 역사 전시를 무료로 관람할 수 있습니다.",
       "venue": "한성백제박물관",
       "area": "송파",
       "region": "송파구",
@@ -161,7 +162,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 85,
       "favorability": 70,
-      "description": "한성백제박물관에서 열리는 이 역사 전시는 백제사의 기록과 해석을 흥미롭게 풀어내어 교육적인 가치를 더합니다.",
+      "description": "한성백제박물관에서 백제 역사의 기록과 해석을 다루는 흥미로운 역사 전시를 무료로 관람할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "무료/체험"
@@ -178,35 +179,8 @@
     {
       "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "부드러운 이탈",
-      "owner": "용산 마이어리거울프에서 무료로 관람 가능한 '부드러운 이탈' 전시는 독특한 예술적 감성을 경험하게 합니다.",
-      "venue": "마이어리거울프",
-      "area": "용산",
-      "region": "용산",
-      "mapQuery": "부드러운 이탈 마이어리거울프 용산",
-      "sourceUrl": "https://naver.me/5v3Radd0",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 83,
-      "favorability": 72,
-      "description": "용산 마이어리거울프에서 무료로 관람 가능한 '부드러운 이탈' 전시는 독특한 예술적 감성을 경험하게 합니다.",
-      "signals": [
-        "공식/정보 출처",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "2026-08-08",
-      "evidenceCount": 9,
-      "reactionCount": 0,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 8,
-      "brand": "Ddoing Exhibition Schedule",
       "title": "마틴파 사진전",
-      "owner": "서울시립 사진 미술관에서 무료로 진행되는 마틴파 사진전은 사진 애호가들에게 놓칠 수 없는 기회입니다.",
+      "owner": "서울시립 사진 미술관에서 마틴파 사진전을 무료로 감상하며 사진 예술의 세계를 경험할 수 있습니다.",
       "venue": "서울시립 사진 미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -215,7 +189,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 85,
       "favorability": 74,
-      "description": "서울시립 사진 미술관에서 무료로 진행되는 마틴파 사진전은 사진 애호가들에게 놓칠 수 없는 기회입니다.",
+      "description": "서울시립 사진 미술관에서 마틴파 사진전을 무료로 감상하며 사진 예술의 세계를 경험할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "무료/체험"
@@ -230,10 +204,37 @@
       "aiDescription": true
     },
     {
+      "rank": 8,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "우리 이토록 작은 존재들",
+      "owner": "포도뮤지엄에서 열리는 '우리 이토록 작은 존재들' 전시를 통해 특별한 메시지를 전달받을 수 있습니다.",
+      "venue": "포도뮤지엄",
+      "area": "서귀포시",
+      "region": "서귀포시",
+      "mapQuery": "우리 이토록 작은 존재들 포도뮤지엄 서귀포시",
+      "sourceUrl": "https://booking.naver.com/booking/5/bizes/1461699",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 84,
+      "favorability": 68,
+      "description": "포도뮤지엄에서 열리는 '우리 이토록 작은 존재들' 전시를 통해 특별한 메시지를 전달받을 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "2026-08-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
       "rank": 9,
       "brand": "Ddoing Exhibition Schedule",
       "title": "온 세상 만들기의 비밀을 찾아서",
-      "owner": "중구 피크닉에서 열리는 이 전시는 창의적인 주제로 관람객의 호기심을 자극하며 즐거운 시간을 선사합니다.",
+      "owner": "피크닉에서 진행되는 '온 세상 만들기의 비밀을 찾아서' 전시를 통해 창의적인 영감을 얻을 수 있습니다.",
       "venue": "피크닉",
       "area": "중구",
       "region": "중구",
@@ -242,7 +243,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 84,
       "favorability": 68,
-      "description": "중구 피크닉에서 열리는 이 전시는 창의적인 주제로 관람객의 호기심을 자극하며 즐거운 시간을 선사합니다.",
+      "description": "피크닉에서 진행되는 '온 세상 만들기의 비밀을 찾아서' 전시를 통해 창의적인 영감을 얻을 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -260,7 +261,7 @@
       "rank": 10,
       "brand": "Ddoing Exhibition Schedule",
       "title": "조은 원화전: 오늘의 정원",
-      "owner": "그라운드시소 이스트에서 열리는 '조은 원화전: 오늘의 정원'은 아름다운 작품들로 가득한 전시입니다.",
+      "owner": "그라운드시소 이스트에서 열리는 조은 작가의 원화전을 통해 따뜻하고 감성적인 작품들을 만날 수 있습니다.",
       "venue": "그라운드시소 이스트",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -269,7 +270,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 84,
       "favorability": 68,
-      "description": "그라운드시소 이스트에서 열리는 '조은 원화전: 오늘의 정원'은 아름다운 작품들로 가득한 전시입니다.",
+      "description": "그라운드시소 이스트에서 열리는 조은 작가의 원화전을 통해 따뜻하고 감성적인 작품들을 만날 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
