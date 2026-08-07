@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-08-06T11:47:41+09:00",
+  "updated_at": "2026-08-07T11:47:33+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -318,9 +318,9 @@
       "end": "2026-08-08",
       "officialUrl": "https://naver.me/xdphQVF2",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "핌서울에서 Not, Yet, Gone 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "핌서울에서 열리는 'Not, Yet, Gone' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -346,9 +346,9 @@
       "end": "2026-08-08",
       "officialUrl": "https://naver.me/5v3Radd0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "마이어리거울프에서 부드러운 이탈 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "마이어리거울프에서 열리는 '부드러운 이탈' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -368,15 +368,15 @@
     {
       "title": "우리 이토록 작은 존재들",
       "venue": "포도뮤지엄",
-      "area": "서귀포시",
-      "region": "서귀포시",
+      "area": "제주",
+      "region": "제주",
       "category": "exhibition_culture",
       "end": "2026-08-08",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1461699",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "포도뮤지엄에서 열리는 '우리 이토록 작은 존재들' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -388,9 +388,9 @@
       "end": "2026-08-08",
       "officialUrl": "https://naver.me/xq3a2VbC",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "라니서울에서 우리들의 초상 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "라니서울에서 열리는 '우리들의 초상' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -416,9 +416,9 @@
       "end": "2026-08-08",
       "officialUrl": "https://naver.me/xUwsJCEV",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "오에이오에이에서 정재열 개인전을 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "오에이오에이에서 열리는 정재열 개인전입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -444,9 +444,9 @@
       "end": "2026-08-12",
       "officialUrl": "https://naver.me/5BcHj6Dt",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "레지나 갤러리에서 조상은: Where light flows 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "레지나 갤러리에서 열리는 조상은 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -472,9 +472,9 @@
       "end": "2026-08-14",
       "officialUrl": "https://naver.me/FdCMZUd8",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "에스더쉬퍼 갤러리에서 메리코켑 베르하누 개인전을 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "에스더쉬퍼 갤러리에서 열리는 메리코켑 베르하누 개인전입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -500,9 +500,9 @@
       "end": "2026-08-15",
       "officialUrl": "https://naver.me/FBeXQMAN",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "아라리오갤러리에서 이지현: 몽환서 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "아라리오갤러리에서 열리는 이지현 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -528,9 +528,9 @@
       "end": "2026-08-15",
       "officialUrl": "https://naver.me/FBeXQMAN",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "아라리오갤러리에서 임수범: 어젯밤 바라본 금빛 용의 신기루 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "아라리오갤러리에서 열리는 임수범 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -556,9 +556,9 @@
       "end": "2026-08-15",
       "officialUrl": "https://naver.me/5yW6Y7lZ",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "갤러리 신라에서 진품 명품 what we see 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "갤러리 신라에서 열리는 '진품 명품 what we see' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -584,9 +584,9 @@
       "end": "2026-08-16",
       "officialUrl": "https://naver.me/xUZ4TVBX",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "스튜디오 고함에서 악필, 그 울림 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "스튜디오 고함에서 열리는 '악필, 그 울림' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -612,9 +612,9 @@
       "end": "2026-08-17",
       "officialUrl": "https://naver.me/FTMqGjti",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "가나아트 남산에서 박대성: 고요가 머무는 곳 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "가나아트 남산에서 열리는 박대성 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -641,8 +641,8 @@
       "officialUrl": "https://naver.me/xTT6RaZV",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "석파정 미술관에서 열리는 '쉽게 닳지 않는 사람' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -654,9 +654,9 @@
       "end": "2026-08-21",
       "officialUrl": "https://naver.me/5yP95Opm",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "일민 미술관에서 다시 그린 세계 2026 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "일민 미술관에서 열리는 '다시 그린 세계 2026' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -682,9 +682,9 @@
       "end": "2026-08-22",
       "officialUrl": "https://naver.me/GprLJLiX",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "더비아갤러리에서 유재연 개인전을 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "더비아갤러리에서 열리는 유재연 개인전입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -704,29 +704,29 @@
     {
       "title": "김창열 화가의 집",
       "venue": "김창열 화가 자택",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "평창동",
+      "region": "평창동",
       "category": "exhibition_culture",
       "end": "2026-08-23",
       "officialUrl": "https://naver.me/5Z1Rn2IC",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "평창동 김창열 화가 자택에서 열리는 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "동물의 세계: 몬도 아니말레",
       "venue": "강동아트센터",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "강동구",
+      "region": "강동구",
       "category": "exhibition_culture",
       "end": "2026-08-23",
       "officialUrl": "https://www.gdfac.or.kr/product/ko/performance/258430",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강동아트센터에서 열리는 '동물의 세계: 몬도 아니말레' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -739,8 +739,8 @@
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1550092",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "마이아트뮤지엄 원그로브점에서 열리는 '상상력 옷장' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -752,9 +752,9 @@
       "end": "2026-08-23",
       "officialUrl": "https://naver.me/5xju2k2C",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "김종영 미술관에서 신종훈 개인전을 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "김종영 미술관에서 열리는 신종훈 개인전입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -780,9 +780,9 @@
       "end": "2026-08-23",
       "officialUrl": "https://naver.me/5xju2k2C",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "김종영 미술관에서 유상우:Blue Wall 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "김종영 미술관에서 열리는 유상우 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -809,8 +809,8 @@
       "officialUrl": "https://naver.me/5T4Pw9vn",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "세종문화회관 미술관에서 열리는 '인상주의를 넘어' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -838,9 +838,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
       "sourceName": "ARTMAP",
-      "summary": "예술의전당 한가람디자인미술관에서 열리는 페르난도 보테로 작가의 형태의 미학을 주제로 한 전시입니다.",
-      "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "summary": "예술의전당 한가람디자인미술관에서 열리는 페르난도 보테로 전시입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜 정보가 누락되었으나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -870,7 +870,7 @@
       "sourceName": "ARTMAP",
       "summary": "그라운드시소 센트럴에서 열리는 맥스 시덴토프 개인전입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -913,9 +913,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=31627",
       "sourceName": "ARTMAP",
-      "summary": "부산 사진미술관에서 랄프 깁슨의 'The Black Trilogy' 전시를 관람할 수 있습니다.",
-      "notes": "단일 전시회 정보이며, 공식 페이지로 판단됩니다. 제목이 구체적이고 전시 기간이 명시되어 있습니다.",
-      "lastSeen": "2026-07-22T18:19:15+09:00",
+      "summary": "부산 사진미술관에서 열리는 랄프 깁슨 사진 전시입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -935,7 +935,7 @@
     },
     {
       "title": "《그래도 해보던 날들》",
-      "venue": "국립현대미술관서울관",
+      "venue": "국립현대미술관 서울관",
       "area": "서울",
       "region": "서울",
       "category": "exhibition_culture",
@@ -943,9 +943,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 서울관에서 열리는 '그래도 해보던 날들' 전시입니다.",
+      "summary": "국립현대미술관 서울관에서 열리는 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -988,9 +988,9 @@
       "end": "2026-08-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
       "sourceName": "ARTMAP",
-      "summary": "고은사진미술관에서 띠에리 아르두엥의 'Seed Stories' 전시를 개최합니다.",
-      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이지만, 시작일과 종료일이 명확하여 keep합니다.",
-      "lastSeen": "2026-07-28T19:04:50+09:00",
+      "summary": "고은사진미술관에서 열리는 띠에리 아르두엥 사진 전시입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1018,22 +1018,22 @@
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1580585",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 센트럴에서 열리는 맥스 시덴토프 개인전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "직조하는 손, 여성의 시간",
       "venue": "KF 아세안문화원",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "부산",
+      "region": "부산",
       "category": "exhibition_culture",
       "end": "2026-08-30",
       "officialUrl": "https://naver.me/G9r25OOo",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "부산 KF 아세안문화원에서 직조하는 손, 여성의 시간 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "KF 아세안문화원에서 열리는 '직조하는 손, 여성의 시간' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1060,8 +1060,8 @@
       "officialUrl": "https://tickets.interpark.com/goods/26002594",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "예술의전당 한가람 디자인 미술관에서 열리는 페르난도 보테로전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1074,8 +1074,8 @@
       "officialUrl": "http://tickets.interpark.com/goods/26002897",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 한남에서 열리는 성률 작가의 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1087,9 +1087,9 @@
       "end": "2026-09-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32285",
       "sourceName": "ARTMAP",
-      "summary": "소마미술관에서 열리는 그림책을 주제로 한 전시입니다.",
+      "summary": "소마미술관에서 열리는 그림책 관련 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false,
       "start": "2026-04-17"
     },
@@ -1118,8 +1118,8 @@
       "officialUrl": "https://www.museum.go.kr/MUSEUM/main/index.do",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립중앙박물관에서 열리는 '어메이징 타일랜드' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1132,8 +1132,8 @@
       "officialUrl": "https://map.naver.com/p/search/%ED%94%BC%ED%81%AC%EB%8B%89%20%EC%A0%84%EC%8B%9C/place/1017034682?c=15.00,0,0,0,dh&placePath=%2Fhome%3Fbk_query%3D%ED%94%BC%ED%81%AC%EB%8B%89%20%EC%A0%84%EC%8B%9C%26entry%3Dpll%26from%3Dmap%26fromPanelNum%3D2%26timestamp%3D2",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "피크닉에서 열리는 '온 세상 만들기의 비밀을 찾아서' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1145,9 +1145,9 @@
       "end": "2026-09-06",
       "officialUrl": "https://naver.me/GKUghdM0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "성북구립미술관에서 정보원: 열린 이름 전시를 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "성북구립미술관에서 열리는 정보원 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1189,22 +1189,22 @@
       "officialUrl": "https://tickets.interpark.com/goods/26007072",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "띠아트뮤지엄 홍대에서 열리는 필립 예니카 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "가에타노페세 가구전: Different is Beautiful",
       "venue": "이함캠퍼스",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "양평군",
+      "region": "양평군",
       "category": "exhibition_culture",
       "end": "2026-09-27",
       "officialUrl": "https://naver.me/GOPe48v0",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "이함캠퍼스에서 열리는 가에타노페세 가구전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1232,8 +1232,8 @@
       "officialUrl": "https://tickets.interpark.com/goods/26006433",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "예술의전당 한가람미술관에서 열리는 고야 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1262,8 +1262,8 @@
       "officialUrl": "http://www.sungkokmuseum.org/main/exhibitions/%E3%80%8A%EC%9A%B0%EC%88%9C%EC%98%A5_%EC%98%88%EC%88%A0%EC%9D%80-%EC%9D%B4%EB%AF%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D%EC%97%90-%EC%9E%88%EB%8B%A4%E3%80%8B/",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "성곡미술관에서 열리는 우순옥 개인전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1306,8 +1306,8 @@
       "officialUrl": "https://www.centrepompidou-hanwha.kr/visit/tickets/detail?seq=96",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "퐁피두센터 한화에서 열리는 큐비스트 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1320,8 +1320,8 @@
       "officialUrl": "https://naver.me/5hulaWqU",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 서울에서 열리는 '이것은 개념미술이 아니다' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1348,23 +1348,23 @@
       "end": "2026-10-16",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1650806",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "한가람미술관 서예박물관에서 열리는 브라이언 와일드 스미스 전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "summary": "한가람미술관 서예박물관에서 열리는 브라이언 와일드 스미스 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "마틴파 사진전",
       "venue": "서울시립 사진 미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "도봉구",
+      "region": "도봉구",
       "category": "exhibition_culture",
       "end": "2026-10-18",
       "officialUrl": "https://naver.me/xLWAvrcM",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울시립 사진 미술관에서 마틴파 사진전을 무료로 관람할 수 있습니다.",
-      "notes": "구체적인 전시명과 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "서울시립 사진 미술관에서 열리는 마틴파 사진전입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1399,15 +1399,15 @@
     {
       "title": "바깥을 향한 속삭임",
       "venue": "대구미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "수성구",
+      "region": "수성구",
       "category": "exhibition_culture",
       "end": "2026-10-25",
       "officialUrl": "https://naver.me/G7V4O7bU",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "대구미술관에서 열리는 '바깥을 향한 속삭임' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1421,8 +1421,8 @@
       "officialUrl": "https://naver.me/GPdQtB11",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관 서소문 본관에서 열리는 유영국 작가의 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1436,8 +1436,8 @@
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1673244?theme=place&lang=ko&area=ple",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "더현대서울 ALT.1에서 열리는 뱅크시 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1466,8 +1466,8 @@
       "officialUrl": "https://naver.me/IDFU8mWp",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 덕수궁에서 열리는 이대원 개인전입니다.",
-      "notes": "단일 전시이며, 제목과 날짜, 장소가 구체적입니다.",
-      "lastSeen": "2026-08-01T16:54:13+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1526,8 +1526,8 @@
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1655259",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 이스트에서 열리는 조은 작가의 원화전입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1548,15 +1548,15 @@
     {
       "title": "이정윤: 노래하는 집",
       "venue": "김중업 건축문화의 집",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "성북구",
+      "region": "성북구",
       "category": "exhibition_culture",
       "end": "2026-11-21",
       "officialUrl": "https://naver.me/5eUjkvy5",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "김중업 건축문화의 집에서 열리는 이정윤 작가의 '노래하는 집' 전시를 관람할 수 있습니다.",
-      "notes": "단일 전시회이며, 제목이 구체적이고 공식 페이지로 판단됩니다. 종료일이 명확합니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "김중업 건축문화의 집에서 열리는 이정윤 작가의 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1582,9 +1582,9 @@
       "end": "2026-11-22",
       "officialUrl": "https://naver.me/GPdQtB11",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울시립미술관 서소문본관에서 '기술의 저변: 경계에 선 장면들' 전시를 개최합니다.",
-      "notes": "단일 전시회이며, 제목이 구체적이고 공식 페이지로 판단됩니다. 종료일이 명확합니다.",
-      "lastSeen": "2026-08-02T16:55:57+09:00",
+      "summary": "서울시립미술관 서소문본관에서 열리는 '기술의 저변: 경계에 선 장면들' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1611,22 +1611,22 @@
       "officialUrl": "https://ticket.leeum.org/leeum/personal/exhibitList.do",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "리움미술관에서 열리는 '다른 공간 안으로' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "이배: 기다리며",
       "venue": "뮤지엄 산",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "강원도",
+      "region": "강원도",
       "category": "exhibition_culture",
       "end": "2026-12-04",
       "officialUrl": "https://naver.me/GRo4lCOl",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "뮤지엄 산에서 열리는 이배 작가의 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1655,8 +1655,8 @@
       "officialUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "notes": "단일 전시 이벤트이며, 공식 페이지 또는 정보 페이지 후보이고, 제목이 구체적입니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1700,7 +1700,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립세종수목원에서 열리는 앙리 마티스 작품 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1714,7 +1714,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "제주 전이수 갤러리에서 열리는 전이수 작가의 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1754,9 +1754,9 @@
       "end": "2027-01-03",
       "officialUrl": "https://naver.me/GFB1lVe8",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립현대미술관 과천에서 열리는 해외 명작 전시로 수련과 샹들리에 작품을 선보입니다.",
+      "summary": "국립현대미술관 과천에서 열리는 해외 명작 전시로, 수련과 샹들리에 작품을 선보입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1784,12 +1784,12 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "카이스트 미술관에서 열리는 류경채 작가의 '마음의 시' 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》",
-      "venue": "수원시립미술관(수원시립아이파크미술관)",
+      "venue": "수원시립아이파크미술관",
       "area": "수원",
       "region": "수원",
       "category": "exhibition_culture",
@@ -1797,9 +1797,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립미술관에서 열리는 2026년 소장품 특별전입니다.",
-      "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "summary": "수원시립아이파크미술관에서 열리는 2026년 소장품 전시입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜 정보가 누락되었으나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1827,9 +1827,9 @@
       "end": "2027-05-16",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32398",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관 북서울관에서 열리는 권병준 작가의 개인전입니다.",
+      "summary": "서울시립미술관 북서울관에서 열리는 권병준 작가의 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -1858,7 +1858,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립중앙박물관에서 열리는 고대 그리스와 로마 문명 관련 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -2462,14 +2462,14 @@
     {
       "title": "베니스비엔날레 한국관 건립 30주년 기획전 《30 Years: Passages》",
       "venue": "예화랑",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/curator/view.php?idx=548",
       "sourceName": "ARTMAP",
-      "summary": "예화랑에서 베니스비엔날레 한국관 건립 30주년 기념 기획전 《30 Years: Passages》를 개최합니다.",
-      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "예화랑에서 열리는 베니스비엔날레 한국관 건립 30주년 기념 기획전입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜 정보는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -2740,9 +2740,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/curator/view.php?idx=549",
       "sourceName": "ARTMAP",
-      "summary": "국내 최대 규모로 열리는 우고 론디노네 개인전 《BURN TO SHINE》입니다.",
-      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-07-27T21:41:00+09:00",
+      "summary": "국내 최대 규모로 열리는 우고 론디노네 개인전입니다.",
+      "notes": "단일 전시회 정보이며, 제목이 구체적입니다. 날짜 정보는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
@@ -3015,7 +3015,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "오디움 박물관에서 열리는 소리를 주제로 한 전시입니다.",
       "notes": "단일 전시회 정보이며, 제목이 구체적이고 공식 페이지로 판단됩니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
+      "lastSeen": "2026-08-07T11:47:46+09:00",
       "seed": false
     },
     {
