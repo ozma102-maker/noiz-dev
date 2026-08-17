@@ -30,6 +30,11 @@
       "date": "2026-08-09",
       "label": "2026-08-09",
       "path": "data/archive/noiz-week-2026-08-09.json"
+    },
+    {
+      "date": "2026-08-16",
+      "label": "2026-08-16",
+      "path": "data/archive/noiz-week-2026-08-16.json"
     }
   ]
 }
