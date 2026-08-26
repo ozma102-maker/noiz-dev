@@ -1,11 +1,11 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-08-25T10:23:51+09:00",
+  "updated_at": "2026-08-26T10:26:52+09:00",
   "published": true,
-  "active_inventory_count": 211,
-  "candidate_count": 87,
-  "fresh_accepted_count": 52,
-  "final_card_count": 9,
+  "active_inventory_count": 217,
+  "candidate_count": 86,
+  "fresh_accepted_count": 49,
+  "final_card_count": 10,
   "seed_fallback_available": true,
   "warnings": [],
   "rejected_examples": [
@@ -188,7 +188,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전체 팝업을 모아놓은 페이지로, 단일 팝업 이벤트가 아닙니다."
+      "reason": "구체적인 단일 팝업 이벤트가 아닌, 팝업 스토어 목록을 제공하는 페이지입니다."
     },
     {
       "sourceName": "Popply",
@@ -201,7 +201,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 팝업 이벤트가 아닌 제보 페이지입니다."
+      "reason": "구체적인 단일 팝업 이벤트가 아닌, 팝업 스토어 제보를 받는 페이지입니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -214,7 +214,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전체 전시를 모아놓은 페이지로, 단일 전시 이벤트가 아닙니다."
+      "reason": "구체적인 단일 전시가 아닌, 전시 일정 목록을 제공하는 페이지입니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -227,7 +227,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전체 전시 목록을 보여주는 페이지로, 단일 전시 이벤트가 아닙니다."
+      "reason": "구체적인 단일 전시가 아닌, 전시 목록을 제공하는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -240,7 +240,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "단일 전시 이벤트가 아닌 웹사이트 네비게이션 페이지입니다."
+      "reason": "구체적인 단일 전시가 아닌, 기관의 네비게이션 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -253,7 +253,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "삼청",
-      "reason": "단일 전시 이벤트가 아닌 웹사이트 네비게이션 페이지입니다."
+      "reason": "구체적인 단일 전시가 아닌, 웹사이트 네비게이션 요소입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -266,7 +266,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "단일 전시 이벤트가 아닌 기관의 메인 홈페이지입니다."
+      "reason": "구체적인 단일 전시가 아닌, 기관의 메인 홈페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -279,7 +279,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 전시 이벤트가 아닌 기관의 정보 페이지입니다."
+      "reason": "구체적인 단일 전시가 아닌, 기관의 안내 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -292,7 +292,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트가 아닌, 미술관 내 시설 소개 페이지입니다."
+      "reason": "구체적인 단일 전시가 아닌, 기관의 안내 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -305,7 +305,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트가 아닌, 프로그램 안내 페이지입니다."
+      "reason": "구체적인 단일 이벤트명이 아니며, 프로그램 안내 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -318,7 +318,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 전시가 아닌, 여러 전시를 모아놓은 목록 페이지입니다."
+      "reason": "구체적인 단일 이벤트명이 아니며, 전시 목록 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -331,7 +331,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 전시가 아닌, 여러 전시를 모아놓은 목록 페이지입니다."
+      "reason": "구체적인 단일 이벤트명이 아니며, 전시 목록 페이지입니다."
     }
   ],
   "items": [
@@ -367,16 +367,16 @@
       "rank": 2,
       "brand": "Ddoing Exhibition Schedule",
       "title": "게오르그 바젤리츠 (예정)",
-      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠 개인전으로, 그의 작품 세계를 심도 있게 조명합니다.",
+      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠 전시를 통해 그의 작품 세계를 만나볼 수 있습니다.",
       "venue": "세화 미술관",
       "area": "종로",
       "region": "종로",
       "mapQuery": "게오르그 바젤리츠 (예정) 세화 미술관 종로",
       "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 93,
+      "noiz": 98,
       "favorability": 72,
-      "description": "세화 미술관에서 열리는 게오르그 바젤리츠 개인전으로, 그의 작품 세계를 심도 있게 조명합니다.",
+      "description": "세화 미술관에서 열리는 게오르그 바젤리츠 전시를 통해 그의 작품 세계를 만나볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -385,7 +385,7 @@
       "start": "2026-08-13",
       "end": "2026-12-27",
       "evidenceCount": 9,
-      "reactionCount": 2,
+      "reactionCount": 3,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
@@ -394,7 +394,7 @@
       "rank": 3,
       "brand": "MMCA Exhibitions",
       "title": "어린이미술관",
-      "owner": "어린이들의 눈높이에 맞춰 예술적 경험을 제공하는 서울/수도권 내 미술관 정보",
+      "owner": "서울/수도권에서 진행되는 어린이 대상 전시 및 문화 경험을 제공합니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -403,7 +403,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 93,
       "favorability": 72,
-      "description": "어린이들의 눈높이에 맞춰 예술적 경험을 제공하는 서울/수도권 내 미술관 정보",
+      "description": "서울/수도권에서 진행되는 어린이 대상 전시 및 문화 경험을 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -420,25 +420,25 @@
     },
     {
       "rank": 4,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "큐비스트: 시각의 혁신가들",
-      "owner": "퐁피두센터 한화에서 큐비즘의 혁신적인 시각 언어를 탐구하는 전시",
-      "venue": "퐁피두센터 한화",
+      "brand": "ARTMAP",
+      "title": "GALLERY",
+      "owner": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 탐색할 수 있습니다.",
+      "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "큐비스트: 시각의 혁신가들 퐁피두센터 한화 서울/수도권",
-      "sourceUrl": "https://www.centrepompidou-hanwha.kr/visit/tickets/detail?seq=96",
+      "mapQuery": "GALLERY 서울/수도권 서울/수도권",
+      "sourceUrl": "https://art-map.co.kr/gallery/new_list.php",
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "퐁피두센터 한화에서 큐비즘의 혁신적인 시각 언어를 탐구하는 전시",
+      "description": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 탐색할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
       "start": "",
-      "end": "2026-10-04",
+      "end": "",
       "evidenceCount": 9,
       "reactionCount": 2,
       "confidence": "high",
@@ -447,18 +447,18 @@
     },
     {
       "rank": 5,
-      "brand": "ARTMAP",
-      "title": "전시등록",
-      "owner": "새롭게 등록된 전시 정보를 통해 최신 문화 트렌드를 파악할 수 있습니다.",
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "전시일정",
+      "owner": "서울/수도권에서 예정된 전시들의 일정을 확인할 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "전시등록 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/write.php",
+      "mapQuery": "전시일정 서울/수도권 서울/수도권",
+      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "새롭게 등록된 전시 정보를 통해 최신 문화 트렌드를 파악할 수 있습니다.",
+      "description": "서울/수도권에서 예정된 전시들의 일정을 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -476,7 +476,7 @@
       "rank": 6,
       "brand": "Ddoing Exhibition Schedule",
       "title": "마틴파 사진전",
-      "owner": "서울시립 사진 미술관에서 열리는 마틴파 사진전으로, 그의 독창적인 사진 세계를 만날 수 있습니다.",
+      "owner": "서울시립 사진 미술관에서 열리는 마틴파 사진전을 통해 그의 작품을 감상할 수 있습니다.",
       "venue": "서울시립 사진 미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -485,7 +485,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립 사진 미술관에서 열리는 마틴파 사진전으로, 그의 독창적인 사진 세계를 만날 수 있습니다.",
+      "description": "서울시립 사진 미술관에서 열리는 마틴파 사진전을 통해 그의 작품을 감상할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -502,25 +502,26 @@
     {
       "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전 (예정)",
-      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전으로, 작가의 예술 세계를 집중 조명합니다.",
-      "venue": "국립현대미술관 덕수궁",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 (예정) 국립현대미술관 덕수궁 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "title": "마틴파 사진전 (무료입장)",
+      "owner": "서울시립 사진 미술관에서 무료로 관람 가능한 마틴파 사진전을 경험할 수 있습니다.",
+      "venue": "서울시립 사진 미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "마틴파 사진전 (무료입장) 서울시립 사진 미술관 서울/수도권",
+      "sourceUrl": "https://naver.me/xLWAvrcM",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전으로, 작가의 예술 세계를 집중 조명합니다.",
+      "description": "서울시립 사진 미술관에서 무료로 관람 가능한 마틴파 사진전을 경험할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "후기/뉴스 반응",
+        "무료/체험"
       ],
       "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
-      "evidenceCount": 9,
+      "start": "",
+      "end": "2026-10-18",
+      "evidenceCount": 7,
       "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
@@ -529,17 +530,17 @@
     {
       "rank": 8,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
-      "owner": "국립현대미술관 덕수궁에서 개최되는 이대원 개인전 소식",
+      "title": "이대원 개인전",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전을 통해 그의 예술 세계를 조명합니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
-      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
+      "mapQuery": "이대원 개인전 국립현대미술관 덕수궁 중구",
       "sourceUrl": "https://naver.me/IDFU8mWp",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 개최되는 이대원 개인전 소식",
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전을 통해 그의 예술 세계를 조명합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -556,24 +557,51 @@
     {
       "rank": 9,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
-      "owner": "서울시립미술관에서 유영국 작가의 작품 세계를 '산은 내 안에 있다'라는 주제로 선보입니다.",
-      "venue": "서울시립미술관",
+      "title": "이대원 개인전 (예정)",
+      "owner": "국립현대미술관 덕수궁에서 개최될 이대원 개인전의 일정을 미리 확인할 수 있습니다.",
+      "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
-      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25 서울시립미술관 중구",
-      "sourceUrl": "https://naver.me/GPdQtB11",
+      "mapQuery": "이대원 개인전 (예정) 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립미술관에서 유영국 작가의 작품 세계를 '산은 내 안에 있다'라는 주제로 선보입니다.",
+      "description": "국립현대미술관 덕수궁에서 개최될 이대원 개인전의 일정을 미리 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
-      "start": "",
-      "end": "",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 10,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전 소식을 접할 수 있습니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전 소식을 접할 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
