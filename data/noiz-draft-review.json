@@ -1,10 +1,10 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-09-08T12:43:04+09:00",
+  "updated_at": "2026-09-09T12:47:47+09:00",
   "published": true,
-  "active_inventory_count": 217,
-  "candidate_count": 69,
-  "fresh_accepted_count": 50,
+  "active_inventory_count": 219,
+  "candidate_count": 70,
+  "fresh_accepted_count": 51,
   "final_card_count": 10,
   "seed_fallback_available": true,
   "warnings": [],
@@ -170,7 +170,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 팝업 목록 페이지로, 단일 팝업 정보가 아님"
+      "reason": "총괄적인 팝업 정보 페이지로, 단일 팝업 이벤트가 아닙니다."
     },
     {
       "sourceName": "Popply",
@@ -183,7 +183,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "팝업 제보 페이지로, 단일 팝업 정보가 아님"
+      "reason": "팝업 제보 페이지로, 단일 팝업 이벤트가 아닙니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -196,7 +196,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 전시 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "총괄적인 전시 일정 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -209,7 +209,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 전시 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -222,7 +222,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 전시 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -235,7 +235,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "뉴스 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "뉴스 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -248,7 +248,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "작품 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "작품 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -261,7 +261,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "아티스트 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "아티스트 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -274,7 +274,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "갤러리 목록 페이지로, 단일 전시 정보가 아님"
+      "reason": "갤러리 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -287,7 +287,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전시 등록 페이지로, 단일 전시 정보가 아님"
+      "reason": "This is a registration page, not a specific event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -300,7 +300,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a preview/estimate page, not a specific event or exhibition."
+      "reason": "This is a preview page for estimates, not a specific event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -313,7 +313,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This appears to be a service or product description, not a specific event or exhibition."
+      "reason": "This appears to be a feature or service related to exhibitions, not a specific exhibition itself."
     },
     {
       "sourceName": "ARTMAP",
@@ -387,17 +387,44 @@
     {
       "rank": 2,
       "brand": "Ddoing Exhibition Schedule",
+      "title": "우순옥 개인전",
+      "owner": "성곡미술관에서 우순옥 작가의 개인전이 열려 그의 작품 세계를 만날 수 있습니다.",
+      "venue": "성곡미술관",
+      "area": "종로구",
+      "region": "종로구",
+      "mapQuery": "우순옥 개인전 성곡미술관 종로구",
+      "sourceUrl": "http://www.sungkokmuseum.org/main/exhibitions/%E3%80%8A%EC%9A%B0%EC%88%9C%EC%98%A5_%EC%98%88%EC%88%A0%EC%9D%80-%EC%9D%B4%EB%AF%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D%EC%97%90-%EC%9E%88%EB%8B%A4%E3%80%8B/",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 93,
+      "favorability": 72,
+      "description": "성곡미술관에서 우순옥 작가의 개인전이 열려 그의 작품 세계를 만날 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-12",
+      "end": "2026-10-03",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 3,
+      "brand": "Ddoing Exhibition Schedule",
       "title": "게오르그 바젤리츠 (예정)",
-      "owner": "세화 미술관에서 게오르그 바젤리츠의 작품 세계를 조명하는 전시가 예정되어 있습니다.",
+      "owner": "세화 미술관에서 개최 예정인 게오르그 바젤리츠의 전시는 그의 예술 세계를 탐구할 기회를 제공합니다.",
       "venue": "세화 미술관",
       "area": "종로",
       "region": "종로",
       "mapQuery": "게오르그 바젤리츠 (예정) 세화 미술관 종로",
       "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 98,
+      "noiz": 93,
       "favorability": 72,
-      "description": "세화 미술관에서 게오르그 바젤리츠의 작품 세계를 조명하는 전시가 예정되어 있습니다.",
+      "description": "세화 미술관에서 개최 예정인 게오르그 바젤리츠의 전시는 그의 예술 세계를 탐구할 기회를 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -406,16 +433,154 @@
       "start": "2026-08-13",
       "end": "2026-12-27",
       "evidenceCount": 9,
-      "reactionCount": 3,
+      "reactionCount": 2,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "마틴파 사진전",
+      "owner": "서울시립 사진 미술관에서 마틴파 사진작가의 작품을 무료로 관람할 수 있는 기회가 마련되었습니다.",
+      "venue": "서울시립 사진 미술관",
+      "area": "도봉구",
+      "region": "도봉구",
+      "mapQuery": "마틴파 사진전 서울시립 사진 미술관 도봉구",
+      "sourceUrl": "https://naver.me/xLWAvrcM",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 90,
+      "favorability": 74,
+      "description": "서울시립 사진 미술관에서 마틴파 사진작가의 작품을 무료로 관람할 수 있는 기회가 마련되었습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "2026-10-18",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 5,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전",
+      "owner": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 열려 그의 예술적 여정을 조명합니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 90,
+      "favorability": 74,
+      "description": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 열려 그의 예술적 여정을 조명합니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "서도호 개인전 (예정)",
+      "owner": "국립현대미술관에서 예정된 서도호 개인전은 그의 독창적인 작품 세계를 경험할 수 있는 기회입니다.",
+      "venue": "국립현대미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "서도호 개인전 (예정) 국립현대미술관 서울/수도권",
+      "sourceUrl": "https://naver.me/GDa2FKhZ",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "국립현대미술관에서 예정된 서도호 개인전은 그의 독창적인 작품 세계를 경험할 수 있는 기회입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-27",
+      "end": "2027-02-09",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 7,
+      "brand": "ARTMAP",
+      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
+      "owner": "수원시립미술관에서 열리는 '블랑 블랙 파노라마' 소장품전은 다채로운 작품들을 선보입니다.",
+      "venue": "수원시립미술관",
+      "area": "경기",
+      "region": "경기",
+      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "수원시립미술관에서 열리는 '블랑 블랙 파노라마' 소장품전은 다채로운 작품들을 선보입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "웨이팅 가능성"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 8,
+      "brand": "ARTMAP",
+      "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
+      "owner": "서울시립미술관에서 진행되는 '올해의 작가상 2026' 전시는 주목받는 작가들의 작품을 소개합니다.",
+      "venue": "서울시립미술관",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울 서울시립미술관 중구",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "서울시립미술관에서 진행되는 '올해의 작가상 2026' 전시는 주목받는 작가들의 작품을 소개합니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-07-24",
+      "end": "2026-12-06",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 9,
       "brand": "ARTMAP",
       "title": "전시등록",
-      "owner": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험 후보들을 확인할 수 있습니다.",
+      "owner": "서울/수도권 전역에서 다양한 전시 및 문화 경험을 찾아볼 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -424,7 +589,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 94,
       "favorability": 68,
-      "description": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험 후보들을 확인할 수 있습니다.",
+      "description": "서울/수도권 전역에서 다양한 전시 및 문화 경험을 찾아볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -439,64 +604,10 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "우순옥 개인전",
-      "owner": "성곡미술관에서 우순옥 작가의 개인전이 개최되어 그의 작품 세계를 만날 수 있습니다.",
-      "venue": "성곡미술관",
-      "area": "종로구",
-      "region": "종로구",
-      "mapQuery": "우순옥 개인전 성곡미술관 종로구",
-      "sourceUrl": "http://www.sungkokmuseum.org/main/exhibitions/%E3%80%8A%EC%9A%B0%EC%88%9C%EC%98%A5_%EC%98%88%EC%88%A0%EC%9D%80-%EC%9D%B4%EB%AF%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D%EC%97%90-%EC%9E%88%EB%8B%A4%E3%80%8B/",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 93,
-      "favorability": 72,
-      "description": "성곡미술관에서 우순옥 작가의 개인전이 개최되어 그의 작품 세계를 만날 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-12",
-      "end": "2026-10-03",
-      "evidenceCount": 9,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 5,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "우순옥 개인전 성곡미술관",
-      "owner": "성곡미술관에서 열리는 우순옥 개인전은 작가의 예술 세계를 깊이 있게 탐구할 기회를 제공합니다.",
-      "venue": "성곡미술관",
-      "area": "종로",
-      "region": "종로",
-      "mapQuery": "우순옥 개인전 성곡미술관 성곡미술관 종로",
-      "sourceUrl": "http://www.sungkokmuseum.org/main/exhibitions/%E3%80%8A%EC%9A%B0%EC%88%9C%EC%98%A5_%EC%98%88%EC%88%A0%EC%9D%80-%EC%9D%B4%EB%AF%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D%EC%97%90-%EC%9E%88%EB%8B%A4%E3%80%8B/",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 93,
-      "favorability": 72,
-      "description": "성곡미술관에서 열리는 우순옥 개인전은 작가의 예술 세계를 깊이 있게 탐구할 기회를 제공합니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-12",
-      "end": "2026-10-03",
-      "evidenceCount": 9,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 6,
+      "rank": 10,
       "brand": "MMCA Exhibitions",
       "title": "어린이미술관",
-      "owner": "서울/수도권에서 아이들을 위한 미술관 경험을 제공하는 전시들이 준비되어 있습니다.",
+      "owner": "서울/수도권에서 어린이들을 위한 미술관 및 전시 정보를 확인할 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -505,7 +616,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 93,
       "favorability": 72,
-      "description": "서울/수도권에서 아이들을 위한 미술관 경험을 제공하는 전시들이 준비되어 있습니다.",
+      "description": "서울/수도권에서 어린이들을 위한 미술관 및 전시 정보를 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -516,114 +627,6 @@
       "end": "",
       "evidenceCount": 9,
       "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 7,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "큐비스트: 시각의 혁신가들",
-      "owner": "퐁피두센터 한화에서 큐비스트들의 혁신적인 작품들을 조명하는 전시가 열립니다.",
-      "venue": "퐁피두센터 한화",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "큐비스트: 시각의 혁신가들 퐁피두센터 한화 서울/수도권",
-      "sourceUrl": "https://www.centrepompidou-hanwha.kr/visit/tickets/detail?seq=96",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 89,
-      "favorability": 68,
-      "description": "퐁피두센터 한화에서 큐비스트들의 혁신적인 작품들을 조명하는 전시가 열립니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "2026-10-04",
-      "evidenceCount": 9,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 8,
-      "brand": "ARTMAP",
-      "title": "GALLERY",
-      "owner": "서울/수도권 전역에서 다양한 갤러리 전시 및 문화 경험을 찾아볼 수 있습니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "GALLERY 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/gallery/new_list.php",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 89,
-      "favorability": 68,
-      "description": "서울/수도권 전역에서 다양한 갤러리 전시 및 문화 경험을 찾아볼 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 9,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전 (예정)",
-      "owner": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 예정되어 있어 기대를 모으고 있습니다.",
-      "venue": "국립현대미술관 덕수궁",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 (예정) 국립현대미술관 덕수궁 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 예정되어 있어 기대를 모으고 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
-      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 예술 세계를 경험할 수 있는 기회입니다.",
-      "venue": "국립현대미술관 덕수궁",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 예술 세계를 경험할 수 있는 기회입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
-      "evidenceCount": 9,
-      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
