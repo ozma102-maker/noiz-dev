@@ -1,274 +1,8 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-09-13T12:55:15+09:00",
+  "updated_at": "2026-09-14T13:02:23+09:00",
   "mode": "inventory",
   "items": [
-    {
-      "title": "<페르난도 보테로: 형태의 미학>",
-      "venue": "예술의전당 한가람디자인미술관",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-04-24",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
-      "sourceName": "ARTMAP",
-      "summary": "예술의전당 한가람디자인미술관에서 열리는 페르난도 보테로 전시입니다.",
-      "notes": "단일 전시이며, 공식 정보 페이지로 판단됩니다. 날짜가 미래이나 구체적인 이벤트입니다.",
-      "lastSeen": "2026-08-25T10:24:00+09:00",
-      "seed": false
-    },
-    {
-      "title": "<페르난도 보테로: 형태의 미학> 예술의전당 한가람디자인미술관",
-      "venue": "예술의전당 한가람디자인미술관",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-04-24",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
-      "sourceName": "ARTMAP",
-      "summary": "예술의전당 한가람디자인미술관에서 열리는 페르난도 보테로 개인전입니다.",
-      "notes": "단일 전시이며, 제목과 장소, 날짜가 명확합니다.",
-      "lastSeen": "2026-08-26T10:27:01+09:00",
-      "seed": false
-    },
-    {
-      "title": "<페르난도 보테로: 형태의 미학> 예술의전당 한가람디자인미술관/서울",
-      "venue": "예술의전당 한가람디자인미술관/서울",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-04-24",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32309",
-      "sourceName": "ARTMAP",
-      "summary": "페르난도 보테로의 '형태의 미학' 전시를 예술의전당 한가람디자인미술관에서 개최합니다.",
-      "notes": "단일 전시회이며, 공식 페이지로 보입니다. 제목이 구체적이고 날짜 정보가 있습니다.",
-      "lastSeen": "2026-08-30T13:27:49+09:00",
-      "seed": false
-    },
-    {
-      "title": "SERIOUSLY NOT SERIOUS 맥스 시덴토프 개인전",
-      "venue": "그라운드시소 센트럴",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "start": "2026-03-27",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32216",
-      "sourceName": "ARTMAP",
-      "summary": "그라운드시소 센트럴에서 열리는 맥스 시덴토프 개인전 'SERIOUSLY NOT SERIOUS'입니다.",
-      "notes": "This is a specific exhibition with a clear title, venue, and dates.",
-      "lastSeen": "2026-08-18T10:21:41+09:00",
-      "seed": false
-    },
-    {
-      "title": "SERIOUSLY NOT SERIOUS 맥스 시덴토프 개인전 그라운드시소 센트럴",
-      "venue": "그라운드시소 센트럴",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-03-27",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32216",
-      "sourceName": "ARTMAP",
-      "summary": "그라운드시소 센트럴에서 맥스 시덴토프의 개인전 'SERIOUSLY NOT SERIOUS'가 열립니다.",
-      "notes": "Specific exhibition with title, venue, and dates.",
-      "lastSeen": "2026-08-29T15:18:04+09:00",
-      "seed": false
-    },
-    {
-      "title": "The Black Trilogy",
-      "venue": "랄프 깁슨 사진미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "start": "2025-09-11",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=31627",
-      "sourceName": "ARTMAP",
-      "summary": "랄프 깁슨 사진미술관에서 열리는 'The Black Trilogy' 전시입니다.",
-      "notes": "This is a specific exhibition with a clear title, venue, and dates.",
-      "lastSeen": "2026-08-18T10:21:41+09:00",
-      "seed": false
-    },
-    {
-      "title": "The Black Trilogy 랄프 깁슨",
-      "venue": "사진미술관/부산",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "start": "2025-09-11",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=31627",
-      "sourceName": "ARTMAP",
-      "summary": "사진미술관 부산에서 열리는 랄프 깁슨의 'The Black Trilogy' 전시입니다.",
-      "notes": "Specific exhibition with clear title, venue, and dates.",
-      "lastSeen": "2026-08-19T10:23:32+09:00",
-      "seed": false
-    },
-    {
-      "title": "The Black Trilogy 랄프 깁슨 사진미술관/부산",
-      "venue": "서울시립미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "start": "2025-09-11",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=31627",
-      "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
-      "seed": false
-    },
-    {
-      "title": "《그래도 해보던 날들》",
-      "venue": "국립현대미술관서울관",
-      "area": "중구",
-      "region": "중구",
-      "category": "exhibition_culture",
-      "start": "2026-04-17",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
-      "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 서울관에서 열리는 '그래도 해보던 날들' 전시입니다.",
-      "notes": "단일 전시회이며, 제목과 날짜, 장소가 구체적입니다.",
-      "lastSeen": "2026-08-21T10:26:40+09:00",
-      "seed": false
-    },
-    {
-      "title": "《그래도 해보던 날들》 국립현대미술관서울관/서울",
-      "venue": "서울시립미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "start": "2026-04-17",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32356",
-      "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
-      "seed": false
-    },
-    {
-      "title": "기록 & 역사Ⅰ: 백제 역사의 실마리, 한원",
-      "venue": "한성백제박물관",
-      "area": "송파",
-      "region": "송파구",
-      "category": "exhibition_culture",
-      "start": "2026-06-02",
-      "end": "2026-08-30",
-      "officialUrl": "https://news.seoul.go.kr/culture/archives/533382",
-      "sourceName": "한성백제박물관",
-      "summary": "한성백제박물관에서 백제사의 기록과 해석을 다루는 역사 전시",
-      "notes": "seeded from manual July week 2 curation",
-      "lastSeen": "2026-07-09T13:00:00+09:00",
-      "seed": true
-    },
-    {
-      "title": "띠에리 아르두엥<Seed Stories>",
-      "venue": "고은사진미술관",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "start": "2026-04-23",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
-      "sourceName": "ARTMAP",
-      "summary": "고은사진미술관에서 열리는 띠에리 아르두엥의 전시입니다.",
-      "notes": "단일 전시이며, 공식 정보 페이지로 판단됩니다. 날짜가 미래이나 구체적인 이벤트입니다.",
-      "lastSeen": "2026-08-25T10:24:00+09:00",
-      "seed": false
-    },
-    {
-      "title": "띠에리 아르두엥<Seed Stories> 고은사진미술관",
-      "venue": "고은사진미술관",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "start": "2026-04-23",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
-      "sourceName": "ARTMAP",
-      "summary": "고은사진미술관에서 열리는 띠에리 아르두엥의 'Seed Stories' 전시입니다.",
-      "notes": "단일 전시이며, 제목과 장소, 날짜가 명확합니다.",
-      "lastSeen": "2026-08-26T10:27:01+09:00",
-      "seed": false
-    },
-    {
-      "title": "띠에리 아르두엥<Seed Stories> 고은사진미술관/부산",
-      "venue": "고은사진미술관",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "start": "2026-04-23",
-      "end": "2026-08-30",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32313",
-      "sourceName": "ARTMAP",
-      "summary": "고은사진미술관에서 열리는 띠에리 아르두엥의 'Seed Stories' 전시입니다.",
-      "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-08-24T10:26:47+09:00",
-      "seed": false
-    },
-    {
-      "title": "맥스 시덴토프 개인전",
-      "venue": "그라운드시소 센트럴",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "end": "2026-08-30",
-      "officialUrl": "https://booking.naver.com/booking/5/bizes/1580585",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "맥스 시덴토프 개인전이 그라운드시소 센트럴에서 열립니다.",
-      "notes": "단일 전시 정보이며, 제목과 장소, 종료 날짜가 구체적임",
-      "lastSeen": "2026-08-31T13:31:46+09:00",
-      "seed": false
-    },
-    {
-      "title": "직조하는 손, 여성의 시간",
-      "venue": "KF 아세안문화원",
-      "area": "부산",
-      "region": "부산",
-      "category": "exhibition_culture",
-      "end": "2026-08-30",
-      "officialUrl": "https://naver.me/G9r25OOo",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "직조하는 손, 여성의 시간 전시가 KF 아세안문화원에서 열립니다.",
-      "notes": "단일 전시 정보이며, 제목과 장소, 종료 날짜가 구체적임",
-      "lastSeen": "2026-08-31T13:31:46+09:00",
-      "seed": false
-    },
-    {
-      "title": "직조하는 손, 여성의 시간 (무료입장)",
-      "venue": "KF 아세안문화원",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "end": "2026-08-30",
-      "officialUrl": "https://naver.me/G9r25OOo",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "KF 아세안문화원에서 열리는 '직조하는 손, 여성의 시간' 전시입니다.",
-      "notes": "단일 전시로, 공식 정보 페이지이며 제목이 구체적입니다. 날짜는 명확하지 않으나 단일 이벤트성이 강합니다.",
-      "lastSeen": "2026-08-04T11:47:39+09:00",
-      "seed": false
-    },
-    {
-      "title": "페르난도 보테로전",
-      "venue": "예술의전당 한가람 디자인 미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "end": "2026-08-30",
-      "officialUrl": "https://tickets.interpark.com/goods/26002594",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "페르난도 보테로전이 예술의전당 한가람 디자인 미술관에서 열립니다.",
-      "notes": "단일 전시 정보이며, 제목과 장소, 종료 날짜가 구체적임",
-      "lastSeen": "2026-08-31T13:31:46+09:00",
-      "seed": false
-    },
     {
       "title": "성률: 여름을 닮은 우리",
       "venue": "그라운드시소 한남",
@@ -469,9 +203,9 @@
       "end": "2026-09-15",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32426",
       "sourceName": "ARTMAP",
-      "summary": "아이테르에서 열리는 '사라짐 사이의 빛' 전시회입니다.",
-      "notes": "단일 전시회이며, 공식 페이지 정보이고 제목이 구체적입니다.",
-      "lastSeen": "2026-09-07T12:38:24+09:00",
+      "summary": "아이테르에서 열리는 '사라짐 사이의 빛' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -499,9 +233,9 @@
       "end": "2026-09-17",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32424",
       "sourceName": "ARTMAP",
-      "summary": "송원아트센터에서 열리는 'SKETCH 2026 : 유동의 미학' 전시를 경험할 수 있습니다.",
-      "notes": "This is a specific exhibition with a clear title, venue, and dates.",
-      "lastSeen": "2026-09-09T12:48:17+09:00",
+      "summary": "송원아트센터에서 열리는 'SKETCH 2026 : 유동의 미학' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -677,6 +411,21 @@
       "summary": "신윤정 작가의 개인전을 무료로 관람할 수 있습니다.",
       "notes": "단일 전시 정보이며, 제목이 구체적이고 날짜 정보가 있음",
       "lastSeen": "2026-09-08T12:43:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "신윤정 개인전 (무료입장)인천전시 뻘로장생아트하우스(인천 옹진군)",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "officialUrl": "https://naver.me/GKIYAUqh",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -1082,6 +831,21 @@
       "seed": false
     },
     {
+      "title": "《유영국: 산은 내 안에 있다》",
+      "venue": "서울시립미술관서소문본관",
+      "area": "서울",
+      "region": "서울",
+      "category": "exhibition_culture",
+      "start": "2026-05-19",
+      "end": "2026-10-25",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32332",
+      "sourceName": "ARTMAP",
+      "summary": "서울시립미술관 서소문본관에서 열리는 유영국 개인전 '산은 내 안에 있다'입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
+      "seed": false
+    },
+    {
       "title": "《유영국: 산은 내 안에 있다》 서울시립미술관서소문본관",
       "venue": "서울시립미술관 서소문본관",
       "area": "서울",
@@ -1121,21 +885,6 @@
       "officialUrl": "https://naver.me/G7V4O7bU",
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "대구미술관에서 열리는 바깥을 향한 속삭임 전시입니다.",
-      "notes": "Specific exhibition with clear title, venue, and end date.",
-      "lastSeen": "2026-09-13T12:55:26+09:00",
-      "seed": false
-    },
-    {
-      "title": "유영국: 산은 내 안에 있다",
-      "venue": "서울시립미술관 서소문 본관",
-      "area": "중구",
-      "region": "중구",
-      "category": "exhibition_culture",
-      "start": "2026-05-19",
-      "end": "2026-10-25",
-      "officialUrl": "https://naver.me/GPdQtB11",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "유영국 작가의 산은 내 안에 있다 전시가 서울시립미술관에서 열립니다.",
       "notes": "Specific exhibition with clear title, venue, and end date.",
       "lastSeen": "2026-09-13T12:55:26+09:00",
       "seed": false
@@ -1430,7 +1179,7 @@
     },
     {
       "title": "국립현대미술관 서울관《올해의 작가상 2026》",
-      "venue": "국립현대미술관 서울관",
+      "venue": "국립현대미술관서울관",
       "area": "서울",
       "region": "서울",
       "category": "exhibition_culture",
@@ -1439,8 +1188,8 @@
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceName": "ARTMAP",
       "summary": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시입니다.",
-      "notes": "단일 전시이며, 제목과 날짜, 장소가 구체적입니다.",
-      "lastSeen": "2026-09-13T12:55:26+09:00",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -1540,9 +1289,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "스페이스K 서울에서 열리는 카우스의 '친구, 그리고 이웃' 전시를 관람할 수 있습니다.",
-      "notes": "This is a specific exhibition, but the dates are missing. However, the title and venue are clear.",
-      "lastSeen": "2026-09-09T12:48:17+09:00",
+      "summary": "스페이스K에서 열리는 카우스 개인전 '친구, 그리고 이웃 FRIENDS AND NEIGHBORS'입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false,
       "start": "2026-07-23",
       "end": "2026-12-27"
@@ -1572,9 +1321,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "닻프레스 다크룸에서 열리는 '사라짐을 보는 기술' 전시를 경험할 수 있습니다.",
-      "notes": "This is a specific exhibition with a clear title, venue, and dates.",
-      "lastSeen": "2026-09-09T12:48:17+09:00",
+      "summary": "닻프레스 다크룸에서 열리는 '사라짐을 보는 기술' 전시입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -1788,9 +1537,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립미술관에서 열리는 '2026 소장품전 블랑 블랙 파노라마' 전시를 관람할 수 있습니다.",
-      "notes": "This is a specific exhibition, but the dates are missing. However, the title and venue are clear.",
-      "lastSeen": "2026-09-09T12:48:17+09:00",
+      "summary": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'입니다.",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -1913,7 +1662,7 @@
     },
     {
       "title": "과천관 40주년 프로젝트 《빛의 상상들》",
-      "venue": "국립현대미술관 과천관",
+      "venue": "국립현대미술관과천관",
       "area": "경기",
       "region": "경기",
       "category": "exhibition_culture",
@@ -1922,8 +1671,8 @@
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
       "sourceName": "ARTMAP",
       "summary": "국립현대미술관 과천관에서 열리는 40주년 기념 프로젝트 '빛의 상상들' 전시입니다.",
-      "notes": "단일 전시이며, 제목과 날짜, 장소가 구체적입니다.",
-      "lastSeen": "2026-09-13T12:55:26+09:00",
+      "notes": "단일 전시 이벤트이며, 제목과 날짜, 장소가 구체적입니다.",
+      "lastSeen": "2026-09-14T13:02:32+09:00",
       "seed": false
     },
     {
@@ -2029,7 +1778,7 @@
       "sourceName": "GroundSeesaw",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2055,7 +1804,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2081,7 +1830,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2120,7 +1869,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2159,7 +1908,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2173,6 +1922,19 @@
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
       "lastSeen": "2026-08-23T10:35:23+09:00",
+      "seed": false
+    },
+    {
+      "title": "게오르그 바젤리츠 세화 미술관(종로구) ~26.12.27",
+      "venue": "종로",
+      "area": "종로",
+      "region": "종로",
+      "category": "exhibition_culture",
+      "officialUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "종로에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2224,7 +1986,20 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "구본창, 연진영: 본연 (무료입장) PS CENTER(중구) ~26.10.02",
+      "venue": "중구",
+      "area": "중구",
+      "region": "중구",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/x1VvLsXY",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "중구에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2263,7 +2038,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2302,7 +2077,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2341,7 +2116,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2406,7 +2181,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "마르셀 뒤샹 (무료입장) 마이어리거울프(한남동) ~26.11.05",
+      "venue": "한남",
+      "area": "한남",
+      "region": "한남",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/5v3Radd0",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "한남에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2419,7 +2207,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2523,7 +2311,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "방이있고 모든 라디오가 각기 다른 주파수를 향하고 있다 경기도전시 호암미술관 ~26.12.27",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/GQ1MsDbA",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2549,7 +2350,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2588,7 +2389,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2614,7 +2415,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2670,6 +2471,19 @@
       "seed": false
     },
     {
+      "title": "서도호 개인전 국립현대미술관 ~27.02.09",
+      "venue": "국립현대미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/GDa2FKhZ",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
       "title": "성률: 여름을 닮은 우리 그라운드시소 한남 ~26.08.31",
       "venue": "그라운드시소",
       "area": "한남",
@@ -2709,6 +2523,19 @@
       "seed": false
     },
     {
+      "title": "스페인미술 500년 (예정) 한가람디자인미술관(서초구) 26.09.22-27.-1.20",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/GJTngOA1",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
       "title": "스페인의 거장 고야: 이성이 잠들 때, 괴물이 깨어난다 예술의전당 한가람미술관 ~26-09.30",
       "venue": "서울/수도권",
       "area": "서울/수도권",
@@ -2718,7 +2545,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2783,7 +2610,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2796,7 +2623,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2836,6 +2663,19 @@
       "summary": "예화랑에서 열리는 베니스비엔날레 한국관 건립 30주년 기념 기획전 '30 Years: Passages'입니다.",
       "notes": "단일 전시이며, 제목이 구체적입니다. 날짜와 장소가 불명확하나 이벤트성이 강합니다.",
       "lastSeen": "2026-09-13T12:55:26+09:00",
+      "seed": false
+    },
+    {
+      "title": "오종 개인전: 가라앉음, 앉음 (무료입장) 송은(강남구) ~26.10.10",
+      "venue": "강남",
+      "area": "강남",
+      "region": "강남",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/FBe2Zj2Q",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "강남에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2900,7 +2740,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2913,7 +2753,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2939,7 +2779,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2956,6 +2796,32 @@
       "seed": false
     },
     {
+      "title": "윤정민: 꼴 (무료입장) OCI미술관(종로구) ~26.10.08",
+      "venue": "종로",
+      "area": "종로",
+      "region": "종로",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/GmpYn4zM",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "종로에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "율리아 아이오실존:무중력 (무료입장) 파운드리 서울(한남동) ~26.10.03",
+      "venue": "한남",
+      "area": "한남",
+      "region": "한남",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/xeASVxgU",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "한남에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
       "title": "이것은 개념미술이 아니다 국립현대미술관 서울(종로구) ~26.10.11",
       "venue": "국립현대미술관",
       "area": "종로",
@@ -2965,7 +2831,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2978,7 +2844,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -2991,7 +2857,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "이상원: Restopia (무료입장) 한솥아트스페이스(강남구) ~26.09.19",
+      "venue": "강남",
+      "area": "강남",
+      "region": "강남",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/xCBo77ly",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "강남에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3004,7 +2883,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3043,7 +2922,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3057,6 +2936,19 @@
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
       "lastSeen": "2026-08-11T10:56:31+09:00",
+      "seed": false
+    },
+    {
+      "title": "이진희 개인전 알부스갤러리(용산구) ~26.10.04",
+      "venue": "용산",
+      "area": "용산",
+      "region": "용산",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/G7V4vmm3",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "용산에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3121,7 +3013,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3147,7 +3039,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3199,7 +3091,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3238,7 +3130,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3251,7 +3143,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3264,7 +3156,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-06T11:48:04+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3342,7 +3234,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3372,6 +3264,32 @@
       "seed": false
     },
     {
+      "title": "표기식 사진전 (예정) 그라운드시소 센트럴(중구)",
+      "venue": "그라운드시소",
+      "area": "중구",
+      "region": "중구",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/xwmqycQy",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
+      "title": "프리드리히 쿠나스 개인전 (무료입장) 페이스갤러리(용산구) ~26.10.24",
+      "venue": "용산",
+      "area": "용산",
+      "region": "용산",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/FEUpNF3O",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "용산에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
+      "seed": false
+    },
+    {
       "title": "필립 예니카: 럭키럭키럭키 띠아트뮤지엄 홍대 ~26.09.19",
       "venue": "홍대",
       "area": "홍대",
@@ -3381,7 +3299,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "홍대에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3433,7 +3351,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
@@ -3446,7 +3364,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-08-23T10:35:23+09:00",
+      "lastSeen": "2026-09-14T13:02:33+09:00",
       "seed": false
     },
     {
