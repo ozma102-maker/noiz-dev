@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-09-17T13:05:24+09:00",
+  "updated_at": "2026-09-18T12:51:31+09:00",
   "published": true,
   "active_inventory_count": 233,
   "candidate_count": 70,
@@ -170,7 +170,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 팝업 정보 페이지로, 단일 팝업 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "Popply",
@@ -183,7 +183,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "팝업 제보 페이지로, 단일 팝업 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -196,7 +196,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총괄적인 전시 일정 페이지로, 단일 전시 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -209,7 +209,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -222,7 +222,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -235,7 +235,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "뉴스 목록 페이지로, 단일 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -248,7 +248,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "작품 목록 페이지로, 단일 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -261,7 +261,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "아티스트 목록 페이지로, 단일 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -274,7 +274,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "갤러리 목록 페이지로, 단일 이벤트가 아닙니다."
+      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당하며, 구체적인 단일 이벤트 이름이 없습니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -287,7 +287,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page for registering exhibitions, not a specific exhibition or popup event."
+      "reason": "This is a registration page, not an actual event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -300,7 +300,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page for viewing estimates, not a specific exhibition or popup event."
+      "reason": "This is a preview page for estimates, not an actual event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -313,7 +313,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page related to art captions, not a specific exhibition or popup event."
+      "reason": "This appears to be a service or product description, not a specific event."
     },
     {
       "sourceName": "ARTMAP",
@@ -326,7 +326,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page for product introductions, not a specific exhibition or popup event."
+      "reason": "This is a product introduction, not an actual event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -339,7 +339,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a company introduction page, not a specific exhibition or popup event."
+      "reason": "This is a company introduction, not an actual event or exhibition."
     },
     {
       "sourceName": "ARTMAP",
@@ -352,24 +352,53 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a contact page, not a specific exhibition or popup event."
+      "reason": "This is a contact page, not an actual event or exhibition."
     }
   ],
   "items": [
     {
       "rank": 1,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전 (예정)",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 8월 6일부터 11월 8일까지 진행되며, 팬덤과 굿즈까지 기대되는 전시입니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 (예정) 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 92,
+      "favorability": 76,
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 8월 6일부터 11월 8일까지 진행되며, 팬덤과 굿즈까지 기대되는 전시입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험",
+        "팬덤/굿즈"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 2,
       "brand": "ARTMAP",
-      "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "owner": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여줍니다.",
-      "venue": "국립현대미술관서울관/서울",
+      "title": "국립현대미술관 서울관《올해의 작가상 2026》",
+      "owner": "국립현대미술관 서울관에서 7월 24일부터 12월 6일까지 열리는 '올해의 작가상 2026' 전시는 공식 정보와 뉴스 반응이 뜨거운 주목을 받고 있습니다.",
+      "venue": "국립현대미술관서울관",
       "area": "서울",
       "region": "서울",
-      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울 국립현대미술관서울관/서울 서울",
+      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관 서울",
       "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceLabel": "공식/정보 출처",
       "noiz": 91,
       "favorability": 70,
-      "description": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여줍니다.",
+      "description": "국립현대미술관 서울관에서 7월 24일부터 12월 6일까지 열리는 '올해의 작가상 2026' 전시는 공식 정보와 뉴스 반응이 뜨거운 주목을 받고 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -384,10 +413,10 @@
       "aiDescription": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "brand": "ARTMAP",
       "title": "방혜자 - 천지에 마음의 빛 뿌리며 간다",
-      "owner": "국립현대미술관 청주관에서 열리는 방혜자 작가의 개인전은 빛과 색채의 향연을 경험할 수 있습니다.",
+      "owner": "국립현대미술관 청주관에서 4월 24일부터 9월 27일까지 열리는 방혜자 작가의 개인전은 무료 체험 기회와 함께 공식 정보 및 후기 반응이 좋습니다.",
       "venue": "국립현대미술관 청주관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -396,7 +425,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 90,
       "favorability": 74,
-      "description": "국립현대미술관 청주관에서 열리는 방혜자 작가의 개인전은 빛과 색채의 향연을 경험할 수 있습니다.",
+      "description": "국립현대미술관 청주관에서 4월 24일부터 9월 27일까지 열리는 방혜자 작가의 개인전은 무료 체험 기회와 함께 공식 정보 및 후기 반응이 좋습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -412,23 +441,22 @@
       "aiDescription": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "마틴파 사진전",
-      "owner": "서울시립 사진 미술관에서 무료로 진행되는 마틴파 사진전은 그의 독창적인 시선으로 담아낸 세상을 만날 기회입니다.",
+      "owner": "서울시립 사진 미술관에서 10월 18일까지 진행되는 마틴파 사진전은 공식 정보와 후기 반응이 좋은 전시입니다.",
       "venue": "서울시립 사진 미술관",
       "area": "도봉구",
       "region": "도봉구",
       "mapQuery": "마틴파 사진전 서울시립 사진 미술관 도봉구",
       "sourceUrl": "https://naver.me/xLWAvrcM",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 90,
-      "favorability": 74,
-      "description": "서울시립 사진 미술관에서 무료로 진행되는 마틴파 사진전은 그의 독창적인 시선으로 담아낸 세상을 만날 기회입니다.",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "서울시립 사진 미술관에서 10월 18일까지 진행되는 마틴파 사진전은 공식 정보와 후기 반응이 좋은 전시입니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응",
-        "무료/체험"
+        "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
       "start": "",
@@ -440,37 +468,37 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전",
-      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 작가의 깊이 있는 작품 세계를 탐구할 수 있습니다.",
-      "venue": "국립현대미술관 덕수궁",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 국립현대미술관 덕수궁 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "title": "게오르그 바젤리츠 (예정)",
+      "owner": "세화 미술관에서 8월 13일부터 12월 27일까지 열리는 게오르그 바젤리츠 전시는 공식 정보와 후기 반응이 기대되는 전시입니다.",
+      "venue": "세화 미술관",
+      "area": "종로",
+      "region": "종로",
+      "mapQuery": "게오르그 바젤리츠 (예정) 세화 미술관 종로",
+      "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 작가의 깊이 있는 작품 세계를 탐구할 수 있습니다.",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "세화 미술관에서 8월 13일부터 12월 27일까지 열리는 게오르그 바젤리츠 전시는 공식 정보와 후기 반응이 기대되는 전시입니다.",
       "signals": [
         "공식/정보 출처",
-        "무료/체험"
+        "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
+      "start": "2026-08-13",
+      "end": "2026-12-27",
       "evidenceCount": 9,
-      "reactionCount": 0,
+      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 6,
       "brand": "Ddoing Exhibition Schedule",
       "title": "서도호 개인전",
-      "owner": "국립현대미술관에서 열리는 서도호 개인전은 그의 섬세하고 상징적인 작품들을 만날 수 있는 특별한 경험을 선사합니다.",
+      "owner": "국립현대미술관에서 8월 27일부터 내년 2월 9일까지 열리는 서도호 개인전은 무료 체험 기회와 함께 공식 정보 및 후기 반응이 좋습니다.",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -479,7 +507,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관에서 열리는 서도호 개인전은 그의 섬세하고 상징적인 작품들을 만날 수 있는 특별한 경험을 선사합니다.",
+      "description": "국립현대미술관에서 8월 27일부터 내년 2월 9일까지 열리는 서도호 개인전은 무료 체험 기회와 함께 공식 정보 및 후기 반응이 좋습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -495,37 +523,37 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "게오르그 바젤리츠 (예정)",
-      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠 전시는 현대 미술 거장의 강렬한 작품들을 직접 감상할 수 있는 기회입니다.",
-      "venue": "세화 미술관",
-      "area": "종로",
-      "region": "종로",
-      "mapQuery": "게오르그 바젤리츠 (예정) 세화 미술관 종로",
-      "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
+      "title": "유영국: 산은 내 안에 있다",
+      "owner": "서울시립미술관 서소문 본관에서 5월 19일부터 10월 25일까지 열리는 유영국 작가의 전시는 무료 체험이 가능하며 공식 정보도 확인할 수 있습니다.",
+      "venue": "서울시립미술관 서소문 본관",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 중구",
+      "sourceUrl": "https://naver.me/GPdQtB11",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "세화 미술관에서 열리는 게오르그 바젤리츠 전시는 현대 미술 거장의 강렬한 작품들을 직접 감상할 수 있는 기회입니다.",
+      "noiz": 85,
+      "favorability": 74,
+      "description": "서울시립미술관 서소문 본관에서 5월 19일부터 10월 25일까지 열리는 유영국 작가의 전시는 무료 체험이 가능하며 공식 정보도 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "무료/체험"
       ],
       "category": "exhibition_culture",
-      "start": "2026-08-13",
-      "end": "2026-12-27",
+      "start": "2026-05-19",
+      "end": "2026-10-25",
       "evidenceCount": 9,
-      "reactionCount": 1,
+      "reactionCount": 0,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 7,
+      "rank": 8,
       "brand": "Ddoing Exhibition Schedule",
       "title": "큐비스트: 시각의 혁신가들",
-      "owner": "퐁피두센터 한화에서 열리는 큐비스트 전시는 미술사적 전환점을 만든 혁신적인 시각 예술을 조명합니다.",
+      "owner": "퐁피두센터 한화에서 10월 4일까지 열리는 큐비스트 전시는 공식 정보와 후기 반응이 좋은 전시입니다.",
       "venue": "퐁피두센터 한화",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -534,7 +562,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 84,
       "favorability": 68,
-      "description": "퐁피두센터 한화에서 열리는 큐비스트 전시는 미술사적 전환점을 만든 혁신적인 시각 예술을 조명합니다.",
+      "description": "퐁피두센터 한화에서 10월 4일까지 열리는 큐비스트 전시는 공식 정보와 후기 반응이 좋은 전시입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -549,10 +577,10 @@
       "aiDescription": true
     },
     {
-      "rank": 8,
+      "rank": 9,
       "brand": "서울생활사박물관",
       "title": "대학에서 우리는",
-      "owner": "서울생활사박물관에서 열리는 '대학에서 우리는' 전시는 대학 생활의 추억과 세대 간 경험을 공유합니다.",
+      "owner": "서울생활사박물관에서 5월 15일부터 9월 27일까지 열리는 이 전시는 대학 생활과 세대 경험을 다루며 공식 정보와 후기 반응을 확인할 수 있습니다.",
       "venue": "서울생활사박물관",
       "area": "노원",
       "region": "노원구",
@@ -561,7 +589,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 68,
-      "description": "서울생활사박물관에서 열리는 '대학에서 우리는' 전시는 대학 생활의 추억과 세대 간 경험을 공유합니다.",
+      "description": "서울생활사박물관에서 5월 15일부터 9월 27일까지 열리는 이 전시는 대학 생활과 세대 경험을 다루며 공식 정보와 후기 반응을 확인할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -576,10 +604,10 @@
       "aiDescription": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "brand": "Ddoing Exhibition Schedule",
       "title": "함양아 개인전: 정의되지 않은 파노라마",
-      "owner": "아트선재센터에서 열리는 함양아 개인전은 작가의 독특한 시각 언어를 통해 새로운 해석의 가능성을 제시합니다.",
+      "owner": "아트선재센터에서 10월 4일까지 열리는 함양아 작가의 전시는 공식 정보와 후기 반응이 좋은 전시입니다.",
       "venue": "아트선재센터",
       "area": "종로구",
       "region": "종로구",
@@ -588,7 +616,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "아트선재센터에서 열리는 함양아 개인전은 작가의 독특한 시각 언어를 통해 새로운 해석의 가능성을 제시합니다.",
+      "description": "아트선재센터에서 10월 4일까지 열리는 함양아 작가의 전시는 공식 정보와 후기 반응이 좋은 전시입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -596,33 +624,6 @@
       "category": "exhibition_culture",
       "start": "",
       "end": "2026-10-04",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "필립 예니카: 럭키럭키럭키",
-      "owner": "띠아트뮤지엄 홍대에서 열리는 필립 예니카 전시는 그의 독특한 감성과 유머가 담긴 작품들을 선보입니다.",
-      "venue": "띠아트뮤지엄 홍대",
-      "area": "홍대",
-      "region": "홍대",
-      "mapQuery": "필립 예니카: 럭키럭키럭키 띠아트뮤지엄 홍대 홍대",
-      "sourceUrl": "https://tickets.interpark.com/goods/26007072",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 84,
-      "favorability": 68,
-      "description": "띠아트뮤지엄 홍대에서 열리는 필립 예니카 전시는 그의 독특한 감성과 유머가 담긴 작품들을 선보입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "2026-09-19",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
