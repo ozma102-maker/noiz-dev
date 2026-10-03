@@ -1,53 +1,8 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-09-30T13:42:19+09:00",
+  "updated_at": "2026-10-03T13:27:27+09:00",
   "mode": "inventory",
   "items": [
-    {
-      "title": "<SKETCH 2026 : 유동의 미학>",
-      "venue": "송원아트센터",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-08-28",
-      "end": "2026-09-17",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32424",
-      "sourceName": "ARTMAP",
-      "summary": "송원아트센터에서 열리는 'SKETCH 2026 : 유동의 미학' 전시를 경험할 수 있습니다.",
-      "notes": "Specific exhibition with clear title, venue, and dates.",
-      "lastSeen": "2026-09-17T13:05:50+09:00",
-      "seed": false
-    },
-    {
-      "title": "<SKETCH 2026 : 유동의 미학> 송원아트센터/서울",
-      "venue": "송원아트센터",
-      "area": "서울",
-      "region": "서울",
-      "category": "exhibition_culture",
-      "start": "2026-08-28",
-      "end": "2026-09-17",
-      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32424",
-      "sourceName": "ARTMAP",
-      "summary": "송원아트센터에서 열리는 'SKETCH 2026 : 유동의 미학' 전시입니다.",
-      "notes": "단일 전시이며, 제목과 날짜, 장소가 구체적입니다.",
-      "lastSeen": "2026-09-13T12:55:26+09:00",
-      "seed": false
-    },
-    {
-      "title": "흐릿하게 선명하게",
-      "venue": "파비욘드 갤러리",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "category": "exhibition_culture",
-      "start": "2026-08-25",
-      "end": "2026-09-18",
-      "officialUrl": "https://map.naver.com/p/entry/place/1210077000?placePath=%2Fhome",
-      "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "파비욘드 갤러리에서 열리는 '흐릿하게 선명하게' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 제목과 장소, 날짜 정보가 구체적입니다.",
-      "lastSeen": "2026-08-21T10:26:40+09:00",
-      "seed": false
-    },
     {
       "title": "이상원: Restopia",
       "venue": "한솥아트스페이스",
@@ -262,9 +217,9 @@
       "end": "2026-10-02",
       "officialUrl": "https://naver.me/x1VvLsXY",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "PS CENTER에서 열리는 구본창, 연진영 작가의 '본연' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "구본창과 연진영 작가의 '본연' 전시를 PS CENTER에서 관람할 수 있습니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -320,9 +275,9 @@
       "end": "2026-10-03",
       "officialUrl": "https://naver.me/IxKlBlUV",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "갤러리 조선에서 열리는 우민정 개인전 '꿈, 사랑, 희망'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "우민정 작가의 '꿈, 사랑, 희망' 개인전이 갤러리 조선에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -342,16 +297,16 @@
     {
       "title": "우순옥 개인전",
       "venue": "성곡미술관",
-      "area": "종로",
-      "region": "종로",
+      "area": "종로구",
+      "region": "종로구",
       "category": "exhibition_culture",
       "start": "2026-08-12",
       "end": "2026-10-03",
       "officialUrl": "http://www.sungkokmuseum.org/main/exhibitions/%E3%80%8A%EC%9A%B0%EC%88%9C%EC%98%A5_%EC%98%88%EC%88%A0%EC%9D%80-%EC%9D%B4%EB%AF%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D%EC%97%90-%EC%9E%88%EB%8B%A4%E3%80%8B/",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "성곡미술관에서 열리는 우순옥 개인전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "우순옥 작가의 개인전이 성곡미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -408,9 +363,9 @@
       "end": "2026-10-03",
       "officialUrl": "https://naver.me/xeASVxgU",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "파운드리 서울에서 열리는 율리아 아이오실존의 '무중력' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "율리아 아이오실존 작가의 '무중력' 전시가 파운드리 서울에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -436,9 +391,9 @@
       "end": "2026-10-04",
       "officialUrl": "https://naver.me/G7V4vmm3",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "알부스갤러리에서 열리는 이진희 개인전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "이진희 작가의 개인전이 알부스갤러리에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -450,9 +405,9 @@
       "end": "2026-10-04",
       "officialUrl": "https://www.centrepompidou-hanwha.kr/visit/tickets/detail?seq=96",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "퐁피두센터 한화에서 열리는 큐비스트 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'큐비스트: 시각의 혁신가들' 전시를 퐁피두센터 한화에서 관람할 수 있습니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -464,9 +419,9 @@
       "end": "2026-10-04",
       "officialUrl": "https://naver.me/GyYb3sNv",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "아트선재센터에서 열리는 함양아 개인전 '정의되지 않은 파노라마'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "함양아 작가의 '정의되지 않은 파노라마' 개인전이 아트선재센터에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -478,9 +433,9 @@
       "end": "2026-10-08",
       "officialUrl": "https://naver.me/GmpYn4zM",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "OCI미술관에서 열리는 윤정민 작가의 '꼴' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "윤정민 작가의 '꼴' 전시가 OCI미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -506,9 +461,9 @@
       "end": "2026-10-10",
       "officialUrl": "https://naver.me/FBe2Zj2Q",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "송은에서 열리는 오종 개인전 '가라앉음, 앉음'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "오종 작가의 '가라앉음, 앉음' 개인전이 송은에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -534,9 +489,9 @@
       "end": "2026-10-11",
       "officialUrl": "https://naver.me/5hulaWqU",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립현대미술관 서울에서 열리는 '이것은 개념미술이 아니다' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'이것은 개념미술이 아니다' 전시를 국립현대미술관 서울에서 관람할 수 있습니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -563,9 +518,9 @@
       "end": "2026-10-16",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1650806",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "한가람미술관 서예박물관에서 열리는 브라이언 와일드 스미스 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "브라이언 와일드 스미스 전이 한가람미술관 서예박물관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -577,9 +532,9 @@
       "end": "2026-10-18",
       "officialUrl": "https://naver.me/xLWAvrcM",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울시립 사진 미술관에서 열리는 마틴파 사진전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "마틴파 사진전이 서울시립 사진 미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -605,9 +560,9 @@
       "end": "2026-10-24",
       "officialUrl": "https://naver.me/FEUpNF3O",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "페이스갤러리에서 열리는 프리드리히 쿠나스 개인전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "프리드리히 쿠나스 개인전이 페이스갤러리에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -641,17 +596,17 @@
     },
     {
       "title": "《유영국: 산은 내 안에 있다》 서울시립미술관서소문본관/서울",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "서울시립미술관 서소문본관",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-05-19",
       "end": "2026-10-25",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32332",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "서울시립미술관 서소문본관에서 열리는 유영국 개인전입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -663,9 +618,9 @@
       "end": "2026-10-25",
       "officialUrl": "https://naver.me/G7V4O7bU",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "대구미술관에서 열리는 '바깥을 향한 속삭임' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'바깥을 향한 속삭임' 전시가 대구미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -678,9 +633,37 @@
       "end": "2026-10-25",
       "officialUrl": "https://naver.me/GPdQtB11",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울시립미술관 서소문 본관에서 열리는 유영국 전시 '산은 내 안에 있다'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "유영국 작가의 '산은 내 안에 있다' 전시가 서울시립미술관 서소문 본관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
+      "seed": false
+    },
+    {
+      "title": "이강소: 일어나고 사라지는",
+      "venue": "롯데뮤지엄",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "end": "2026-11-01",
+      "officialUrl": "https://naver.me/FoENv5bS",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "이강소 작가의 '일어나고 사라지는' 전시가 롯데뮤지엄에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
+      "seed": false
+    },
+    {
+      "title": "패트리샤 피치니니: 킨쉽",
+      "venue": "수원시립미술관",
+      "area": "수원시",
+      "region": "수원시",
+      "category": "exhibition_culture",
+      "end": "2026-11-01",
+      "officialUrl": "https://naver.me/GXApRA8L",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "패트리샤 피치니니 작가의 '킨쉽' 전시가 수원시립미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -693,9 +676,9 @@
       "end": "2026-11-03",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1673244?theme=place&lang=ko&area=ple",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "더현대서울 ALT.1에서 열리는 뱅크시 전시 'Still here'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "뱅크시의 'Still here' 전시가 ALT.1 더현대서울현대백화점에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -722,9 +705,9 @@
       "end": "2026-11-05",
       "officialUrl": "https://naver.me/5v3Radd0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "마이어리거울프에서 열리는 마르셀 뒤샹 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "마르셀 뒤샹 전시가 마이어리거울프에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -751,9 +734,9 @@
       "end": "2026-11-08",
       "officialUrl": "https://naver.me/IDFU8mWp",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립현대미술관 덕수궁에서 열리는 이대원 개인전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "이대원 작가의 개인전이 국립현대미술관 덕수궁에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -810,9 +793,9 @@
       "end": "2026-11-08",
       "officialUrl": "https://naver.me/xqbxacEl",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "청주 그림책정원1937에서 열리는 이수지 그림책 전시 '빛나는 아이들'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "이수지 작가의 그림책 전시 '빛나는 아이들'이 그림책정원1937에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -838,9 +821,9 @@
       "end": "2026-11-15",
       "officialUrl": "https://naver.me/FY3yx9qa",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "남서울미술관에서 열리는 조숙진 작가의 '지나가는 자리' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "조숙진 작가의 '지나가는 자리' 전시가 남서울미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -867,9 +850,9 @@
       "end": "2026-11-19",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1655259",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "그라운드시소 이스트에서 열리는 조은 원화전 '오늘의 정원'입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "조은 작가의 원화전 '오늘의 정원'이 그라운드시소 이스트에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -896,9 +879,9 @@
       "end": "2026-11-21",
       "officialUrl": "https://naver.me/5eUjkvy5",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "김중업 건축문화의 집에서 열리는 이정윤 작가의 '노래하는 집' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "이정윤 작가의 '노래하는 집' 전시가 김중업 건축문화의 집에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -924,9 +907,9 @@
       "end": "2026-11-22",
       "officialUrl": "https://naver.me/GPdQtB11",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울시립미술관 서소문본관에서 열리는 '기술의 저변: 경계에 선 장면들' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'기술의 저변: 경계에 선 장면들' 전시가 서울시립미술관 서소문본관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -952,9 +935,9 @@
       "end": "2026-11-28",
       "officialUrl": "https://naver.me/x5Grv76f",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "최만린미술관에서 열리는 최만린, 박병욱 작가의 '집: 두 조각가를 잇다' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "최만린, 박병욱 두 조각가를 잇는 '집' 전시가 최만린미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -966,9 +949,9 @@
       "end": "2026-11-29",
       "officialUrl": "https://ticket.leeum.org/leeum/personal/exhibitList.do",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "리움미술관에서 열리는 '다른 공간 안으로' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'다른 공간 안으로' 전시가 리움미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -980,9 +963,9 @@
       "end": "2026-12-04",
       "officialUrl": "https://naver.me/GRo4lCOl",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "뮤지엄 산에서 열리는 이배 작가의 '기다리며' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "이배 작가의 '기다리며' 전시가 뮤지엄 산에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1002,17 +985,17 @@
     },
     {
       "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "국립현대미술관 서울관",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-24",
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "국립현대미술관 서울관에서 열리는 올해의 작가상 전시입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1032,17 +1015,17 @@
     },
     {
       "title": "이배 개인전 《En attendant: 기다리며》 뮤지엄산/강원",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "뮤지엄산",
+      "area": "강원",
+      "region": "강원",
       "category": "exhibition_culture",
       "start": "2026-04-07",
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32417",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "뮤지엄산에서 열리는 이배 개인전입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1055,9 +1038,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "게오르그 바젤리츠 전시가 세화 미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1114,9 +1097,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://naver.me/GQ1MsDbA",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "호암미술관에서 열리는 '방이있고 모든 라디오가 각기 다른 주파수를 향하고 있다' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'방이있고 모든 라디오가 각기 다른 주파수를 향하고 있다' 전시가 호암미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1136,17 +1119,17 @@
     },
     {
       "title": "카우스 《친구, 그리고 이웃 FRIENDS AND NEIGHBORS》 스페이스K/서울",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "스페이스K/서울",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-23",
       "end": "2026-12-27",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "스페이스K/서울에서 열리는 카우스 전시 정보입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜 정보가 없으나 이벤트성이 강합니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1181,17 +1164,17 @@
     },
     {
       "title": "《사라짐을 보는 기술 The Art of Seeing Obscurity》 닻프레스 다크룸/서울",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "닻프레스 다크룸",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-31",
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "닻프레스 다크룸에서 열리는 전시입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1203,9 +1186,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://naver.me/GTnELf3v",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립세종수목원에서 열리는 '앙리 마티스가 그린 오색 정원' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'앙리 마티스가 그린 오색 정원' 전시가 국립세종수목원에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1231,9 +1214,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "제주 전이수 갤러리에서 열리는 전이수 작가의 '우리 함께' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "전이수 작가의 '우리 함께' 전시가 전이수 갤러리에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1273,9 +1256,9 @@
       "end": "2027-01-03",
       "officialUrl": "https://naver.me/GFB1lVe8",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립현대미술관 과천에서 열리는 '해외명작: 수련과 샹들리에' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'해외명작: 수련과 샹들리에' 전시가 국립현대미술관 과천에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1302,9 +1285,9 @@
       "end": "2027-01-20",
       "officialUrl": "https://naver.me/GJTngOA1",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "한가람디자인미술관에서 열리는 '스페인미술 500년' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'스페인미술 500년' 전시가 한가람디자인미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1317,9 +1300,9 @@
       "end": "2027-02-09",
       "officialUrl": "https://naver.me/GDa2FKhZ",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립현대미술관에서 열리는 서도호 개인전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "서도호 작가의 개인전이 국립현대미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1346,9 +1329,9 @@
       "end": "2027-02-26",
       "officialUrl": "https://naver.me/xVBxnSJI",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "카이스트 미술관에서 열리는 류경채 작가의 '마음의 시' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "류경채 작가의 '마음의 시' 전시가 카이스트 미술관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1397,17 +1380,17 @@
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관(수원시립아이파크미술관)/경기",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "수원시립아이파크미술관",
+      "area": "경기",
+      "region": "경기",
       "category": "exhibition_culture",
       "start": "2026-02-12",
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "수원시립아이파크미술관에서 열리는 2026 소장품전 정보입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜 정보가 없으나 이벤트성이 강합니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1420,9 +1403,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://naver.me/xwmqycQy",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "그라운드시소 센트럴에서 열리는 표기식 사진전입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "표기식 사진전이 그라운드시소 센트럴에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1479,9 +1462,9 @@
       "end": "2027-05-30",
       "officialUrl": "https://naver.me/x67SWpC0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립중앙박물관에서 열리는 '그리스가 로마에게, 로마가 그리스에게' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'그리스가 로마에게, 로마가 그리스에게' 전시가 국립중앙박물관에서 열립니다.",
+      "notes": "KEEP: 단일 전시이며, 공식 페이지로 보입니다. 제목이 구체적이고 종료일이 명시되어 있습니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1500,17 +1483,17 @@
     },
     {
       "title": "그리스가 로마에게, 로마가 그리스에게 국립중앙박물관/서울",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "국립중앙박물관",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2023-06-15",
       "end": "2027-05-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=28215",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "국립중앙박물관에서 열리는 특별 전시입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -1530,17 +1513,17 @@
     },
     {
       "title": "과천관 40주년 프로젝트 《빛의 상상들》 국립현대미술관과천관/경기",
-      "venue": "서울시립미술관",
-      "area": "중구",
-      "region": "중구",
+      "venue": "국립현대미술관 과천관",
+      "area": "경기",
+      "region": "경기",
       "category": "exhibition_culture",
       "start": "2026-07-10",
       "end": "2027-10-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
-      "notes": "local fallback judgement",
-      "lastSeen": "2026-09-30T13:42:36+09:00",
+      "summary": "국립현대미술관 과천관 40주년 기념 프로젝트 전시입니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보입니다. 날짜가 미래이나 구체적인 이벤트입니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
@@ -2955,9 +2938,9 @@
       "category": "space_experience",
       "officialUrl": "https://www.audeum.org/booking",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "오디움 박물관에서 열리는 '정음: 소리의 여정' 체험 전시입니다.",
-      "notes": "단일 전시/체험 이벤트이며, 공식 정보 페이지로 판단됩니다.",
-      "lastSeen": "2026-09-29T13:56:04+09:00",
+      "summary": "'정음: 소리의 여정' 전시가 오디움 박물관에서 열립니다.",
+      "notes": "KEEP: 단일 전시/체험 공간이며, 공식 페이지로 보입니다. 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-10-03T13:27:36+09:00",
       "seed": false
     },
     {
