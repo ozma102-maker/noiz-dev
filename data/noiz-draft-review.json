@@ -1,11 +1,11 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-10-05T13:45:30+09:00",
+  "updated_at": "2026-10-06T14:32:10+09:00",
   "published": true,
   "active_inventory_count": 216,
-  "candidate_count": 79,
-  "fresh_accepted_count": 47,
-  "final_card_count": 9,
+  "candidate_count": 80,
+  "fresh_accepted_count": 50,
+  "final_card_count": 10,
   "seed_fallback_available": true,
   "warnings": [],
   "rejected_examples": [
@@ -182,7 +182,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page for discovering pop-ups, not a specific event."
+      "reason": "총괄적인 팝업 정보 페이지로, 단일 팝업 이벤트가 아닙니다."
     },
     {
       "sourceName": "Popply",
@@ -195,7 +195,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page for reporting pop-ups, not a specific event."
+      "reason": "팝업 제보 페이지로, 단일 팝업 이벤트가 아닙니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -208,7 +208,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general schedule page, not a specific exhibition."
+      "reason": "총괄적인 전시 일정 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -221,7 +221,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page listing exhibitions, not a specific event."
+      "reason": "전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -234,7 +234,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "This is the main page for the museum, not a specific exhibition."
+      "reason": "미술관의 메인 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -247,7 +247,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general information page about visiting and participating, not a specific event."
+      "reason": "미술관의 안내 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -260,7 +260,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page about the children's museum, not a specific exhibition."
+      "reason": "어린이 미술관 안내 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -273,7 +273,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page about exhibition tours, not a specific exhibition."
+      "reason": "전시 해설 안내 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -286,7 +286,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page listing current exhibitions, not a specific event."
+      "reason": "현재 진행 중인 전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -299,7 +299,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page listing upcoming exhibitions, not a specific event."
+      "reason": "예정된 전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -312,7 +312,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general page listing past exhibitions, not a specific event."
+      "reason": "과거 전시 목록 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -325,7 +325,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page about museum education programs, not a specific exhibition."
+      "reason": "미술관 교육 소개 페이지로, 단일 전시 이벤트가 아닙니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -338,15 +338,70 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a page about the digital museum, not a specific exhibition."
+      "reason": "구체적인 단일 이벤트명이 아니며, 페이지의 목적이 불분명합니다."
     }
   ],
   "items": [
     {
       "rank": 1,
+      "brand": "MMCA Exhibitions",
+      "title": "어린이미술관",
+      "owner": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 93,
+      "favorability": 72,
+      "description": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 2,
+      "brand": "ARTMAP",
+      "title": "전시등록",
+      "owner": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "전시등록 서울/수도권 서울/수도권",
+      "sourceUrl": "https://art-map.co.kr/write.php",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 89,
+      "favorability": 68,
+      "description": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 3,
       "brand": "Ddoing Exhibition Schedule",
       "title": "마틴파 사진전",
-      "owner": "서울시립 사진 미술관에서 열리는 마틴파 사진전은 그의 작품 세계를 깊이 있게 경험할 수 있는 기회입니다.",
+      "owner": "서울시립 사진 미술관에서 열리는 마틴파 사진전입니다.",
       "venue": "서울시립 사진 미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -355,7 +410,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립 사진 미술관에서 열리는 마틴파 사진전은 그의 작품 세계를 깊이 있게 경험할 수 있는 기회입니다.",
+      "description": "서울시립 사진 미술관에서 열리는 마틴파 사진전입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -370,10 +425,10 @@
       "aiDescription": true
     },
     {
-      "rank": 2,
+      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이대원 개인전 (예정)",
-      "owner": "국립현대미술관 덕수궁에서 개최 예정인 이대원 개인전은 작가의 예술 세계를 조명합니다.",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전입니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
@@ -382,7 +437,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 개최 예정인 이대원 개인전은 작가의 예술 세계를 조명합니다.",
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -397,10 +452,10 @@
       "aiDescription": true
     },
     {
-      "rank": 3,
+      "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
-      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 작품을 직접 만날 수 있는 특별한 경험을 선사합니다.",
+      "owner": "이대원 개인전이 국립현대미술관 덕수궁에서 열립니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
@@ -409,7 +464,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 작품을 직접 만날 수 있는 특별한 경험을 선사합니다.",
+      "description": "이대원 개인전이 국립현대미술관 덕수궁에서 열립니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -424,10 +479,10 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
+      "rank": 6,
       "brand": "Ddoing Exhibition Schedule",
       "title": "게오르그 바젤리츠 (예정)",
-      "owner": "세화 미술관에서 예정된 게오르그 바젤리츠 전시는 현대 미술 거장의 작품을 감상할 기회입니다.",
+      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
       "venue": "세화 미술관",
       "area": "종로",
       "region": "종로",
@@ -436,7 +491,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "세화 미술관에서 예정된 게오르그 바젤리츠 전시는 현대 미술 거장의 작품을 감상할 기회입니다.",
+      "description": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -451,10 +506,10 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
       "title": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 ~26.10.25",
-      "owner": "서울시립미술관에서 열리는 유영국 작가의 '산은 내 안에 있다' 전시는 그의 독창적인 예술 세계를 보여줍니다.",
+      "owner": "서울시립미술관에서 진행되는 전시/문화 경험 후보입니다.",
       "venue": "서울시립미술관",
       "area": "중구",
       "region": "중구",
@@ -463,7 +518,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립미술관에서 열리는 유영국 작가의 '산은 내 안에 있다' 전시는 그의 독창적인 예술 세계를 보여줍니다.",
+      "description": "서울시립미술관에서 진행되는 전시/문화 경험 후보입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -478,10 +533,10 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 8,
       "brand": "MMCA Exhibitions",
       "title": "주메뉴 바로가기",
-      "owner": "국립현대미술관에서 제공하는 다양한 전시와 문화 프로그램을 편리하게 이용할 수 있습니다.",
+      "owner": "국립현대미술관에서 진행되는 전시/문화 경험 후보입니다.",
       "venue": "국립현대미술관",
       "area": "삼청",
       "region": "삼청",
@@ -490,7 +545,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관에서 제공하는 다양한 전시와 문화 프로그램을 편리하게 이용할 수 있습니다.",
+      "description": "국립현대미술관에서 진행되는 전시/문화 경험 후보입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -506,49 +561,23 @@
       "aiDescription": true
     },
     {
-      "rank": 7,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "카우스 <친구, 그리고 이웃 FRIENDS AND NEIGHBORS>",
-      "owner": "스페이스K 서울에서 열리는 카우스의 '친구, 그리고 이웃' 전시는 그의 독특한 예술 세계를 경험하게 합니다.",
-      "venue": "스페이스K 서울",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "카우스 <친구, 그리고 이웃 FRIENDS AND NEIGHBORS> 스페이스K 서울 서울/수도권",
-      "sourceUrl": "https://naver.me/5KbGBiCv",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 86,
-      "favorability": 70,
-      "description": "스페이스K 서울에서 열리는 카우스의 '친구, 그리고 이웃' 전시는 그의 독특한 예술 세계를 경험하게 합니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-07-23",
-      "end": "2026-12-27",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "brand": "MMCA Exhibitions",
-      "title": "어린이미술관",
-      "owner": "서울/수도권에서 아이들과 함께 즐길 수 있는 어린이 미술관 정보를 제공합니다.",
+      "title": "관람·참여",
+      "owner": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
+      "mapQuery": "관람·참여 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/seoulInfo.do', '01A000100000000', '1');",
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "서울/수도권에서 아이들과 함께 즐길 수 있는 어린이 미술관 정보를 제공합니다.",
+      "description": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "후기/뉴스 반응",
+        "무료/체험"
       ],
       "category": "exhibition_culture",
       "start": "",
@@ -560,28 +589,29 @@
       "aiDescription": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "마틴파 사진전 (무료입장)",
-      "owner": "서울시립 사진 미술관에서 마틴파 사진작가의 전시를 무료로 관람할 수 있는 좋은 기회입니다.",
-      "venue": "서울시립 사진 미술관",
-      "area": "도봉구",
-      "region": "도봉구",
-      "mapQuery": "마틴파 사진전 (무료입장) 서울시립 사진 미술관 도봉구",
-      "sourceUrl": "https://naver.me/xLWAvrcM",
+      "title": "전시일정",
+      "owner": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "전시일정 서울/수도권 서울/수도권",
+      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "서울시립 사진 미술관에서 마틴파 사진작가의 전시를 무료로 관람할 수 있는 좋은 기회입니다.",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "서울/수도권에서 진행되는 전시/문화 경험 후보입니다.",
       "signals": [
         "공식/정보 출처",
+        "후기/뉴스 반응",
         "무료/체험"
       ],
       "category": "exhibition_culture",
       "start": "",
-      "end": "2026-10-18",
-      "evidenceCount": 8,
-      "reactionCount": 0,
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
