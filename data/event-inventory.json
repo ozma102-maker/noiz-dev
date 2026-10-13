@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-10-12T14:03:41+09:00",
+  "updated_at": "2026-10-13T15:03:35+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -496,16 +496,16 @@
     {
       "title": "《유영국: 산은 내 안에 있다》 서울시립미술관서소문본관/서울",
       "venue": "서울시립미술관서소문본관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-05-19",
       "end": "2026-10-25",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32332",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관 서소문본관에서 유영국 작가의 '산은 내 안에 있다' 전시를 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "서울시립미술관 서소문본관에서 유영국 작가의 '산은 내 안에 있다' 전시를 선보입니다.",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -898,17 +898,17 @@
     },
     {
       "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "venue": "국립현대미술관 서울관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "venue": "국립현대미술관서울관",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-24",
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceName": "ARTMAP",
       "summary": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시를 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -936,9 +936,9 @@
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32417",
       "sourceName": "ARTMAP",
-      "summary": "뮤지엄산에서 이배 작가의 개인전 'En attendant: 기다리며'를 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "뮤지엄산에서 이배 작가의 개인전 'En attendant: 기다리며'가 개최됩니다.",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1047,16 +1047,16 @@
     {
       "title": "카우스 《친구, 그리고 이웃 FRIENDS AND NEIGHBORS》 스페이스K/서울",
       "venue": "스페이스K/서울",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-23",
       "end": "2026-12-27",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "카우스의 '친구, 그리고 이웃' 전시를 스페이스K/서울에서 개최합니다.",
-      "notes": "제목이 구체적이고 단일 전시를 지칭하지만, 날짜 정보가 누락되어 있습니다. 하지만 다른 항목에서 동일 전시 정보가 있어 keep 합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "카우스의 '친구, 그리고 이웃' 전시를 스페이스K/서울에서 경험할 수 있습니다.",
+      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 다른 항목에서 날짜 정보가 확인됩니다. 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1092,16 +1092,16 @@
     {
       "title": "《사라짐을 보는 기술 The Art of Seeing Obscurity》 닻프레스 다크룸/서울",
       "venue": "닻프레스 다크룸",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2026-07-31",
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "닻프레스 다크룸에서 '사라짐을 보는 기술' 전시를 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "'사라짐을 보는 기술' 전시를 닻프레스 다크룸에서 만나볼 수 있습니다.",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1321,7 +1321,7 @@
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관(수원시립아이파크미술관)/경기",
-      "venue": "수원시립아이파크미술관",
+      "venue": "수원시립미술관(수원시립아이파크미술관)",
       "area": "경기",
       "region": "경기",
       "category": "exhibition_culture",
@@ -1329,9 +1329,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립아이파크미술관에서 2026 소장품전 '블랑 블랙 파노라마'를 개최합니다.",
-      "notes": "제목이 구체적이고 단일 전시를 지칭하지만, 날짜 정보가 누락되어 있습니다. 하지만 다른 항목에서 동일 전시 정보가 있어 keep 합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "수원시립미술관에서 2026 소장품전 '블랑 블랙 파노라마'를 개최합니다.",
+      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 다른 항목에서 날짜 정보가 확인됩니다. 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1439,16 +1439,16 @@
     {
       "title": "그리스가 로마에게, 로마가 그리스에게 국립중앙박물관/서울",
       "venue": "국립중앙박물관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
+      "area": "서울",
+      "region": "서울",
       "category": "exhibition_culture",
       "start": "2023-06-15",
       "end": "2027-05-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=28215",
       "sourceName": "ARTMAP",
-      "summary": "국립중앙박물관에서 '그리스가 로마에게, 로마가 그리스에게' 전시를 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "국립중앙박물관에서 '그리스가 로마에게, 로마가 그리스에게' 전시를 진행합니다.",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1476,9 +1476,9 @@
       "end": "2027-10-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 과천관 40주년 기념 프로젝트 '빛의 상상들'을 개최합니다.",
-      "notes": "단일 전시이며, 제목이 구체적이고, 공식 페이지로 판단됩니다. 날짜가 미래이나, 해당 전시 자체는 존재합니다.",
-      "lastSeen": "2026-10-12T14:03:52+09:00",
+      "summary": "국립현대미술관 과천관 40주년 기념 프로젝트 '빛의 상상들' 전시가 열립니다.",
+      "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
+      "lastSeen": "2026-10-13T15:03:43+09:00",
       "seed": false
     },
     {
@@ -1569,7 +1569,7 @@
       "sourceName": "GroundSeesaw",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1595,7 +1595,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1621,7 +1621,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1660,7 +1660,7 @@
       "sourceName": "Popply",
       "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1725,7 +1725,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "종로에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1777,7 +1777,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1803,7 +1803,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1842,7 +1842,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1881,7 +1881,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1895,6 +1895,19 @@
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
       "lastSeen": "2026-08-23T10:35:23+09:00",
+      "seed": false
+    },
+    {
+      "title": "넷플잔치 | 10월 24·25일 문화비축기지, 프로그램과 생중계 정리 전시·공연·축제 2026.10.08",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "popup_brand",
+      "officialUrl": "https://popga.co.kr/content/magazine/457",
+      "sourceName": "Popga Magazine",
+      "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1920,7 +1933,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1946,7 +1959,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "중구에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -1998,7 +2011,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2011,7 +2024,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "한남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2024,7 +2037,20 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
+      "seed": false
+    },
+    {
+      "title": "매거진 보러가기",
+      "venue": "강남",
+      "area": "강남",
+      "region": "강남",
+      "category": "popup_brand",
+      "officialUrl": "https://popga.co.kr/content/magazine/453",
+      "sourceName": "Popga Magazine",
+      "summary": "강남에서 진행되는 팝업/브랜드 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2128,7 +2154,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2141,7 +2167,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2180,7 +2206,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2245,7 +2271,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2310,7 +2336,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2337,6 +2363,19 @@
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
       "lastSeen": "2026-08-23T10:35:23+09:00",
+      "seed": false
+    },
+    {
+      "title": "솔 르윗 Open Structure | 아모레퍼시픽미술관, 지시문으로 그린 벽화와 입체 구조물 전시·공연·축제 2026.10.08",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "popup_brand",
+      "officialUrl": "https://popga.co.kr/content/magazine/459",
+      "sourceName": "Popga Magazine",
+      "summary": "서울/수도권에서 진행되는 팝업/브랜드 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2388,7 +2427,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2414,7 +2453,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "강남에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2479,7 +2518,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2492,7 +2531,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2518,7 +2557,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2531,7 +2570,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2661,7 +2700,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2713,7 +2752,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2739,7 +2778,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2752,7 +2791,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2778,7 +2817,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2817,7 +2856,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2873,6 +2912,19 @@
       "seed": false
     },
     {
+      "title": "임직순: 내면의 세계를 그리고 싶다 석파정미술관(부암동) ~27.02.14",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "officialUrl": "https://naver.me/FV75VYI4",
+      "sourceName": "Ddoing Exhibition Schedule",
+      "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
+      "seed": false
+    },
+    {
       "title": "임현경 초대전: 히든 위버스 (무료입장) 한원미술관(서초구) ~26.07.31",
       "venue": "서울/수도권",
       "area": "서울/수도권",
@@ -2895,7 +2947,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2921,7 +2973,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2934,7 +2986,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2947,7 +2999,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -2999,7 +3051,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3038,7 +3090,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3051,7 +3103,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3081,6 +3133,20 @@
       "seed": false
     },
     {
+      "title": "진격의 거인展 FINAL | 홍대 11월 1일 종료, 부산 11월 14일 개막 전시·공연·축제 2026.10.08",
+      "venue": "홍대",
+      "area": "홍대",
+      "region": "홍대",
+      "category": "popup_brand",
+      "start": "2026-11-14",
+      "officialUrl": "https://popga.co.kr/content/magazine/462",
+      "sourceName": "Popga Magazine",
+      "summary": "홍대에서 진행되는 팝업/브랜드 경험 후보.",
+      "notes": "local fallback judgement",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
+      "seed": false
+    },
+    {
       "title": "진품 명품 what we see (무료입장) 갤러리 신라(용산구) ~26.08.15",
       "venue": "용산",
       "area": "용산",
@@ -3103,7 +3169,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3116,7 +3182,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3194,7 +3260,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3233,7 +3299,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3246,7 +3312,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "용산에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3324,7 +3390,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
@@ -3337,7 +3403,7 @@
       "sourceName": "MMCA Exhibitions",
       "summary": "서울/수도권에서 진행되는 전시/문화 경험 후보.",
       "notes": "local fallback judgement",
-      "lastSeen": "2026-10-07T14:02:15+09:00",
+      "lastSeen": "2026-10-13T15:03:52+09:00",
       "seed": false
     },
     {
