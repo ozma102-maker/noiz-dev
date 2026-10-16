@@ -1,11 +1,11 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-10-15T12:49:12+09:00",
+  "updated_at": "2026-10-16T12:44:51+09:00",
   "published": true,
-  "active_inventory_count": 226,
+  "active_inventory_count": 227,
   "candidate_count": 83,
   "fresh_accepted_count": 49,
-  "final_card_count": 10,
+  "final_card_count": 9,
   "seed_fallback_available": true,
   "warnings": [],
   "rejected_examples": [
@@ -219,7 +219,7 @@
       "end": "",
       "venue": "강남",
       "area": "강남",
-      "reason": "여러 팝업을 모아놓은 페이지이며, '정리했어요'라는 문구로 인해 총정리 성격이 강합니다."
+      "reason": "여러 팝업을 모아놓은 총정리 글입니다. '강남 팝업 4곳'이라는 제목과 '정리했어요'라는 문구로 여러 팝업을 다루고 있음을 알 수 있습니다."
     },
     {
       "sourceName": "Popply",
@@ -232,7 +232,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 팝업 정보 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 팝업 정보 제공 페이지입니다."
     },
     {
       "sourceName": "Popply",
@@ -245,7 +245,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 팝업 제보 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 팝업 제보를 받는 일반적인 페이지입니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -258,7 +258,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 전시 일정 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 전시 정보 제공 페이지입니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -271,7 +271,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 전시 목록 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 전시 정보 제공 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -284,7 +284,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 기관의 메인 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 기관의 공식 웹사이트입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -297,7 +297,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 안내 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 정보 제공 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -310,15 +310,42 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 안내 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없고, 일반적인 정보 제공 페이지입니다."
     }
   ],
   "items": [
     {
       "rank": 1,
+      "brand": "ARTMAP",
+      "title": "GALLERY",
+      "owner": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "GALLERY 서울/수도권 서울/수도권",
+      "sourceUrl": "https://art-map.co.kr/gallery/new_list.php",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 94,
+      "favorability": 68,
+      "description": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 3,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 2,
       "brand": "Ddoing Exhibition Schedule",
       "title": "마틴파 사진전 (무료입장)",
-      "owner": "서울시립 사진 미술관에서 마틴파 사진작가의 전시를 무료로 관람할 수 있습니다.",
+      "owner": "서울시립 사진 미술관에서 마틴파 사진작가의 작품을 무료로 감상할 수 있는 특별한 기회입니다.",
       "venue": "서울시립 사진 미술관",
       "area": "도봉구",
       "region": "도봉구",
@@ -327,7 +354,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 90,
       "favorability": 74,
-      "description": "서울시립 사진 미술관에서 마틴파 사진작가의 전시를 무료로 관람할 수 있습니다.",
+      "description": "서울시립 사진 미술관에서 마틴파 사진작가의 작품을 무료로 감상할 수 있는 특별한 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -343,10 +370,37 @@
       "aiDescription": true
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "brand": "Popga Magazine",
+      "title": "매거진 보러가기",
+      "owner": "강남에서 열리는 팝업 스토어와 브랜드 경험을 통해 최신 트렌드를 직접 확인할 수 있습니다.",
+      "venue": "강남",
+      "area": "강남",
+      "region": "강남",
+      "mapQuery": "매거진 보러가기 강남 강남",
+      "sourceUrl": "https://popga.co.kr/content/magazine/453",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 89,
+      "favorability": 68,
+      "description": "강남에서 열리는 팝업 스토어와 브랜드 경험을 통해 최신 트렌드를 직접 확인할 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "popup_brand",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이대원 개인전 (예정)",
-      "owner": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 개최될 예정입니다.",
+      "owner": "국립현대미술관 덕수궁에서 개최될 이대원 작가의 개인전은 그의 예술 세계를 깊이 있게 조명할 예정입니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
@@ -355,7 +409,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 이대원 작가의 개인전이 개최될 예정입니다.",
+      "description": "국립현대미술관 덕수궁에서 개최될 이대원 작가의 개인전은 그의 예술 세계를 깊이 있게 조명할 예정입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -370,10 +424,37 @@
       "aiDescription": true
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 예술적 여정을 따라가는 귀한 시간이 될 것입니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 개인전은 그의 예술적 여정을 따라가는 귀한 시간이 될 것입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
       "brand": "Popga Magazine",
       "title": "솔 르윗 Open Structure",
-      "owner": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 제작된 벽화와 입체 구조물을 선보입니다.",
+      "owner": "아모레퍼시픽미술관에서 솔 르윗의 독창적인 벽화와 입체 구조물을 만나는 특별한 경험을 선사합니다.",
       "venue": "아모레퍼시픽미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -382,7 +463,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 제작된 벽화와 입체 구조물을 선보입니다.",
+      "description": "아모레퍼시픽미술관에서 솔 르윗의 독창적인 벽화와 입체 구조물을 만나는 특별한 경험을 선사합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -397,26 +478,27 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
-      "brand": "ARTMAP",
-      "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "owner": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시가 열립니다.",
-      "venue": "국립현대미술관서울관/서울",
-      "area": "서울",
-      "region": "서울",
-      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울 국립현대미술관서울관/서울 서울",
-      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
+      "rank": 7,
+      "brand": "MMCA Exhibitions",
+      "title": "주메뉴 바로가기",
+      "owner": "국립현대미술관에서 무료로 진행되는 다양한 전시와 문화 행사를 편리하게 즐길 수 있습니다.",
+      "venue": "국립현대미술관",
+      "area": "삼청",
+      "region": "삼청",
+      "mapQuery": "주메뉴 바로가기 국립현대미술관 삼청",
+      "sourceUrl": "https://www.mmca.go.kr/exhibitions/progressList.do#gnb",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 86,
-      "favorability": 70,
-      "description": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시가 열립니다.",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "국립현대미술관에서 무료로 진행되는 다양한 전시와 문화 행사를 편리하게 즐길 수 있습니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "후기/뉴스 반응",
+        "무료/체험"
       ],
       "category": "exhibition_culture",
-      "start": "2026-07-24",
-      "end": "2026-12-06",
+      "start": "",
+      "end": "",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
@@ -424,10 +506,10 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
+      "rank": 8,
       "brand": "ARTMAP",
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
-      "owner": "수원시립미술관에서 2026 소장품전 '블랑 블랙 파노라마'를 개최합니다.",
+      "owner": "수원시립미술관에서 열리는 '블랑 블랙 파노라마' 소장품전은 현대 미술의 다채로운 면모를 보여줍니다.",
       "venue": "수원시립미술관",
       "area": "경기",
       "region": "경기",
@@ -436,7 +518,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "수원시립미술관에서 2026 소장품전 '블랑 블랙 파노라마'를 개최합니다.",
+      "description": "수원시립미술관에서 열리는 '블랑 블랙 파노라마' 소장품전은 현대 미술의 다채로운 면모를 보여줍니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -451,136 +533,28 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "마틴파 사진전",
-      "owner": "서울시립 사진 미술관에서 마틴파 사진전을 무료로 관람할 수 있습니다.",
-      "venue": "서울시립 사진 미술관(도봉구)",
+      "rank": 9,
+      "brand": "ARTMAP",
+      "title": "ART",
+      "owner": "서울/수도권에서 펼쳐지는 예술의 향연, 다양한 전시와 아트 페어를 만나볼 기회입니다.",
+      "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "마틴파 사진전 서울시립 사진 미술관(도봉구) 서울/수도권",
-      "sourceUrl": "https://naver.me/xLWAvrcM",
+      "mapQuery": "ART 서울/수도권 서울/수도권",
+      "sourceUrl": "https://art-map.co.kr/work/new_list.php",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "서울시립 사진 미술관에서 마틴파 사진전을 무료로 관람할 수 있습니다.",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "서울/수도권에서 펼쳐지는 예술의 향연, 다양한 전시와 아트 페어를 만나볼 기회입니다.",
       "signals": [
         "공식/정보 출처",
-        "무료/체험"
+        "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
       "start": "",
-      "end": "2026-10-18",
+      "end": "",
       "evidenceCount": 9,
-      "reactionCount": 0,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 7,
-      "brand": "ARTMAP",
-      "title": "《유영국: 산은 내 안에 있다》 서울시립미술관서소문본관/서울",
-      "owner": "서울시립미술관 서소문본관에서 유영국 작가의 '산은 내 안에 있다' 전시가 열립니다.",
-      "venue": "서울시립미술관서소문본관/서울",
-      "area": "서울",
-      "region": "서울",
-      "mapQuery": "《유영국: 산은 내 안에 있다》 서울시립미술관서소문본관/서울 서울시립미술관서소문본관/서울 서울",
-      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32332",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "서울시립미술관 서소문본관에서 유영국 작가의 '산은 내 안에 있다' 전시가 열립니다.",
-      "signals": [
-        "공식/정보 출처",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-05-19",
-      "end": "2026-10-25",
-      "evidenceCount": 9,
-      "reactionCount": 0,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 8,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "유영국: 산은 내 안에 있다",
-      "owner": "서울시립미술관 서소문 본관에서 유영국의 '산은 내 안에 있다' 전시를 만나볼 수 있습니다.",
-      "venue": "서울시립미술관 서소문 본관",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "유영국: 산은 내 안에 있다 서울시립미술관 서소문 본관 중구",
-      "sourceUrl": "https://naver.me/GPdQtB11",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "서울시립미술관 서소문 본관에서 유영국의 '산은 내 안에 있다' 전시를 만나볼 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-05-19",
-      "end": "2026-10-25",
-      "evidenceCount": 9,
-      "reactionCount": 0,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 9,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전",
-      "owner": "국립현대미술관 덕수궁에서 이대원 개인전이 개최됩니다.",
-      "venue": "국립현대미술관 덕수궁(중구)",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 국립현대미술관 덕수궁(중구) 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "국립현대미술관 덕수궁에서 이대원 개인전이 개최됩니다.",
-      "signals": [
-        "공식/정보 출처",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
-      "evidenceCount": 8,
-      "reactionCount": 0,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "게오르그 바젤리츠 세화 미술관",
-      "owner": "세화 미술관에서 게오르그 바젤리츠의 서울 전시를 무료로 관람할 수 있습니다.",
-      "venue": "세화 미술관",
-      "area": "종로",
-      "region": "종로",
-      "mapQuery": "게오르그 바젤리츠 세화 미술관 세화 미술관 종로",
-      "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 85,
-      "favorability": 74,
-      "description": "세화 미술관에서 게오르그 바젤리츠의 서울 전시를 무료로 관람할 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-08-13",
-      "end": "2026-12-27",
-      "evidenceCount": 9,
-      "reactionCount": 0,
+      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
