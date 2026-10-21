@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-10-20T13:02:56+09:00",
+  "updated_at": "2026-10-21T12:52:04+09:00",
   "theme": {
     "id": "legacy-lime-blue",
     "name": "Legacy Lime & Blue",
@@ -11,13 +11,13 @@
     "line": "rgba(63,93,127,.24)",
     "white": "#f4ffd8"
   },
-  "weekly_read": "이번 주에는 솔 르윗의 혁신적인 벽화와 입체 구조물을 만날 수 있는 전시를 비롯해, 유영국 작가의 내면세계를 탐구하는 전시와 국립현대미술관의 '올해의 작가상' 등 주목할 만한 전시들이 다채롭게 준비되어 있습니다. 또한, 어린이 미술관과 다양한 문화 경험을 제공하는 행사들도 함께 즐길 수 있습니다.",
+  "weekly_read": "이번 주에는 솔 르윗의 독특한 벽화와 입체 구조물을 만날 수 있는 전시가 주목받고 있습니다. 또한, 다양한 미술관에서 작가 개인전과 소장품전이 열리며 관람객들에게 풍성한 문화 경험을 선사할 예정입니다.",
   "items": [
     {
       "rank": 1,
       "brand": "Popga Magazine",
       "title": "솔 르윗 Open Structure",
-      "owner": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 구현된 벽화와 입체 구조물을 직접 경험할 수 있는 특별한 전시에 참여해보세요.",
+      "owner": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 그린 벽화와 입체 구조물을 전시하며 독특한 경험을 제공합니다.",
       "venue": "아모레퍼시픽미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -26,7 +26,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 93,
       "favorability": 72,
-      "description": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 구현된 벽화와 입체 구조물을 직접 경험할 수 있는 특별한 전시에 참여해보세요.",
+      "description": "아모레퍼시픽미술관에서 솔 르윗의 지시문으로 그린 벽화와 입체 구조물을 전시하며 독특한 경험을 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -44,7 +44,7 @@
       "rank": 2,
       "brand": "MMCA Exhibitions",
       "title": "어린이미술관",
-      "owner": "서울/수도권에서 아이들과 함께 즐거운 시간을 보낼 수 있는 어린이 미술관에서의 다채로운 전시와 체험을 놓치지 마세요.",
+      "owner": "서울/수도권에서 진행되는 어린이 대상 전시로, 온 가족이 함께 즐길 수 있는 문화 경험입니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -53,7 +53,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 93,
       "favorability": 72,
-      "description": "서울/수도권에서 아이들과 함께 즐거운 시간을 보낼 수 있는 어린이 미술관에서의 다채로운 전시와 체험을 놓치지 마세요.",
+      "description": "서울/수도권에서 진행되는 어린이 대상 전시로, 온 가족이 함께 즐길 수 있는 문화 경험입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -72,7 +72,7 @@
       "rank": 3,
       "brand": "Ddoing Exhibition Schedule",
       "title": "유영국: 산은 내 안에 있다",
-      "owner": "서울시립미술관 서소문 본관에서 열리는 유영국 작가의 개인전에서 그의 독창적인 산의 세계를 만나볼 수 있습니다.",
+      "owner": "서울시립미술관 서소문 본관에서 열리는 유영국 작가의 개인전으로, 그의 예술 세계를 깊이 있게 탐구할 기회입니다.",
       "venue": "서울시립미술관 서소문 본관",
       "area": "중구",
       "region": "중구",
@@ -81,7 +81,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울시립미술관 서소문 본관에서 열리는 유영국 작가의 개인전에서 그의 독창적인 산의 세계를 만나볼 수 있습니다.",
+      "description": "서울시립미술관 서소문 본관에서 열리는 유영국 작가의 개인전으로, 그의 예술 세계를 깊이 있게 탐구할 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -99,7 +99,7 @@
       "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이대원 개인전 (예정)",
-      "owner": "국립현대미술관 덕수궁에서 개최될 이대원 작가의 개인전에서 그의 예술 세계를 미리 만나볼 기회를 가져보세요.",
+      "owner": "국립현대미술관 덕수궁에서 예정된 이대원 작가의 개인전으로, 그의 작품 세계를 미리 만나볼 수 있습니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
@@ -108,7 +108,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 개최될 이대원 작가의 개인전에서 그의 예술 세계를 미리 만나볼 기회를 가져보세요.",
+      "description": "국립현대미술관 덕수궁에서 예정된 이대원 작가의 개인전으로, 그의 작품 세계를 미리 만나볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -125,8 +125,35 @@
     {
       "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
+      "owner": "국립현대미술관 덕수궁에서 열리는 이대원 작가의 개인전으로, 그의 예술적 여정을 따라가 볼 수 있습니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "국립현대미술관 덕수궁에서 열리는 이대원 작가의 개인전으로, 그의 예술적 여정을 따라가 볼 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
+      "brand": "Ddoing Exhibition Schedule",
       "title": "임직순: 내면의 세계를 그리고 싶다",
-      "owner": "석파정미술관에서 임직순 작가의 깊이 있는 내면세계를 담은 작품들을 감상하며 특별한 시간을 가져보세요.",
+      "owner": "석파정미술관에서 열리는 임직순 작가의 개인전으로, 작가의 내면세계를 엿볼 수 있는 기회입니다.",
       "venue": "석파정미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -135,7 +162,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "석파정미술관에서 임직순 작가의 깊이 있는 내면세계를 담은 작품들을 감상하며 특별한 시간을 가져보세요.",
+      "description": "석파정미술관에서 열리는 임직순 작가의 개인전으로, 작가의 내면세계를 엿볼 수 있는 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -150,27 +177,27 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
-      "brand": "MMCA Exhibitions",
-      "title": "관람·참여",
-      "owner": "서울/수도권 전역에서 진행되는 다양한 전시와 문화 행사에 참여하여 풍성한 경험을 쌓아보세요.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "관람·참여 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/seoulInfo.do', '01A000100000000', '1');",
+      "rank": 7,
+      "brand": "ARTMAP",
+      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
+      "owner": "수원시립미술관에서 열리는 소장품전으로, '블랑 블랙 파노라마'라는 주제 아래 다채로운 작품들을 무료로 감상할 수 있습니다.",
+      "venue": "수원시립미술관",
+      "area": "경기",
+      "region": "경기",
+      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울/수도권 전역에서 진행되는 다양한 전시와 문화 행사에 참여하여 풍성한 경험을 쌓아보세요.",
+      "description": "수원시립미술관에서 열리는 소장품전으로, '블랑 블랙 파노라마'라는 주제 아래 다채로운 작품들을 무료로 감상할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
         "무료/체험"
       ],
       "category": "exhibition_culture",
-      "start": "",
-      "end": "",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
@@ -178,10 +205,10 @@
       "aiDescription": true
     },
     {
-      "rank": 7,
+      "rank": 8,
       "brand": "Ddoing Exhibition Schedule",
       "title": "장프랑수아 라리유 원화 특별전",
-      "owner": "예술의전당 한가람미술관에서 열리는 장프랑수아 라리유의 원화 특별전을 통해 그의 예술 세계에 흠뻑 빠져보세요.",
+      "owner": "예술의전당 한가람미술관에서 열리는 장프랑수아 라리유의 원화 특별전으로, 그의 독창적인 작품 세계를 만날 수 있습니다.",
       "venue": "예술의전당 한가람미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -190,7 +217,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "예술의전당 한가람미술관에서 열리는 장프랑수아 라리유의 원화 특별전을 통해 그의 예술 세계에 흠뻑 빠져보세요.",
+      "description": "예술의전당 한가람미술관에서 열리는 장프랑수아 라리유의 원화 특별전으로, 그의 독창적인 작품 세계를 만날 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -205,10 +232,10 @@
       "aiDescription": true
     },
     {
-      "rank": 8,
+      "rank": 9,
       "brand": "ARTMAP",
       "title": "국립현대미술관 서울관《올해의 작가상 2026》",
-      "owner": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시를 통해 한국 현대 미술의 현재를 조망해보세요.",
+      "owner": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대미술의 현재를 조망하는 중요한 행사입니다.",
       "venue": "국립현대미술관 서울관",
       "area": "서울",
       "region": "서울",
@@ -217,7 +244,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시를 통해 한국 현대 미술의 현재를 조망해보세요.",
+      "description": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대미술의 현재를 조망하는 중요한 행사입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -232,53 +259,26 @@
       "aiDescription": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "brand": "ARTMAP",
-      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
-      "owner": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'에서 다채로운 작품들을 만나보세요.",
-      "venue": "수원시립미술관",
-      "area": "경기",
-      "region": "경기",
-      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
-      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
+      "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
+      "owner": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시는 주목받는 작가들의 작품을 한자리에서 볼 수 있는 기회입니다.",
+      "venue": "국립현대미술관 서울관",
+      "area": "서울",
+      "region": "서울",
+      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울 국립현대미술관 서울관 서울",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'에서 다채로운 작품들을 만나보세요.",
+      "description": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시는 주목받는 작가들의 작품을 한자리에서 볼 수 있는 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
-      "start": "2026-02-12",
-      "end": "2027-03-01",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "ARTMAP",
-      "title": "ART",
-      "owner": "서울/수도권에서 펼쳐지는 다채로운 미술 전시들을 통해 예술적 영감을 얻는 시간을 가져보세요.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "ART 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/work/new_list.php",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 84,
-      "favorability": 68,
-      "description": "서울/수도권에서 펼쳐지는 다채로운 미술 전시들을 통해 예술적 영감을 얻는 시간을 가져보세요.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
+      "start": "2026-07-24",
+      "end": "2026-12-06",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
