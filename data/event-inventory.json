@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-02T14:03:54+09:00",
+  "updated_at": "2026-11-03T14:51:18+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -201,9 +201,9 @@
       "end": "2026-11-03",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1673244?theme=place&lang=ko&area=ple",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "뱅크시의 작품을 전시하는 특별전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "뱅크시의 작품을 선보이는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -273,9 +273,9 @@
       "end": "2026-11-05",
       "officialUrl": "https://naver.me/5v3Radd0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "마르셀 뒤샹의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "마르셀 뒤샹의 작품 세계를 조명하는 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -287,9 +287,9 @@
       "end": "2026-11-06",
       "officialUrl": "https://naver.me/FbOnWscG",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "신윤정 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "신윤정 작가의 '우발적 편위'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -301,9 +301,9 @@
       "end": "2026-11-07",
       "officialUrl": "https://m.booking.naver.com/booking/13/bizes/1628879/items/8107819?area=plt&fbclid=PAZXh0bgNhZW0DMTAwAHBkb2YCc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnX_lq5ujNilvDtCjTJIucgxpAqb6-4-sSedIvZdSKX4Giy287EisUxNaAZPo_aem_1cc9cnXXQ9yZ3NVMbNHawg&lang=ko&map-search=",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서울 비엔날레 2026 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "서울 비엔날레 2026의 주제인 '왜 서울인가?'를 탐구하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -316,9 +316,9 @@
       "end": "2026-11-08",
       "officialUrl": "https://naver.me/IDFU8mWp",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "이대원 작가의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "이대원 작가의 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -375,9 +375,9 @@
       "end": "2026-11-08",
       "officialUrl": "https://naver.me/xqbxacEl",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "이수지 작가의 그림책 원화를 전시하는 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "이수지 작가의 그림책 '빛나는 아이들' 원화 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -403,9 +403,9 @@
       "end": "2026-11-15",
       "officialUrl": "https://naver.me/FY3yx9qa",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "조숙진 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "조숙진 작가의 '지나가는 자리'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -432,9 +432,9 @@
       "end": "2026-11-19",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1655259",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "조은 작가의 원화를 전시하는 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "조은 작가의 원화 전시 '오늘의 정원'입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -461,9 +461,9 @@
       "end": "2026-11-21",
       "officialUrl": "https://naver.me/xv35zMK0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "에밀 우르바넥 작가의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "에밀 우르바넥의 작품 세계를 조명하는 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -475,9 +475,9 @@
       "end": "2026-11-21",
       "officialUrl": "https://naver.me/5eUjkvy5",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "이정윤 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "이정윤 작가의 '노래하는 집'을 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -503,9 +503,9 @@
       "end": "2026-11-22",
       "officialUrl": "https://naver.me/GPdQtB11",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "경계에 선 장면들을 조명하는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "기술의 저변과 경계에 선 장면들을 탐구하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -531,9 +531,9 @@
       "end": "2026-11-27",
       "officialUrl": "https://www.instagram.com/housegallery_2303?rpxt=dDJ5NnJ6cnNucG5s",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "이예림 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "이예림 작가의 '집, 또 다른 집'을 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -545,9 +545,9 @@
       "end": "2026-11-28",
       "officialUrl": "https://naver.me/x5Grv76f",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "두 조각가 최만린과 박병욱의 작품을 잇는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "두 조각가 최만린과 박병욱의 작품을 '집'이라는 주제로 잇는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -559,9 +559,9 @@
       "end": "2026-11-29",
       "officialUrl": "https://ticket.leeum.org/leeum/personal/exhibitList.do",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "리움미술관에서 진행되는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "리움미술관에서 진행되는 '다른 공간 안으로' 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -573,9 +573,9 @@
       "end": "2026-12-04",
       "officialUrl": "https://naver.me/GRo4lCOl",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "이배 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "이배 작가의 '기다리며'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -595,7 +595,7 @@
     },
     {
       "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "venue": "국립현대미술관 서울관",
+      "venue": "국립현대미술관서울관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -605,7 +605,7 @@
       "sourceName": "ARTMAP",
       "summary": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시를 개최합니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -633,9 +633,9 @@
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32417",
       "sourceName": "ARTMAP",
-      "summary": "뮤지엄산에서 이배 작가의 개인전 'En attendant: 기다리며'를 개최합니다.",
+      "summary": "이배 작가의 개인전 'En attendant: 기다리며'가 뮤지엄산에서 열립니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -648,9 +648,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보입니다.",
-      "lastSeen": "2026-11-01T14:03:49+09:00",
+      "summary": "게오르그 바젤리츠의 작품을 선보이는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -721,9 +721,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://naver.me/5z5ifJUw",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "구정아 작가의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "구정아 작가의 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -735,9 +735,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://naver.me/GQ1MsDbA",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "독특한 제목의 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "독특한 제목의 전시로, 호암미술관에서 진행됩니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -748,9 +748,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://naver.me/5KbGBiCv",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "카우스의 작품을 전시하는 특별전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "카우스의 '친구, 그리고 이웃'을 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false,
       "start": "2026-07-23",
       "end": "2026-12-27"
@@ -765,9 +765,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "스페이스K/서울에서 카우스의 '친구, 그리고 이웃' 전시를 만나볼 수 있습니다.",
-      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 단일 이벤트성이 강합니다. 날짜는 불명확하나 keep 가능합니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "카우스의 '친구, 그리고 이웃' 전시를 스페이스K/서울에서 경험할 수 있습니다.",
+      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 다른 전시 정보와 함께 제공되지만 단일 전시로 판별 가능합니다. 날짜는 불명확하나 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "title": "《사라짐을 보는 기술 The Art of Seeing Obscurity》 닻프레스 다크룸/서울",
-      "venue": "닻프레스 다크룸",
+      "venue": "닻프레스 다크룸/서울",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -810,9 +810,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "닻프레스 다크룸에서 '사라짐을 보는 기술' 전시를 경험할 수 있습니다.",
+      "summary": "'사라짐을 보는 기술' 전시를 닻프레스 다크룸에서 경험할 수 있습니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -824,9 +824,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://naver.me/GTnELf3v",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "앙리 마티스의 작품과 관련된 정원 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "앙리 마티스의 작품을 모티브로 한 정원 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -852,9 +852,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "전이수 작가의 작품을 전시하는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "전이수 작가의 '우리 함께'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -894,9 +894,9 @@
       "end": "2027-01-03",
       "officialUrl": "https://naver.me/GFB1lVe8",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "수련과 샹들리에를 주제로 한 해외 명작 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "수련과 샹들리에를 주제로 한 해외 명작 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -922,9 +922,9 @@
       "end": "2027-01-09",
       "officialUrl": "https://naver.me/GDa6Dsgm",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "시대를 반영하는 초상 작품들을 전시하는 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "시대의 초상을 담은 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -937,9 +937,9 @@
       "end": "2027-01-20",
       "officialUrl": "https://naver.me/GJTngOA1",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "500년간의 스페인 미술사를 조망하는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "스페인 미술 500년의 역사를 조망하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -952,9 +952,9 @@
       "end": "2027-02-09",
       "officialUrl": "https://naver.me/GDa2FKhZ",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "서도호 작가의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "서도호 작가의 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -981,9 +981,9 @@
       "end": "2027-02-14",
       "officialUrl": "https://naver.me/FV75VYI4",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "임직순 작가의 내면 세계를 담은 작품 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "임직순 작가의 '내면의 세계를 그리고 싶다'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -995,9 +995,9 @@
       "end": "2027-02-21",
       "officialUrl": "https://naver.me/FO9KZpn9",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "로저 발렌의 드로잉과 사진 작품을 함께 선보이는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "로저 발렌의 드로잉과 사진 작품을 함께 선보이는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1009,9 +1009,9 @@
       "end": "2027-02-26",
       "officialUrl": "https://naver.me/xVBxnSJI",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "류경채 작가의 '마음의 시'를 주제로 한 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "류경채 작가의 '마음의 시'를 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1038,9 +1038,9 @@
       "end": "2027-02-28",
       "officialUrl": "https://naver.me/GEXxGloU",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "데보라 터브빌의 작품을 전시하는 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "데보라 터브빌의 작품을 통해 분위기를 탐구하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1090,7 +1090,7 @@
     },
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관(수원시립아이파크미술관)/경기",
-      "venue": "수원시립아이파크미술관",
+      "venue": "수원시립미술관(수원시립아이파크미술관)",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -1098,9 +1098,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립아이파크미술관에서 '2026 소장품전: 블랑 블랙 파노라마'를 개최합니다.",
-      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 단일 이벤트성이 강합니다. 날짜는 불명확하나 keep 가능합니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'를 관람할 수 있습니다.",
+      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 다른 전시 정보와 함께 제공되지만 단일 전시로 판별 가능합니다. 날짜는 불명확하나 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1113,9 +1113,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://booking.naver.com/booking/5/bizes/1723507",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "조르조 모란디의 작품을 선보이는 개인전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 예정된 전시임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "조르조 모란디의 작품 세계를 조명하는 개인전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1143,9 +1143,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://naver.me/xwmqycQy",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "표기식 작가의 사진 작품을 전시하는 행사",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "표기식 작가의 사진 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1172,9 +1172,9 @@
       "end": "2027-03-07",
       "officialUrl": "https://naver.me/Fk7ZyvSd",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "에퀴 녹스의 '추분 춘분'을 주제로 한 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "에퀴 녹스의 '추분 춘분'을 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1187,9 +1187,9 @@
       "end": "2027-03-21",
       "officialUrl": "https://naver.me/GFB1lVe8",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "조지아 오키프와 미국 모더니즘 관련 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 예정된 전시임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "조지아 오키프와 미국 모더니즘을 주제로 한 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1202,9 +1202,9 @@
       "end": "2027-03-28",
       "officialUrl": "https://naver.me/G386wkWC",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "20세기 사진 거장들의 작품을 조명하는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 예정된 전시임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "20세기 사진 거장들의 작품을 통해 빛과 시간을 담은 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1217,9 +1217,9 @@
       "end": "2027-03-28",
       "officialUrl": "https://naver.me/GJZXbhVN",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "샤갈의 작품 세계를 탐구하는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 예정된 전시임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "샤갈의 작품 세계를 탐구하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1232,9 +1232,9 @@
       "end": "2027-04-18",
       "officialUrl": "https://naver.me/FQVGsQZy",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "쿤스트하우스 취리히 소장품을 통해 모던 아트를 조명하는 특별전",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 예정된 전시임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "쿤스트하우스 취리히 소장품을 통해 모던 아트의 탄생을 보여주는 특별전입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1264,7 +1264,7 @@
       "sourceName": "ARTMAP",
       "summary": "서울시립미술관 북서울관에서 '권병준: 내 마음속에 너는' 전시를 개최합니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1276,9 +1276,9 @@
       "end": "2027-05-30",
       "officialUrl": "https://naver.me/x67SWpC0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "그리스와 로마 미술의 관계를 조명하는 전시",
-      "notes": "단일 전시 정보이며, 제목이 구체적이고 종료일이 명시됨",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "고대 그리스와 로마의 예술 및 문화를 비교하는 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 기간이 명시된 단일 전시입니다. 종료일이 명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false,
       "start": "2023-06-15"
     },
@@ -1308,7 +1308,7 @@
       "sourceName": "ARTMAP",
       "summary": "국립중앙박물관에서 '그리스가 로마에게, 로마가 그리스에게' 전시를 진행합니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1328,7 +1328,7 @@
     },
     {
       "title": "과천관 40주년 프로젝트 《빛의 상상들》 국립현대미술관과천관/경기",
-      "venue": "국립현대미술관 과천관",
+      "venue": "국립현대미술관과천관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -1336,9 +1336,9 @@
       "end": "2027-10-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 과천관에서 40주년 기념 프로젝트 '빛의 상상들' 전시를 진행합니다.",
+      "summary": "국립현대미술관 과천관 40주년 기념 프로젝트 '빛의 상상들' 전시를 선보입니다.",
       "notes": "구체적인 전시 제목, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -1733,15 +1733,15 @@
     },
     {
       "title": "국내 최대 규모, 우고 론디노네 개인전 《BURN TO SHINE》",
-      "venue": "미정",
+      "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/curator/view.php?idx=549",
       "sourceName": "ARTMAP",
-      "summary": "우고 론디노네 작가의 개인전 'BURN TO SHINE' 전시입니다.",
-      "notes": "단일 전시 이벤트이며, 제목이 구체적입니다. 날짜와 장소는 불명확하나 이벤트성이 강해 KEEP합니다.",
-      "lastSeen": "2026-10-27T13:15:33+09:00",
+      "summary": "우고 론디노네 작가의 국내 최대 규모 개인전 'BURN TO SHINE'에 대한 정보입니다.",
+      "notes": "구체적인 전시 제목과 작가가 명시되어 있으며, 단일 이벤트성이 강합니다. 날짜는 불명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -2623,9 +2623,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/curator/view.php?idx=548",
       "sourceName": "ARTMAP",
-      "summary": "예화랑에서 열리는 베니스비엔날레 한국관 건립 30주년 기념 기획전 '30 Years: Passages'입니다.",
-      "notes": "단일 전시 이벤트이며, 제목이 구체적입니다. 날짜와 장소는 불명확하나 이벤트성이 강해 KEEP합니다.",
-      "lastSeen": "2026-10-27T13:15:33+09:00",
+      "summary": "예화랑에서 베니스비엔날레 한국관 건립 30주년 기념 기획전 '30 Years: Passages'를 개최합니다.",
+      "notes": "구체적인 전시 제목과 장소가 명시되어 있으며, 단일 이벤트성이 강합니다. 날짜는 불명확합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
@@ -3075,12 +3075,12 @@
       "venue": "오디움 박물관",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "category": "space_experience",
+      "category": "exhibition_culture",
       "officialUrl": "https://www.audeum.org/booking",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "소리의 여정을 경험할 수 있는 오디움 박물관 전시",
-      "notes": "단일 전시/공간 경험 정보이며, 제목이 구체적임",
-      "lastSeen": "2026-11-02T14:04:06+09:00",
+      "summary": "소리의 여정을 탐구하는 '정음' 전시입니다.",
+      "notes": "구체적인 전시명과 장소, 카테고리가 명확하며 단일 이벤트성이 강합니다. 기간은 불명확하나 keep 가능합니다.",
+      "lastSeen": "2026-11-03T14:51:28+09:00",
       "seed": false
     },
     {
