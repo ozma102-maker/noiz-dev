@@ -1,8 +1,8 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-05T14:46:37+09:00",
+  "updated_at": "2026-11-06T14:43:20+09:00",
   "published": true,
-  "active_inventory_count": 240,
+  "active_inventory_count": 237,
   "candidate_count": 81,
   "fresh_accepted_count": 47,
   "final_card_count": 9,
@@ -122,7 +122,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "일반적인 팝업 정보 모음 페이지로, 특정 단일 팝업을 지칭하지 않습니다."
+      "reason": "일반적인 팝업 목록 페이지로, 특정 단일 팝업을 지칭하지 않음."
     },
     {
       "sourceName": "Popply",
@@ -135,7 +135,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 팝업 정보가 아닌, 팝업 제보를 위한 페이지입니다."
+      "reason": "팝업 제보 페이지로, 특정 단일 팝업을 지칭하지 않음."
     },
     {
       "sourceName": "Popply",
@@ -148,7 +148,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "팝업 스토어 등록을 위한 페이지로, 실제 진행되는 팝업 정보가 아닙니다."
+      "reason": "팝업 등록 페이지로, 특정 단일 팝업을 지칭하지 않음."
     },
     {
       "sourceName": "Popply",
@@ -161,7 +161,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "팝업 스토어 관련 서비스 문의 페이지로, 실제 진행되는 팝업 정보가 아닙니다."
+      "reason": "마케팅 문의 페이지로, 특정 단일 팝업을 지칭하지 않음."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -174,7 +174,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 여러 전시의 일정을 모아놓은 페이지입니다."
+      "reason": "일반적인 전시 일정 목록 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -187,7 +187,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 여러 전시를 모아놓은 목록 페이지입니다."
+      "reason": "전시 목록 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -200,7 +200,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 미술관 전체를 소개하는 홈페이지입니다."
+      "reason": "기관의 메인 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -213,7 +213,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 미술관 이용 안내 페이지입니다."
+      "reason": "관람 및 참여 안내 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -226,7 +226,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 어린이 미술관에 대한 안내 페이지입니다."
+      "reason": "어린이 미술관 안내 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -239,7 +239,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 전시 해설 프로그램 안내 페이지입니다."
+      "reason": "전시 해설 안내 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -252,7 +252,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 현재 진행 중인 여러 전시의 목록 페이지입니다."
+      "reason": "현재 진행 중인 전시 목록 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -265,7 +265,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 예정된 여러 전시의 목록 페이지입니다."
+      "reason": "예정된 전시 목록 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -278,7 +278,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시가 아닌, 과거에 진행된 여러 전시의 목록 페이지입니다."
+      "reason": "과거 전시 목록 페이지로, 특정 단일 전시를 지칭하지 않음."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -291,7 +291,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 미술관 교육 프로그램 소개 페이지입니다."
+      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 기관의 교육 프로그램 소개 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -304,7 +304,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 디지털 미술관 메인 페이지입니다."
+      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 기관의 디지털 서비스 소개 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -317,7 +317,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 이용자 갤러리 페이지입니다."
+      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 이용자 참여형 콘텐츠 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -330,7 +330,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 미술관 소개 페이지입니다."
+      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 기관 소개 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -343,7 +343,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 재단 소개 페이지입니다."
+      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 재단 관련 정보 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -356,7 +356,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "특정 전시 제목이 아닌, 전시 목록을 보여주는 페이지입니다."
+      "reason": "특정 단일 전시가 아닌, 여러 전시를 나열하는 목록 페이지입니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -369,7 +369,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 전시 목록 페이지입니다."
+      "reason": "특정 단일 전시가 아닌, 여러 전시를 나열하는 목록 페이지입니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -382,7 +382,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 뉴스 목록 페이지입니다."
+      "reason": "전시/팝업 정보가 아닌 일반 뉴스 목록 페이지입니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -395,7 +395,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 작품 목록 페이지입니다."
+      "reason": "특정 단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 일반적인 아트 관련 목록 페이지입니다."
     },
     {
       "sourceName": "ARTMAP",
@@ -408,7 +408,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 아티스트 목록 페이지입니다."
+      "reason": "특정 단일 이벤트/전시/팝업/브랜드 공간 경험이 아닌, 아티스트 목록 페이지입니다."
     }
   ],
   "items": [
@@ -416,7 +416,7 @@
       "rank": 1,
       "brand": "ARTMAP",
       "title": "GALLERY",
-      "owner": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 후보입니다.",
+      "owner": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회입니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -425,7 +425,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 94,
       "favorability": 68,
-      "description": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 후보입니다.",
+      "description": "서울/수도권에서 진행되는 다양한 전시와 문화 경험을 탐색할 수 있는 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -442,17 +442,17 @@
     {
       "rank": 2,
       "brand": "MMCA Exhibitions",
-      "title": "미술관 소개",
-      "owner": "무료로 즐길 수 있는 서울/수도권 미술관 정보를 제공하는 후보입니다.",
+      "title": "어린이미술관",
+      "owner": "어린이를 위한 미술관 정보를 제공하며, 무료 체험 가능한 전시를 통해 아이들의 문화 경험을 넓힐 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "미술관 소개 서울/수도권 서울/수도권",
-      "sourceUrl": "https://www.mmca.go.kr/about/introduction.do",
+      "mapQuery": "어린이미술관 서울/수도권 서울/수도권",
+      "sourceUrl": "javascript:fn_menuChange('/visitingInfo/childArtMuseumInfo.do', '01A000107000000', '2');",
       "sourceLabel": "공식/정보 출처",
       "noiz": 93,
       "favorability": 72,
-      "description": "무료로 즐길 수 있는 서울/수도권 미술관 정보를 제공하는 후보입니다.",
+      "description": "어린이를 위한 미술관 정보를 제공하며, 무료 체험 가능한 전시를 통해 아이들의 문화 경험을 넓힐 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -469,63 +469,9 @@
     },
     {
       "rank": 3,
-      "brand": "Popga Magazine",
-      "title": "🎭 전시·공연·축제",
-      "owner": "서울시립미술관에서 열리는 팝업 및 브랜드 경험을 포함한 다채로운 문화 행사를 소개하는 후보입니다.",
-      "venue": "서울시립미술관",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "🎭 전시·공연·축제 서울시립미술관 서울/수도권",
-      "sourceUrl": "https://popga.co.kr/content/magazine/list?ids=485,488,499,496&title=%F0%9F%8E%AD%20%EC%A0%84%EC%8B%9C%C2%B7%EA%B3%B5%EC%97%B0%C2%B7%EC%B6%95%EC%A0%9C",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 91,
-      "favorability": 70,
-      "description": "서울시립미술관에서 열리는 팝업 및 브랜드 경험을 포함한 다채로운 문화 행사를 소개하는 후보입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "popup_brand",
-      "start": "",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 4,
-      "brand": "MMCA Exhibitions",
-      "title": "이용자갤러리",
-      "owner": "서울/수도권에서 진행되는 전시 및 문화 경험에 대한 사용자 참여형 갤러리 후보입니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "이용자갤러리 서울/수도권 서울/수도권",
-      "sourceUrl": "javascript:fn_menuChange('/digitals/digitalCuraList.do', '01F000604000000', '2');",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 89,
-      "favorability": 68,
-      "description": "서울/수도권에서 진행되는 전시 및 문화 경험에 대한 사용자 참여형 갤러리 후보입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "",
-      "evidenceCount": 6,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 5,
       "brand": "ARTMAP",
       "title": "전시등록",
-      "owner": "서울/수도권에서 진행되는 전시 정보를 등록하고 확인할 수 있는 후보입니다.",
+      "owner": "새로운 전시 정보를 등록하고 공유하며, 서울/수도권의 다채로운 문화 행사를 접할 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -534,7 +480,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 89,
       "favorability": 68,
-      "description": "서울/수도권에서 진행되는 전시 정보를 등록하고 확인할 수 있는 후보입니다.",
+      "description": "새로운 전시 정보를 등록하고 공유하며, 서울/수도권의 다채로운 문화 행사를 접할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -549,10 +495,37 @@
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "전시일정",
+      "owner": "서울/수도권에서 열리는 전시들의 일정을 확인하고 방문 계획을 세울 수 있는 유용한 정보입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "전시일정 서울/수도권 서울/수도권",
+      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 89,
+      "favorability": 68,
+      "description": "서울/수도권에서 열리는 전시들의 일정을 확인하고 방문 계획을 세울 수 있는 유용한 정보입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 2,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
       "title": "이대원 개인전 (예정)",
-      "owner": "2026년 8월 6일부터 11월 8일까지 국립현대미술관 덕수궁에서 열리는 이대원 개인전 후보입니다.",
+      "owner": "국립현대미술관 덕수궁에서 2026년 가을에 열릴 이대원 작가의 개인전은 주목할 만한 전시입니다.",
       "venue": "국립현대미술관 덕수궁",
       "area": "중구",
       "region": "중구",
@@ -561,7 +534,34 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "2026년 8월 6일부터 11월 8일까지 국립현대미술관 덕수궁에서 열리는 이대원 개인전 후보입니다.",
+      "description": "국립현대미술관 덕수궁에서 2026년 가을에 열릴 이대원 작가의 개인전은 주목할 만한 전시입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-08-06",
+      "end": "2026-11-08",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
+      "owner": "국립현대미술관 덕수궁에서 개최되는 이대원 작가의 개인전은 깊이 있는 작품 세계를 경험할 기회를 제공합니다.",
+      "venue": "국립현대미술관 덕수궁",
+      "area": "중구",
+      "region": "중구",
+      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
+      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "국립현대미술관 덕수궁에서 개최되는 이대원 작가의 개인전은 깊이 있는 작품 세계를 경험할 기회를 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -578,24 +578,24 @@
     {
       "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "이대원 개인전 (예정)국립현대미술관 덕수궁",
-      "owner": "국립현대미술관 덕수궁에서 개최 예정인 이대원 개인전 관련 정보 후보입니다.",
-      "venue": "국립현대미술관 덕수궁",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "이대원 개인전 (예정)국립현대미술관 덕수궁 국립현대미술관 덕수궁 중구",
-      "sourceUrl": "https://naver.me/IDFU8mWp",
+      "title": "임직순: 내면의 세계를 그리고 싶다",
+      "owner": "석파정미술관에서 열리는 임직순 작가의 개인전은 작가의 내면세계를 탐구하는 특별한 경험을 선사합니다.",
+      "venue": "석파정미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "임직순: 내면의 세계를 그리고 싶다 석파정미술관 서울/수도권",
+      "sourceUrl": "https://naver.me/FV75VYI4",
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관 덕수궁에서 개최 예정인 이대원 개인전 관련 정보 후보입니다.",
+      "description": "석파정미술관에서 열리는 임직순 작가의 개인전은 작가의 내면세계를 탐구하는 특별한 경험을 선사합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
-      "start": "2026-08-06",
-      "end": "2026-11-08",
+      "start": "",
+      "end": "2027-02-14",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
@@ -606,7 +606,7 @@
       "rank": 8,
       "brand": "MMCA Exhibitions",
       "title": "미술관교육소개",
-      "owner": "서울/수도권 미술관에서 제공하는 무료 교육 프로그램 및 체험 정보를 소개하는 후보입니다.",
+      "owner": "서울/수도권 미술관에서 제공하는 다양한 교육 프로그램을 소개하며, 무료 체험 기회도 찾아볼 수 있습니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -615,7 +615,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "서울/수도권 미술관에서 제공하는 무료 교육 프로그램 및 체험 정보를 소개하는 후보입니다.",
+      "description": "서울/수도권 미술관에서 제공하는 다양한 교육 프로그램을 소개하며, 무료 체험 기회도 찾아볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -634,7 +634,7 @@
       "rank": 9,
       "brand": "MMCA Exhibitions",
       "title": "본문 바로가기",
-      "owner": "국립현대미술관에서 진행되는 무료 전시 및 문화 경험에 대한 상세 정보를 제공하는 후보입니다.",
+      "owner": "국립현대미술관에서 진행되는 전시 정보를 쉽게 찾아볼 수 있으며, 무료 체험 가능한 행사도 포함됩니다.",
       "venue": "국립현대미술관",
       "area": "삼청",
       "region": "삼청",
@@ -643,7 +643,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 88,
       "favorability": 72,
-      "description": "국립현대미술관에서 진행되는 무료 전시 및 문화 경험에 대한 상세 정보를 제공하는 후보입니다.",
+      "description": "국립현대미술관에서 진행되는 전시 정보를 쉽게 찾아볼 수 있으며, 무료 체험 가능한 행사도 포함됩니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
