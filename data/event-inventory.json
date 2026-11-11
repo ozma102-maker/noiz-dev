@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-10T15:33:13+09:00",
+  "updated_at": "2026-11-11T14:19:15+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -289,7 +289,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "남서울미술관에서 열리는 조숙진 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -318,7 +318,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 이스트에서 열리는 조은 작가의 원화전입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -347,7 +347,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "디스위켄드룸에서 열리는 에밀 우르바넥 개인전입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -361,7 +361,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "김중업 건축문화의 집에서 열리는 이정윤 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -389,7 +389,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관 서소문본관에서 열리는 기술의 저변 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -417,7 +417,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "하우스갤러리2303에서 열리는 이예림 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -431,7 +431,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "최만린미술관에서 열리는 최만린, 박병욱 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -445,7 +445,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "리움미술관에서 열리는 '다른 공간 안으로' 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -459,7 +459,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "뮤지엄 산에서 열리는 이배 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -487,9 +487,9 @@
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2026년으로 명확합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시를 관람할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -509,7 +509,7 @@
     },
     {
       "title": "이배 개인전 《En attendant: 기다리며》 뮤지엄산/강원",
-      "venue": "뮤지엄산/강원",
+      "venue": "뮤지엄산",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -517,9 +517,9 @@
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32417",
       "sourceName": "ARTMAP",
-      "summary": "뮤지엄산에서 열리는 이배 개인전입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2026년으로 명확합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "뮤지엄산에서 열리는 이배 개인전 'En attendant: 기다리며'를 관람할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -534,7 +534,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "세화 미술관에서 열리는 게오르그 바젤리츠 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -607,7 +607,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "리움미술관에서 열리는 구정아 작가의 개인전입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -619,9 +619,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://naver.me/GQ1MsDbA",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "호암미술관에서 열리는 전시입니다.",
+      "summary": "호암미술관에서 열리는 '방이있고 모든 라디오가 각기 다른 주파수를 향하고 있다' 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -634,7 +634,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "스페이스K 서울에서 열리는 카우스 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false,
       "start": "2026-07-23",
       "end": "2026-12-27"
@@ -649,9 +649,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "스페이스K/서울에서 열리는 카우스 전시입니다.",
-      "notes": "단일 전시이며, 제목이 구체적입니다. 날짜 정보는 없으나, 다른 항목(i:13)에서 동일 전시의 날짜를 확인할 수 있어 keep합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "카우스의 '친구, 그리고 이웃' 전시를 스페이스K/서울에서 경험할 수 있습니다.",
+      "notes": "단일 전시이며, 제목이 구체적입니다. 날짜 정보가 누락되었으나 단일 이벤트성이 강합니다. (i=13과 중복되나, 날짜 정보 유무에 따라 별도 처리)",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "title": "《사라짐을 보는 기술 The Art of Seeing Obscurity》 닻프레스 다크룸/서울",
-      "venue": "닻프레스 다크룸/서울",
+      "venue": "닻프레스 다크룸",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -694,9 +694,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "닻프레스 다크룸에서 열리는 '사라짐을 보는 기술' 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2026년으로 명확합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "'사라짐을 보는 기술' 전시를 닻프레스 다크룸에서 경험할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -708,9 +708,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://naver.me/GTnELf3v",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립세종수목원에서 열리는 앙리 마티스 관련 전시입니다.",
+      "summary": "국립세종수목원에서 열리는 앙리 마티스 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -736,9 +736,9 @@
       "end": "2026-12-31",
       "officialUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "제주 전이수 갤러리에서 열리는 전이수 작가의 전시입니다.",
+      "summary": "전이수 갤러리에서 열리는 전이수 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -780,7 +780,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 과천에서 열리는 해외명작 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -808,7 +808,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "글로벌세아 아트스페이스에서 열리는 '시대의 초상' 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -823,7 +823,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "한가람디자인미술관에서 열리는 스페인 미술 500년 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -838,7 +838,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관에서 열리는 서도호 작가의 개인전입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -867,7 +867,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "석파정미술관에서 열리는 임직순 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -881,7 +881,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "뮤지엄한미 삼청 본관에서 열리는 로저 발렌 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -895,7 +895,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울시립미술관 서소문 본관에서 열리는 린 허쉬만 리슨 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -909,7 +909,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "카이스트 미술관에서 열리는 류경채 작가의 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -938,7 +938,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "피크닉에서 열리는 데보라 터브빌 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -996,9 +996,9 @@
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립아이파크미술관에서 열리는 2026 소장품전입니다.",
-      "notes": "단일 전시이며, 제목이 구체적입니다. 날짜 정보는 없으나, 다른 항목(i:14)에서 동일 전시의 날짜를 확인할 수 있어 keep합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "수원시립아이파크미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'를 관람할 수 있습니다.",
+      "notes": "단일 전시이며, 제목이 구체적입니다. 날짜 정보가 누락되었으나 단일 이벤트성이 강합니다. (i=14와 중복되나, 날짜 정보 유무에 따라 별도 처리)",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1013,7 +1013,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "더현대 서울에서 열리는 조르조 모란디 개인전입니다.",
       "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1043,7 +1043,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "그라운드시소 센트럴에서 열리는 표기식 사진전입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1072,7 +1072,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "서울공예박물관에서 열리는 에퀴 녹스 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1087,7 +1087,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립현대미술관 과천에서 열리는 조지아 오키프와 미국 모더니즘 전시입니다.",
       "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1102,7 +1102,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "아트조선스페이스에서 열리는 20세기 사진 거장전입니다.",
       "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1117,7 +1117,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "퐁피두센터 한화에서 열리는 샤갈 전시입니다.",
       "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1132,7 +1132,7 @@
       "sourceName": "Ddoing Exhibition Schedule",
       "summary": "국립중앙박물관에서 열리는 모던 아트의 탄생 특별전입니다.",
       "notes": "구체적인 전시명, 장소, 날짜가 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1160,9 +1160,9 @@
       "end": "2027-05-16",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32398",
       "sourceName": "ARTMAP",
-      "summary": "서울시립미술관 북서울관에서 열리는 권병준 작가 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2026년으로 명확합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "서울시립미술관 북서울관에서 '권병준: 내 마음속에 너는' 전시를 경험할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1174,9 +1174,9 @@
       "end": "2027-05-30",
       "officialUrl": "https://naver.me/x67SWpC0",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "국립중앙박물관에서 열리는 그리스와 로마 관련 전시입니다.",
+      "summary": "국립중앙박물관에서 열리는 '그리스가 로마에게, 로마가 그리스에게' 전시입니다.",
       "notes": "구체적인 전시명, 장소, 종료일이 명시된 단일 전시입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false,
       "start": "2023-06-15"
     },
@@ -1196,7 +1196,7 @@
     },
     {
       "title": "그리스가 로마에게, 로마가 그리스에게 국립중앙박물관/서울",
-      "venue": "국립중앙박물관/서울",
+      "venue": "국립중앙박물관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -1204,9 +1204,9 @@
       "end": "2027-05-30",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=28215",
       "sourceName": "ARTMAP",
-      "summary": "국립중앙박물관에서 열리는 '그리스가 로마에게, 로마가 그리스에게' 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2023년부터 시작하여 2027년까지 진행됩니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "국립중앙박물관에서 '그리스가 로마에게, 로마가 그리스에게' 전시를 관람할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -1234,9 +1234,9 @@
       "end": "2027-10-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 과천관에서 열리는 40주년 기념 프로젝트 전시입니다.",
-      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 2026년으로 명확합니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "국립현대미술관 과천관 40주년 기념 프로젝트 '빛의 상상들' 전시를 경험할 수 있습니다.",
+      "notes": "단일 전시이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜가 미래이나, 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
@@ -3012,12 +3012,12 @@
       "venue": "오디움 박물관",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "category": "space_experience",
+      "category": "exhibition_culture",
       "officialUrl": "https://www.audeum.org/booking",
       "sourceName": "Ddoing Exhibition Schedule",
-      "summary": "오디움 박물관에서 열리는 정음: 소리의 여정 전시입니다.",
-      "notes": "구체적인 전시명, 장소, 카테고리가 명확한 단일 전시/체험 공간입니다.",
-      "lastSeen": "2026-11-10T15:33:24+09:00",
+      "summary": "오디움 박물관에서 열리는 '정음: 소리의 여정' 전시입니다.",
+      "notes": "구체적인 전시명, 장소, 종료일은 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-11T14:19:24+09:00",
       "seed": false
     },
     {
