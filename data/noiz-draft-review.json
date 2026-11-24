@@ -1,11 +1,11 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-23T15:31:30+09:00",
+  "updated_at": "2026-11-24T18:00:19+09:00",
   "published": true,
-  "active_inventory_count": 255,
-  "candidate_count": 85,
-  "fresh_accepted_count": 46,
-  "final_card_count": 10,
+  "active_inventory_count": 258,
+  "candidate_count": 86,
+  "fresh_accepted_count": 48,
+  "final_card_count": 9,
   "seed_fallback_available": true,
   "warnings": [],
   "rejected_examples": [
@@ -36,6 +36,18 @@
     {
       "title": "대학로 연극 추천 | 오전·주말 낮·퇴근 후 시간대별 여덟 작품 전시·공연·축제 2026.10.07",
       "url": "https://popga.co.kr/content/magazine/451",
+      "sourceName": "Popga Magazine",
+      "reason": "aggregate/listing/review-like title"
+    },
+    {
+      "title": "🚨 팝가픽! 놓치면 후회해요",
+      "url": "https://popga.co.kr/content/magazine/list?ids=605,604,603,601&title=%F0%9F%9A%A8%20%ED%8C%9D%EA%B0%80%ED%94%BD!%20%EB%86%93%EC%B9%98%EB%A9%B4%20%ED%9B%84%ED%9A%8C%ED%95%B4%EC%9A%94",
+      "sourceName": "Popga Magazine",
+      "reason": "aggregate/listing/review-like title"
+    },
+    {
+      "title": "매거진 보러가기",
+      "url": "https://popga.co.kr/content/magazine/603",
       "sourceName": "Popga Magazine",
       "reason": "aggregate/listing/review-like title"
     },
@@ -152,7 +164,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당합니다."
+      "reason": "총괄적인 행사 정보 페이지로, 단일 팝업/전시/브랜드 공간 경험이 아닙니다."
     },
     {
       "sourceName": "Popga Magazine",
@@ -165,7 +177,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당합니다."
+      "reason": "콘서트 일정 모음으로, 단일 팝업/전시/브랜드 공간 경험이 아닙니다."
     },
     {
       "sourceName": "Popga Magazine",
@@ -178,7 +190,7 @@
       "end": "",
       "venue": "성수",
       "area": "성수",
-      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당합니다."
+      "reason": "여러 장소를 모아놓은 리스트 형식의 콘텐츠입니다."
     },
     {
       "sourceName": "Popga Magazine",
@@ -191,20 +203,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "총정리, 추천, 놀거리, 모음, 리스트, 후기 글, 뉴스 기사 제목, 검색 결과 제목에 해당합니다."
-    },
-    {
-      "sourceName": "Popga Magazine",
-      "sourceType": "popup",
-      "title": "🚨 팝가픽! 놓치면 후회해요",
-      "text": "🚨 팝가픽! 놓치면 후회해요 🚨 팝가픽! 놓치면 후회해요 니케 X 무신사 성수 팝업 11/6 오픈｜카카오 예약·신분증 규칙·특전·MD 가격 정리 11월 6~19일 무신사 스토어 성수에서 열리는 승리의 여신: 니케 팝업. 30분 단위 예약제, 만 15세 이상 입장, 신분증 규칙, 입장·구매 특전과 MD 가격을 공식 안내로 정리했어요. 매거진 보러가기 카드캡터 사쿠라 콜라보 카페, 일본 티파티 굿즈를 서울숲에서 11월 4일 팝가 단독 사전예약 오픈! 레플리카 티켓, 캐릭터 음료 6종, 일본 티파티 굿즈를 미리 만나 보세요. 매거진 보러가기 11월 서울 콜라보 카페 2026 | 산나비·카드캡터 사쿠라·주술회전·명일방주 애니 콜라보 카페 예약·메뉴·특전 11월 서울 애니 콜라보 카페 2026. 합정 산나비 3주년 카페와 서울숲 카드캡터 사쿠라 티파티부터 주술회전·명일방주·프로세카까지, 예약 방법과 메뉴·특전을 살펴보세요. 매거진 보러가기",
-      "url": "https://popga.co.kr/content/magazine/list?ids=524,504,509&title=%F0%9F%9A%A8%20%ED%8C%9D%EA%B0%80%ED%94%BD!%20%EB%86%93%EC%B9%98%EB%A9%B4%20%ED%9B%84%ED%9A%8C%ED%95%B4%EC%9A%94",
-      "weight": 25,
-      "start": "2026-11-06",
-      "end": "",
-      "venue": "성수",
-      "area": "성수",
-      "reason": "여러 팝업을 모아놓은 페이지입니다."
+      "reason": "여러 지역의 행사를 포함하는 총괄적인 정보 페이지입니다."
     },
     {
       "sourceName": "Popply",
@@ -217,7 +216,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "여러 팝업을 모아놓은 페이지로, 단일 이벤트가 아닙니다."
     },
     {
       "sourceName": "Popply",
@@ -230,7 +229,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "팝업 정보 제공 페이지가 아닌 제보 페이지입니다."
     },
     {
       "sourceName": "Popply",
@@ -243,7 +242,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "팝업 정보 제공 페이지가 아닌 등록 페이지입니다."
     },
     {
       "sourceName": "Popply",
@@ -256,7 +255,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "팝업 정보 제공 페이지가 아닌 서비스 문의 페이지입니다."
     },
     {
       "sourceName": "Ddoing Exhibition Schedule",
@@ -269,7 +268,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "총괄적인 전시 정보 페이지로, 단일 이벤트가 아닙니다."
     },
     {
       "sourceName": "GroundSeesaw",
@@ -282,7 +281,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "특정 전시가 아닌, 여러 전시를 나열하는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -295,7 +294,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "특정 전시가 아닌, 기관의 메인 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -308,7 +307,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "특정 전시가 아닌, 전반적인 안내 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -321,7 +320,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+      "reason": "구체적인 단일 이벤트명이 아니며, 정보 제공 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -334,7 +333,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트명이 아니며, 프로그램 안내 페이지입니다."
+      "reason": "구체적인 단일 이벤트명이 아니며, 정보 제공 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -361,90 +360,23 @@
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "reason": "구체적인 단일 이벤트명이 아니며, 전시 목록 페이지입니다."
-    },
-    {
-      "sourceName": "MMCA Exhibitions",
-      "sourceType": "exhibition",
-      "title": "과거전시",
-      "text": "과거전시 과거전시",
-      "url": "javascript:fn_menuChange('/exhibitions/pastProgressList.do', '01B000203000000', '2');",
-      "weight": 18,
-      "start": "",
-      "end": "",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트명이 아니며, 전시 목록 페이지입니다."
     }
   ],
   "items": [
     {
       "rank": 1,
-      "brand": "Popga Magazine",
-      "title": "니케 X 무신사 성수 팝업",
-      "owner": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어는 예약, 입장 규칙, 특전, MD 가격 정보까지 상세하게 제공하며 팬들의 뜨거운 관심을 받고 있습니다.",
-      "venue": "성수",
-      "area": "성수",
-      "region": "성수",
-      "mapQuery": "니케 X 무신사 성수 팝업 성수 성수",
-      "sourceUrl": "https://popga.co.kr/content/magazine/524",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 99,
-      "favorability": 72,
-      "description": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어는 예약, 입장 규칙, 특전, MD 가격 정보까지 상세하게 제공하며 팬들의 뜨거운 관심을 받고 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "popup_brand",
-      "start": "2026-11-06",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 4,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 2,
-      "brand": "Popga Magazine",
-      "title": "매거진 보러가기",
-      "owner": "성수에서 진행되는 팝업/브랜드 경험으로, 매거진을 통해 관련 정보를 얻을 수 있습니다.",
-      "venue": "성수",
-      "area": "성수",
-      "region": "성수",
-      "mapQuery": "매거진 보러가기 성수 성수",
-      "sourceUrl": "https://popga.co.kr/content/magazine/524",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 96,
-      "favorability": 70,
-      "description": "성수에서 진행되는 팝업/브랜드 경험으로, 매거진을 통해 관련 정보를 얻을 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "popup_brand",
-      "start": "2026-11-06",
-      "end": "",
-      "evidenceCount": 9,
-      "reactionCount": 2,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 3,
       "brand": "ARTMAP",
       "title": "전시등록",
-      "owner": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 등록하고 참여할 수 있는 기회입니다.",
+      "owner": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 탐색할 수 있는 기회입니다.",
       "venue": "서울/수도권",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "mapQuery": "전시등록 서울/수도권 서울/수도권",
       "sourceUrl": "https://art-map.co.kr/write.php",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 94,
-      "favorability": 68,
-      "description": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 등록하고 참여할 수 있는 기회입니다.",
+      "noiz": 96,
+      "favorability": 70,
+      "description": "서울/수도권에서 진행되는 다양한 전시 및 문화 경험을 탐색할 수 있는 기회입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -459,25 +391,25 @@
       "aiDescription": true
     },
     {
-      "rank": 4,
-      "brand": "Popply",
-      "title": "팝업 등록하기",
-      "owner": "서울/수도권에서 열리는 팝업 스토어 및 브랜드 경험에 참여하기 위한 등록 정보입니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "팝업 등록하기 서울/수도권 서울/수도권",
-      "sourceUrl": "https://partner.popply.co.kr/biz/popups/register/",
+      "rank": 2,
+      "brand": "Popga Magazine",
+      "title": "매거진 보러가기",
+      "owner": "성수에서 열리는 매거진 관련 팝업 스토어에서 특별한 경험을 할 수 있습니다.",
+      "venue": "성수",
+      "area": "성수",
+      "region": "성수",
+      "mapQuery": "매거진 보러가기 성수 성수",
+      "sourceUrl": "https://popga.co.kr/content/magazine/524",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 93,
+      "noiz": 91,
       "favorability": 70,
-      "description": "서울/수도권에서 열리는 팝업 스토어 및 브랜드 경험에 참여하기 위한 등록 정보입니다.",
+      "description": "성수에서 열리는 매거진 관련 팝업 스토어에서 특별한 경험을 할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "popup_brand",
-      "start": "",
+      "start": "2026-11-06",
       "end": "",
       "evidenceCount": 9,
       "reactionCount": 1,
@@ -486,38 +418,38 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
-      "brand": "ARTMAP",
-      "title": "GALLERY",
-      "owner": "서울/수도권에서 무료로 체험할 수 있는 전시 및 문화 경험을 제공하는 갤러리입니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "GALLERY 서울/수도권 서울/수도권",
-      "sourceUrl": "https://art-map.co.kr/gallery/new_list.php",
+      "rank": 3,
+      "brand": "Ddoing Exhibition Schedule",
+      "title": "게오르그 바젤리츠 세화 미술관",
+      "owner": "세화 미술관에서 게오르그 바젤리츠의 작품 세계를 직접 경험할 수 있는 전시입니다.",
+      "venue": "세화 미술관",
+      "area": "종로",
+      "region": "종로",
+      "mapQuery": "게오르그 바젤리츠 세화 미술관 세화 미술관 종로",
+      "sourceUrl": "https://booking.naver.com/booking/12/bizes/1701536/items/7880074?n_ad=nad-a001-04-000000557642363&n_ad_group=grp-a001-04-000000069785085&n_ad_group_type=5&n_campaign_type=4&n_contract=tct-a001-04-000000001319730&n_keyword=%EA%B2%8C%EC%98%A4%EB%A5%B4%EA%B7",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 91,
-      "favorability": 70,
-      "description": "서울/수도권에서 무료로 체험할 수 있는 전시 및 문화 경험을 제공하는 갤러리입니다.",
+      "noiz": 90,
+      "favorability": 74,
+      "description": "세화 미술관에서 게오르그 바젤리츠의 작품 세계를 직접 경험할 수 있는 전시입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
         "무료/체험"
       ],
       "category": "exhibition_culture",
-      "start": "",
-      "end": "",
+      "start": "2026-08-13",
+      "end": "2026-12-27",
       "evidenceCount": 9,
-      "reactionCount": 2,
+      "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
     },
     {
-      "rank": 6,
+      "rank": 4,
       "brand": "Ddoing Exhibition Schedule",
       "title": "조르조 모란디 개인전 (예정)",
-      "owner": "더현대 서울에서 개최 예정인 조르조 모란디 개인전은 그의 작품 세계를 깊이 있게 조명할 예정입니다.",
+      "owner": "더현대 서울에서 열리는 조르조 모란디 개인전에서 그의 작품을 만나볼 수 있습니다.",
       "venue": "더현대 서울",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -526,7 +458,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 90,
       "favorability": 72,
-      "description": "더현대 서울에서 개최 예정인 조르조 모란디 개인전은 그의 작품 세계를 깊이 있게 조명할 예정입니다.",
+      "description": "더현대 서울에서 열리는 조르조 모란디 개인전에서 그의 작품을 만나볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -541,28 +473,84 @@
       "aiDescription": true
     },
     {
-      "rank": 7,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "전시일정",
-      "owner": "서울/수도권에서 진행되는 다양한 전시의 일정 정보를 확인할 수 있습니다.",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "전시일정 서울/수도권 서울/수도권",
-      "sourceUrl": "https://ddoing.co.kr/ddoing_exhibition_schedule",
+      "rank": 5,
+      "brand": "ARTMAP",
+      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
+      "owner": "수원시립미술관에서 열리는 소장품 특별전 '블랑 블랙 파노라마'를 무료로 관람할 수 있습니다.",
+      "venue": "수원시립미술관",
+      "area": "경기",
+      "region": "경기",
+      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 89,
-      "favorability": 68,
-      "description": "서울/수도권에서 진행되는 다양한 전시의 일정 정보를 확인할 수 있습니다.",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "수원시립미술관에서 열리는 소장품 특별전 '블랑 블랙 파노라마'를 무료로 관람할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
-        "후기/뉴스 반응"
+        "후기/뉴스 반응",
+        "무료/체험"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 6,
+      "brand": "Popga Magazine",
+      "title": "린 허쉬만 리슨 전시 서울시립미술관",
+      "owner": "서울시립미술관에서 린 허쉬만 리슨의 전시를 무료로 관람하며 작품 해설과 도슨트 프로그램을 즐길 수 있습니다.",
+      "venue": "서울시립미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "린 허쉬만 리슨 전시 서울시립미술관 서울시립미술관 서울/수도권",
+      "sourceUrl": "https://popga.co.kr/content/magazine/496",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "서울시립미술관에서 린 허쉬만 리슨의 전시를 무료로 관람하며 작품 해설과 도슨트 프로그램을 즐길 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험"
       ],
       "category": "exhibition_culture",
       "start": "",
       "end": "",
       "evidenceCount": 9,
-      "reactionCount": 2,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 7,
+      "brand": "Popga Magazine",
+      "title": "성수 K-브랜드 글로우위크 팝업",
+      "owner": "성수에서 열리는 K-브랜드 글로우위크 팝업 스토어에서 다채로운 브랜드 경험을 할 수 있습니다.",
+      "venue": "성수",
+      "area": "성수",
+      "region": "성수",
+      "mapQuery": "성수 K-브랜드 글로우위크 팝업 성수 성수",
+      "sourceUrl": "https://popga.co.kr/content/magazine/604",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "성수에서 열리는 K-브랜드 글로우위크 팝업 스토어에서 다채로운 브랜드 경험을 할 수 있습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "공간 경험"
+      ],
+      "category": "popup_brand",
+      "start": "",
+      "end": "2026-11-29",
+      "evidenceCount": 9,
+      "reactionCount": 0,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
@@ -571,7 +559,7 @@
       "rank": 8,
       "brand": "ARTMAP",
       "title": "국립현대미술관 서울관《올해의 작가상 2026》",
-      "owner": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여줍니다.",
+      "owner": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시를 통해 주목받는 작가들의 작품을 감상할 수 있습니다.",
       "venue": "국립현대미술관서울관/서울",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -580,7 +568,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여줍니다.",
+      "description": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시를 통해 주목받는 작가들의 작품을 감상할 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -598,7 +586,7 @@
       "rank": 9,
       "brand": "ARTMAP",
       "title": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울",
-      "owner": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시에 대한 정보입니다.",
+      "owner": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시를 통해 현대 미술의 흐름을 엿볼 수 있습니다.",
       "venue": "국립현대미술관 서울관",
       "area": "서울/수도권",
       "region": "서울/수도권",
@@ -607,7 +595,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시에 대한 정보입니다.",
+      "description": "국립현대미술관 서울관에서 개최되는 '올해의 작가상 2026' 전시를 통해 현대 미술의 흐름을 엿볼 수 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -615,33 +603,6 @@
       "category": "exhibition_culture",
       "start": "2026-07-24",
       "end": "2026-12-06",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 10,
-      "brand": "ARTMAP",
-      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
-      "owner": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'는 다채로운 작품들을 선보입니다.",
-      "venue": "수원시립미술관",
-      "area": "경기",
-      "region": "경기",
-      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
-      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 86,
-      "favorability": 70,
-      "description": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'는 다채로운 작품들을 선보입니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-02-12",
-      "end": "2027-03-01",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
