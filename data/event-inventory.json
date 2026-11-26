@@ -1,6 +1,6 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-25T16:39:13+09:00",
+  "updated_at": "2026-11-26T16:28:42+09:00",
   "mode": "inventory",
   "items": [
     {
@@ -141,8 +141,8 @@
       "officialUrl": "https://popga.co.kr/content/magazine/605",
       "sourceName": "Popga Magazine",
       "summary": "용산 아이파크몰에서 열리는 4m 고래 월터 전시 정보를 제공합니다.",
-      "notes": "종료일이 명시되어 있으나, 단일 이벤트성이 강하고 구체적인 전시 정보를 포함합니다.",
-      "lastSeen": "2026-11-25T16:39:22+09:00",
+      "notes": "종료일이 명시되어 있으며, 단일 전시회 정보입니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -266,9 +266,9 @@
       "end": "2026-11-29",
       "officialUrl": "https://popga.co.kr/content/magazine/604",
       "sourceName": "Popga Magazine",
-      "summary": "성수에서 열리는 2026 K-브랜드 글로우위크 팝업 정보를 제공합니다.",
-      "notes": "종료일이 명시되어 있으나, 단일 이벤트성이 강하고 구체적인 팝업 정보를 포함합니다.",
-      "lastSeen": "2026-11-25T16:39:22+09:00",
+      "summary": "성수에서 열리는 K-브랜드 글로우위크 팝업 정보를 제공합니다.",
+      "notes": "종료일이 명시되어 있으며, 단일 팝업 정보입니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -295,8 +295,8 @@
       "officialUrl": "https://popga.co.kr/content/magazine/601",
       "sourceName": "Popga Magazine",
       "summary": "성수 스퀘어포탈에서 열리는 SNOW with MINITEEN 팝업 정보를 제공합니다.",
-      "notes": "종료일이 명시되어 있으나, 단일 이벤트성이 강하고 구체적인 팝업 정보를 포함합니다.",
-      "lastSeen": "2026-11-25T16:39:22+09:00",
+      "notes": "종료일이 명시되어 있으며, 단일 팝업 정보입니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "title": "국립현대미술관 서울관《올해의 작가상 2026》",
-      "venue": "국립현대미술관서울관/서울",
+      "venue": "국립현대미술관 서울관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "category": "exhibition_culture",
@@ -365,9 +365,9 @@
       "end": "2026-12-06",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceName": "ARTMAP",
-      "summary": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시를 개최합니다.",
-      "notes": "단일 전시 이벤트이며, 공식 정보 페이지입니다.",
-      "lastSeen": "2026-11-24T18:00:26+09:00",
+      "summary": "국립현대미술관 서울관에서 열리는 '올해의 작가상 2026' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -398,6 +398,21 @@
       "summary": "뮤지엄산에서 이배 작가의 개인전 'En attendant: 기다리며'를 개최합니다.",
       "notes": "단일 전시 이벤트이며, 공식 정보 페이지입니다.",
       "lastSeen": "2026-11-24T18:00:26+09:00",
+      "seed": false
+    },
+    {
+      "title": "이배 개인전 《En attendant: 기다리며》 뮤지엄산",
+      "venue": "뮤지엄산",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2026-04-07",
+      "end": "2026-12-06",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32417",
+      "sourceName": "ARTMAP",
+      "summary": "뮤지엄산에서 열리는 이배 개인전 'En attendant: 기다리며' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -654,9 +669,9 @@
       "end": "2026-12-27",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32415",
       "sourceName": "ARTMAP",
-      "summary": "카우스의 '친구, 그리고 이웃' 전시를 스페이스K/서울에서 만나볼 수 있습니다.",
-      "notes": "Specific exhibition with clear title and venue. Dates are missing but the event is clearly defined.",
-      "lastSeen": "2026-11-25T16:39:22+09:00",
+      "summary": "스페이스K/서울에서 열리는 카우스 개인전 '친구, 그리고 이웃' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목과 장소가 명시되어 있습니다. 날짜 정보는 원본에 없으나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -677,16 +692,16 @@
     {
       "title": "《사라짐을 보는 기술 The Art of Seeing Obscurity》 닻프레스 다크룸",
       "venue": "닻프레스 다크룸",
-      "area": "서울",
-      "region": "서울",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
       "category": "exhibition_culture",
       "start": "2026-07-31",
       "end": "2026-12-31",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32412",
       "sourceName": "ARTMAP",
-      "summary": "닻프레스 다크룸에서 열리는 '사라짐을 보는 기술' 전시입니다.",
-      "notes": "단일 전시이며, 제목과 장소, 날짜가 명확합니다.",
-      "lastSeen": "2026-08-26T10:27:01+09:00",
+      "summary": "닻프레스 다크룸에서 열리는 '사라짐을 보는 기술' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -1203,16 +1218,16 @@
     {
       "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
       "venue": "수원시립미술관",
-      "area": "경기",
-      "region": "경기",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
       "category": "exhibition_culture",
       "start": "2026-02-12",
       "end": "2027-03-01",
       "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
       "sourceName": "ARTMAP",
-      "summary": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마'입니다.",
-      "notes": "단일 전시이며, 제목과 날짜, 장소가 구체적입니다. (중복이지만 정보가 명확하여 keep)",
-      "lastSeen": "2026-09-13T12:55:26+09:00",
+      "summary": "수원시립미술관에서 열리는 2026 소장품전 '블랑 블랙 파노라마' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목과 장소가 명시되어 있습니다. 날짜 정보는 원본에 없으나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -1523,6 +1538,21 @@
       "seed": false
     },
     {
+      "title": "《권병준: 내 마음속에 너는》 서울시립미술관 북서울관",
+      "venue": "서울시립미술관 북서울관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2026-06-11",
+      "end": "2027-05-16",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32398",
+      "sourceName": "ARTMAP",
+      "summary": "서울시립미술관 북서울관에서 열리는 '권병준: 내 마음속에 너는' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
+      "seed": false
+    },
+    {
       "title": "《권병준: 내 마음속에 너는》 서울시립미술관 북서울관/서울",
       "venue": "서울시립미술관 북서울관/서울",
       "area": "서울/수도권",
@@ -1581,6 +1611,21 @@
       "seed": false
     },
     {
+      "title": "그리스가 로마에게, 로마가 그리스에게 국립중앙박물관",
+      "venue": "국립중앙박물관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2023-06-15",
+      "end": "2027-05-30",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=28215",
+      "sourceName": "ARTMAP",
+      "summary": "국립중앙박물관에서 열리는 '그리스가 로마에게, 로마가 그리스에게' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
+      "seed": false
+    },
+    {
       "title": "그리스가 로마에게, 로마가 그리스에게 국립중앙박물관/서울",
       "venue": "국립중앙박물관/서울",
       "area": "서울/수도권",
@@ -1608,6 +1653,21 @@
       "summary": "국립현대미술관 과천관에서 40주년 기념 프로젝트 '빛의 상상들'을 개최합니다.",
       "notes": "단일 전시 이벤트이며, 공식 정보 페이지입니다.",
       "lastSeen": "2026-11-24T18:00:26+09:00",
+      "seed": false
+    },
+    {
+      "title": "과천관 40주년 프로젝트 《빛의 상상들》 국립현대미술관과천관",
+      "venue": "국립현대미술관과천관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "category": "exhibition_culture",
+      "start": "2026-07-10",
+      "end": "2027-10-31",
+      "officialUrl": "https://art-map.co.kr/exhibition/view.php?idx=32414",
+      "sourceName": "ARTMAP",
+      "summary": "국립현대미술관 과천관에서 열리는 40주년 프로젝트 '빛의 상상들' 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목, 장소, 날짜가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -2362,9 +2422,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://popga.co.kr/content/magazine/496",
       "sourceName": "Popga Magazine",
-      "summary": "서울시립미술관에서 열리는 린 허쉬만 리슨의 전시로, 작품 해설, 도슨트, 운영 시간, 무료 관람 정보를 제공합니다.",
-      "notes": "단일 전시회 정보 페이지입니다.",
-      "lastSeen": "2026-11-23T15:31:37+09:00",
+      "summary": "서울시립미술관에서 열리는 린 허쉬만 리슨 전시 정보를 제공합니다.",
+      "notes": "구체적인 전시회 제목과 장소가 명시되어 있습니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {
@@ -3065,9 +3125,9 @@
       "category": "exhibition_culture",
       "officialUrl": "https://art-map.co.kr/curator/view.php?idx=548",
       "sourceName": "ARTMAP",
-      "summary": "예화랑에서 열리는 베니스비엔날레 한국관 건립 30주년 기념 기획전 '30 Years: Passages'입니다.",
-      "notes": "단일 전시이며, 제목이 구체적임. 날짜는 불명확하나 단일 이벤트성이 강함.",
-      "lastSeen": "2026-11-22T14:46:20+09:00",
+      "summary": "베니스비엔날레 한국관 건립 30주년을 기념하는 기획 전시입니다.",
+      "notes": "단일 전시회이며, 공식 페이지로 보이고 제목이 구체적입니다. 날짜는 불명확하나 단일 이벤트성이 강합니다.",
+      "lastSeen": "2026-11-26T16:28:51+09:00",
       "seed": false
     },
     {

@@ -1,10 +1,10 @@
 {
   "site": "NOIZ",
-  "updated_at": "2026-11-25T16:39:13+09:00",
+  "updated_at": "2026-11-26T16:28:42+09:00",
   "published": true,
-  "active_inventory_count": 291,
-  "candidate_count": 87,
-  "fresh_accepted_count": 49,
+  "active_inventory_count": 295,
+  "candidate_count": 51,
+  "fresh_accepted_count": 15,
   "final_card_count": 10,
   "seed_fallback_available": true,
   "warnings": [],
@@ -258,19 +258,6 @@
       "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
-      "sourceName": "Ddoing Exhibition Schedule",
-      "sourceType": "exhibition",
-      "title": "전시일정",
-      "text": "전시일정 전시일정",
-      "url": "https://ddoing.co.kr/ddoing_exhibition_schedule",
-      "weight": 20,
-      "start": "",
-      "end": "",
-      "venue": "서울/수도권",
-      "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
-    },
-    {
       "sourceName": "GroundSeesaw",
       "sourceType": "exhibition",
       "title": "Exhibitions",
@@ -294,7 +281,7 @@
       "end": "",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
-      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다. 미술관 자체 정보 페이지입니다."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -307,7 +294,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general category for visiting information, not a specific event."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -320,7 +307,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general category for the children's museum, not a specific exhibition."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -333,7 +320,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This refers to exhibition commentary services, not a specific exhibition."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -346,7 +333,7 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general category for current exhibitions, not a specific event."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     },
     {
       "sourceName": "MMCA Exhibitions",
@@ -359,7 +346,20 @@
       "end": "",
       "venue": "서울/수도권",
       "area": "서울/수도권",
-      "reason": "This is a general category for upcoming exhibitions, not a specific event."
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
+    },
+    {
+      "sourceName": "MMCA Exhibitions",
+      "sourceType": "exhibition",
+      "title": "과거전시",
+      "text": "과거전시 과거전시",
+      "url": "javascript:fn_menuChange('/exhibitions/pastProgressList.do', '01B000203000000', '2');",
+      "weight": 18,
+      "start": "",
+      "end": "",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "reason": "구체적인 단일 이벤트 이름이 없는 페이지입니다."
     }
   ],
   "items": [
@@ -367,7 +367,7 @@
       "rank": 1,
       "brand": "Popga Magazine",
       "title": "니케 X 무신사 성수 팝업",
-      "owner": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어에서 예약, 입장 규칙, 특전, MD 가격 정보를 확인할 수 있습니다.",
+      "owner": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어는 예약, 입장 규칙, 특전, MD 가격 정보까지 상세하게 제공하며 현장 경험을 중심으로 안내합니다.",
       "venue": "성수",
       "area": "성수",
       "region": "성수",
@@ -376,7 +376,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 99,
       "favorability": 72,
-      "description": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어에서 예약, 입장 규칙, 특전, MD 가격 정보를 확인할 수 있습니다.",
+      "description": "무신사 스토어 성수에서 열리는 '승리의 여신: 니케' 팝업 스토어는 예약, 입장 규칙, 특전, MD 가격 정보까지 상세하게 제공하며 현장 경험을 중심으로 안내합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -394,7 +394,7 @@
       "rank": 2,
       "brand": "Ddoing Exhibition Schedule",
       "title": "게오르그 바젤리츠 세화 미술관",
-      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠 전시로, 무료로 관람 가능하며 12월 27일까지 진행됩니다.",
+      "owner": "세화 미술관에서 열리는 게오르그 바젤리츠의 서울 전시는 8월 13일부터 12월 27일까지 진행되며, 무료 관람이 가능하여 많은 관람객의 기대를 모으고 있습니다.",
       "venue": "세화 미술관",
       "area": "종로",
       "region": "종로",
@@ -403,7 +403,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 90,
       "favorability": 74,
-      "description": "세화 미술관에서 열리는 게오르그 바젤리츠 전시로, 무료로 관람 가능하며 12월 27일까지 진행됩니다.",
+      "description": "세화 미술관에서 열리는 게오르그 바젤리츠의 서울 전시는 8월 13일부터 12월 27일까지 진행되며, 무료 관람이 가능하여 많은 관람객의 기대를 모으고 있습니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응",
@@ -422,16 +422,16 @@
       "rank": 3,
       "brand": "ARTMAP",
       "title": "국립현대미술관 서울관《올해의 작가상 2026》",
-      "owner": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시가 12월 6일까지 개최됩니다.",
-      "venue": "국립현대미술관서울관/서울",
+      "owner": "국립현대미술관 서울관에서 7월 24일부터 12월 6일까지 개최되는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여주는 중요한 전시입니다.",
+      "venue": "국립현대미술관 서울관",
       "area": "서울/수도권",
       "region": "서울/수도권",
-      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관서울관/서울 서울/수도권",
+      "mapQuery": "국립현대미술관 서울관《올해의 작가상 2026》 국립현대미술관 서울관 서울/수도권",
       "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32416",
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "국립현대미술관 서울관에서 '올해의 작가상 2026' 전시가 12월 6일까지 개최됩니다.",
+      "description": "국립현대미술관 서울관에서 7월 24일부터 12월 6일까지 개최되는 '올해의 작가상 2026' 전시는 한국 현대 미술의 현주소를 보여주는 중요한 전시입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -447,18 +447,47 @@
     },
     {
       "rank": 4,
+      "brand": "ARTMAP",
+      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
+      "owner": "수원시립미술관에서 2026년 2월 12일부터 2027년 3월 1일까지 열리는 소장품전 '블랑 블랙 파노라마'는 무료로 관람 가능하며, 웨이팅이 예상될 정도로 인기가 높습니다.",
+      "venue": "수원시립미술관",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 서울/수도권",
+      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 88,
+      "favorability": 72,
+      "description": "수원시립미술관에서 2026년 2월 12일부터 2027년 3월 1일까지 열리는 소장품전 '블랑 블랙 파노라마'는 무료로 관람 가능하며, 웨이팅이 예상될 정도로 인기가 높습니다.",
+      "signals": [
+        "공식/정보 출처",
+        "후기/뉴스 반응",
+        "무료/체험",
+        "웨이팅 가능성"
+      ],
+      "category": "exhibition_culture",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
+      "evidenceCount": 9,
+      "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 5,
       "brand": "Ddoing Exhibition Schedule",
       "title": "서도호 개인전 (예정)",
-      "owner": "국립현대미술관에서 열리는 서도호 개인전은 2027년 2월 9일까지 진행될 예정입니다.",
+      "owner": "국립현대미술관에서 2026년 8월 27일부터 2027년 2월 9일까지 예정된 서도호 개인전은 그의 독창적인 예술 세계를 조명하는 특별한 기회가 될 것입니다.",
       "venue": "국립현대미술관",
       "area": "서울/수도권",
       "region": "서울/수도권",
       "mapQuery": "서도호 개인전 (예정) 국립현대미술관 서울/수도권",
       "sourceUrl": "https://naver.me/GDa2FKhZ",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "국립현대미술관에서 열리는 서도호 개인전은 2027년 2월 9일까지 진행될 예정입니다.",
+      "noiz": 86,
+      "favorability": 70,
+      "description": "국립현대미술관에서 2026년 8월 27일부터 2027년 2월 9일까지 예정된 서도호 개인전은 그의 독창적인 예술 세계를 조명하는 특별한 기회가 될 것입니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -473,46 +502,19 @@
       "aiDescription": true
     },
     {
-      "rank": 5,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "조르조 모란디 개인전 (예정)",
-      "owner": "더현대 서울에서 열리는 조르조 모란디 개인전은 2027년 3월 1일까지 관람할 수 있습니다.",
-      "venue": "더현대 서울",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "조르조 모란디 개인전 (예정) 더현대 서울 서울/수도권",
-      "sourceUrl": "https://booking.naver.com/booking/5/bizes/1723507",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 90,
-      "favorability": 72,
-      "description": "더현대 서울에서 열리는 조르조 모란디 개인전은 2027년 3월 1일까지 관람할 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-11-21",
-      "end": "2027-03-01",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
       "rank": 6,
       "brand": "Ddoing Exhibition Schedule",
       "title": "데보라 터브빌: 분위기 (예정)",
-      "owner": "피크닉에서 2027년 2월 28일까지 열리는 데보라 터브빌의 '분위기' 전시를 만나볼 수 있습니다.",
+      "owner": "피크닉에서 2026년 10월 23일부터 2027년 2월 28일까지 열리는 데보라 터브빌의 '분위기' 전시는 현대 미술의 새로운 감각을 경험할 수 있는 기회를 제공합니다.",
       "venue": "피크닉",
       "area": "중구",
       "region": "중구",
       "mapQuery": "데보라 터브빌: 분위기 (예정) 피크닉 중구",
       "sourceUrl": "https://naver.me/GEXxGloU",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 84,
+      "noiz": 86,
       "favorability": 70,
-      "description": "피크닉에서 2027년 2월 28일까지 열리는 데보라 터브빌의 '분위기' 전시를 만나볼 수 있습니다.",
+      "description": "피크닉에서 2026년 10월 23일부터 2027년 2월 28일까지 열리는 데보라 터브빌의 '분위기' 전시는 현대 미술의 새로운 감각을 경험할 수 있는 기회를 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
@@ -520,7 +522,7 @@
       "category": "exhibition_culture",
       "start": "2026-10-23",
       "end": "2027-02-28",
-      "evidenceCount": 5,
+      "evidenceCount": 6,
       "reactionCount": 1,
       "confidence": "high",
       "seedFallback": false,
@@ -529,24 +531,24 @@
     {
       "rank": 7,
       "brand": "Ddoing Exhibition Schedule",
-      "title": "린 허쉬만 리슨 : 나의 [나]들",
-      "owner": "서울시립미술관 서소문 본관에서 2027년 2월 21일까지 열리는 린 허쉬만 리슨 전시입니다.",
-      "venue": "서울시립미술관 서소문 본관",
-      "area": "중구",
-      "region": "중구",
-      "mapQuery": "린 허쉬만 리슨 : 나의 [나]들 서울시립미술관 서소문 본관 중구",
-      "sourceUrl": "https://naver.me/GPdQtB11",
+      "title": "전이수: 우리 함께 제주도 전시",
+      "owner": "전이수 갤러리에서 연말까지 진행되는 '우리 함께' 전시는 작가의 따뜻한 시선과 메시지를 담아내며, 제주에서의 특별한 예술 경험을 선사합니다.",
+      "venue": "전이수 갤러리",
+      "area": "제주시",
+      "region": "제주시",
+      "mapQuery": "전이수: 우리 함께 제주도 전시 전이수 갤러리 제주시",
+      "sourceUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
-      "favorability": 70,
-      "description": "서울시립미술관 서소문 본관에서 2027년 2월 21일까지 열리는 린 허쉬만 리슨 전시입니다.",
+      "favorability": 68,
+      "description": "전이수 갤러리에서 연말까지 진행되는 '우리 함께' 전시는 작가의 따뜻한 시선과 메시지를 담아내며, 제주에서의 특별한 예술 경험을 선사합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
       "category": "exhibition_culture",
       "start": "",
-      "end": "2027-02-21",
+      "end": "2026-12-31",
       "evidenceCount": 9,
       "reactionCount": 1,
       "confidence": "high",
@@ -555,37 +557,9 @@
     },
     {
       "rank": 8,
-      "brand": "ARTMAP",
-      "title": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관",
-      "owner": "수원시립미술관에서 2027년 3월 1일까지 진행되는 2026 소장품전 '블랑 블랙 파노라마'를 무료로 관람할 수 있습니다.",
-      "venue": "수원시립미술관",
-      "area": "경기",
-      "region": "경기",
-      "mapQuery": "2026 소장품전《블랑 블랙 파노라마》 수원시립미술관 수원시립미술관 경기",
-      "sourceUrl": "https://art-map.co.kr/exhibition/view.php?idx=32127",
-      "sourceLabel": "공식/정보 출처",
-      "noiz": 88,
-      "favorability": 72,
-      "description": "수원시립미술관에서 2027년 3월 1일까지 진행되는 2026 소장품전 '블랑 블랙 파노라마'를 무료로 관람할 수 있습니다.",
-      "signals": [
-        "공식/정보 출처",
-        "후기/뉴스 반응",
-        "무료/체험"
-      ],
-      "category": "exhibition_culture",
-      "start": "2026-02-12",
-      "end": "2027-03-01",
-      "evidenceCount": 9,
-      "reactionCount": 1,
-      "confidence": "high",
-      "seedFallback": false,
-      "aiDescription": true
-    },
-    {
-      "rank": 9,
       "brand": "Popga Magazine",
       "title": "성수 K-브랜드 글로우위크 팝업",
-      "owner": "성수에서 열리는 2026 K-브랜드 글로우위크 팝업은 11월 29일까지 진행됩니다.",
+      "owner": "성수에서 11월 29일까지 진행되는 K-브랜드 글로우위크 팝업은 다양한 K-브랜드의 매력을 한자리에서 경험할 수 있는 공간 경험 중심의 행사입니다.",
       "venue": "성수",
       "area": "성수",
       "region": "성수",
@@ -594,7 +568,7 @@
       "sourceLabel": "공식/정보 출처",
       "noiz": 86,
       "favorability": 70,
-      "description": "성수에서 열리는 2026 K-브랜드 글로우위크 팝업은 11월 29일까지 진행됩니다.",
+      "description": "성수에서 11월 29일까지 진행되는 K-브랜드 글로우위크 팝업은 다양한 K-브랜드의 매력을 한자리에서 경험할 수 있는 공간 경험 중심의 행사입니다.",
       "signals": [
         "공식/정보 출처",
         "공간 경험"
@@ -609,28 +583,55 @@
       "aiDescription": true
     },
     {
-      "rank": 10,
-      "brand": "Ddoing Exhibition Schedule",
-      "title": "전이수: 우리 함께 제주도 전시 전이수 갤러리(제주시)",
-      "owner": "전이수 갤러리에서 열리는 전이수 작가의 '우리 함께' 전시는 12월 31일까지 관람 가능합니다.",
-      "venue": "전이수 갤러리",
-      "area": "서울/수도권",
-      "region": "서울/수도권",
-      "mapQuery": "전이수: 우리 함께 제주도 전시 전이수 갤러리(제주시) 전이수 갤러리 서울/수도권",
-      "sourceUrl": "https://m.booking.naver.com/booking/12/bizes/326379/items/7223299?area=ple&fbclid=PAVERFWAO3d2NleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadTVGM3kf22SCJ3pc1TaTlKFKkvjeEHv00LNmYfTTsGyt-zTt69Y27ycOre1g_aem_5-HcC22AYsrtbysxTRX-vA&lang=ko&startDate",
+      "rank": 9,
+      "brand": "Popga Magazine",
+      "title": "매거진 보러가기",
+      "owner": "성수에서 11월 6일부터 진행되는 이 팝업/브랜드 경험은 최신 트렌드를 반영한 매거진 콘텐츠와 함께 즐길 수 있는 기회를 제공합니다.",
+      "venue": "성수",
+      "area": "성수",
+      "region": "성수",
+      "mapQuery": "매거진 보러가기 성수 성수",
+      "sourceUrl": "https://popga.co.kr/content/magazine/524",
       "sourceLabel": "공식/정보 출처",
-      "noiz": 86,
-      "favorability": 68,
-      "description": "전이수 갤러리에서 열리는 전이수 작가의 '우리 함께' 전시는 12월 31일까지 관람 가능합니다.",
+      "noiz": 91,
+      "favorability": 70,
+      "description": "성수에서 11월 6일부터 진행되는 이 팝업/브랜드 경험은 최신 트렌드를 반영한 매거진 콘텐츠와 함께 즐길 수 있는 기회를 제공합니다.",
       "signals": [
         "공식/정보 출처",
         "후기/뉴스 반응"
       ],
-      "category": "exhibition_culture",
-      "start": "",
-      "end": "2026-12-31",
-      "evidenceCount": 9,
+      "category": "popup_brand",
+      "start": "2026-11-06",
+      "end": "",
+      "evidenceCount": 6,
       "reactionCount": 1,
+      "confidence": "high",
+      "seedFallback": false,
+      "aiDescription": true
+    },
+    {
+      "rank": 10,
+      "brand": "Popply",
+      "title": "팝업 등록하기",
+      "owner": "서울/수도권 전역에서 진행되는 다양한 팝업/브랜드 경험을 위한 등록 안내로, 팬덤과 굿즈에 관심 있는 이들에게 유용한 정보입니다.",
+      "venue": "서울/수도권",
+      "area": "서울/수도권",
+      "region": "서울/수도권",
+      "mapQuery": "팝업 등록하기 서울/수도권 서울/수도권",
+      "sourceUrl": "https://partner.popply.co.kr/biz/popups/register/",
+      "sourceLabel": "공식/정보 출처",
+      "noiz": 90,
+      "favorability": 72,
+      "description": "서울/수도권 전역에서 진행되는 다양한 팝업/브랜드 경험을 위한 등록 안내로, 팬덤과 굿즈에 관심 있는 이들에게 유용한 정보입니다.",
+      "signals": [
+        "공식/정보 출처",
+        "팬덤/굿즈"
+      ],
+      "category": "popup_brand",
+      "start": "",
+      "end": "",
+      "evidenceCount": 9,
+      "reactionCount": 0,
       "confidence": "high",
       "seedFallback": false,
       "aiDescription": true
